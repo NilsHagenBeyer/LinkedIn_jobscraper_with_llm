@@ -1,0 +1,34 @@
+jobid: 3698166029
+company: GRENKE AG
+job-title: CONTROLLING DATA ANALYST (M/W/D)
+header: Financial Services
+description: WAS WIR TUN UND WIE WIR ARBEITEN
+Die GRENKE AG ist mit rund 2.100 Mitarbeiter:innen in mehr als 30 Ländern „Möglichmacher“ für kleine und mittelständische Unternehmen. Wir schaffen schnelle und einfache Finanzierungslösungen, die unseren Kunden helfen, ihre Geschäftsideen in die Tat umzusetzen. Denn wir sind überzeugt davon, die Geschäftswelt bietet viele Chancen, wenn man den Mut hat diese umzusetzen. Und so agieren auch wir, im Umgang mit unseren Kunden aber auch in unseren starken Teams: Mit Persönlichkeit, unternehmerischem Denken, selbstbestimmt, gesundem Pragmatismus aber auch der nötigen Entschlossenheit. Das ist Teil unserer Unternehmenskultur – und die Möglichkeit beruflich und persönlich zu wachsen.
+WAS SIE ERWARTET
+// Betreuung des internen Deckungsbeitragsmodells und dessen Komponenten
+// Regelmäßige Überprüfung, Dokumentation und Weiterentwicklung des zugrundeliegenden statistischen Modells der Deckungsbeitragsrechnung
+// Analyse und Interpretation von Finanzdaten, um wichtige Erkenntnisse und Trends zu identifizieren
+// Durchführung von Standardanalysen und Aufbereitung komplexer Datensätze
+// Ansprechpartner:in vieler (internationaler) Fachbereiche in der Rolle als Spezialist:in für die Deckungsbeitragsrechnung
+// Adressatenspezifische Aufbereitung und Präsentation Ihrer Ergebnisse
+// Ein motiviertes Team mit der Leidenschaft, unsere Organisation weltweit zu unterstützen
+WAS SIE MITBRINGEN
+// Erfolgreich abgeschlossenes Studium der Betriebswirtschaftslehre mit Schwerpunkt in Controlling, Wirtschaftsinformatik oder Datenanalyse
+// Erste Berufserfahrung in der Datenanalyse im Controlling
+// Fundierte Kenntnisse in der Programmiersprache SQL sowie sehr gute MS-Office-Kenntnisse, insbesondere MS Excel
+// Ausgeprägte Zahlenaffinität und Verständnis für datentechnische Zusammenhänge und Datenaufbereitung
+// Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+// Teamgeist sowie die Bereitschaft, sich in neue Aufgabenstellungen und Systeme einzuarbeiten
+WAS WIR BIETEN
+// Ein vielfältiges Angebot an Fort- und Weiterbildungen, u.a. in Form von LinkedIn Learning
+// Unternehmensweites Networking durch unser Buddy-Programm und Explore Breaks
+// Flexible Arbeitszeitgestaltung und Möglichkeit zu Remote Work
+// 30 Urlaubstage im Jahr sowie 24.12 und 31.12. frei
+// Ein vielseitiges Angebot an Gesundheits- und Sportaktivitäten inklusive Arbeitgeberzuschuss sowie die Möglichkeit zum Bike-Leasing
+// Zuschuss zum Mittagessen in unserer Kantine sowie kostenlose Getränke wie Wasser, Tee und Kaffee
+// Einen attraktiven Standort mit unkomplizierter Verkehrsanbindung und kostenlosen Parkplätzen
+Haben wir Ihr Interesse geweckt? Dann senden Sie uns Ihre aussagekräftigen Bewerbungsunterlagen über unser Bewerbermanagement System.
+Besonders freuen wir uns auf Bewerbungen von Kandidat:innen, die zur Vielfalt der GRENKE beitragen. Vielfalt beziehen wir insbesondere auf die Dimensionen kulturelle oder soziale Herkunft, Religion, Alter, Behinderung, Geschlecht und sexuelle Identität.
+Falls Sie Fragen haben, wenden Sie sich bitte an Frau Julia Hager // jobs@grenke.de.
+In Bezug auf Ihre Bewerbung ist die GRENKE AG verpflichtet, bei der Verarbeitung Ihrer personenbezogenen Daten Artikel 88 der DSGVO in Verbindung mit
+26 Bundesdatenschutzgesetz und die geltenden Vorschriften über die Aufbewahrungsfrist Ihrer personenbezogenen Daten zu beachten.

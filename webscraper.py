@@ -16,6 +16,15 @@ def get_api_key():
         api_key = file.readline().strip()  # remove newline if present
     return api_key
 
+def read_file_content(name):
+    try:
+        with open(name, "r", encoding="utf8") as file:
+            content = file.read()
+        return content
+    except FileNotFoundError:
+        print("File not found.")
+        return ""
+
 def dump_text(text, filename="soup.txt"):
     #dump soupt into a text file called soup.txt
     with open(filename, 'w', encoding="utf-8") as file:
@@ -92,15 +101,15 @@ def get_job_content(job_url, job_ids):
 
     return job_conten_list
 
-def promt_llm(api_key):
+def promt_llm(api_key, system, vita, job_description):
 
     client = OpenAI(api_key=api_key)
     completion = client.chat.completions.create(
     model="gpt-3.5-turbo",
     messages=[
-        {"role": "system", "content": "You are a poetic assistant, skilled in explaining complex programming concepts with creative flair."},
+        {"role": "system", "content": system},
         
-        {"role": "user", "content": "Compose a poem that explains the concept of recursion in programming."}
+        {"role": "user", "content": "[[[YOU]]]\n{vita}\n\n[[[JOB]]]{job_description}"}
     ]
     )
 
@@ -117,4 +126,13 @@ if __name__=="__main__":
     #df.to_csv('linkedinjobs.csv', index=False, encoding='utf-8')
     #dump_dict_to_file(k, "dings.txt")
     api_key = get_api_key()
-    promt_llm(api_key)
+    vita = read_file_content("vita.txt")
+    
+    system = read_file_content("system.txt")
+    vita = read_file_content("vita.txt")
+    job_description = read_file_content("job_description.txt")
+
+    
+    
+    
+    promt_llm(api_key, system, vita, job_description)
