@@ -1,5 +1,29 @@
-jobid,company,job-title,header,description
-3802282754,Club of Code,(Senior) Python-Entwickler (m/w/d),IT Services and IT Consulting,"Du hast genaue Vorstellungen, wo du hinwillst oder bist noch unentschlossen? Wir bieten Dir eine Vielzahl von beruflichen Möglichkeiten in Festanstellung. Erreiche mit uns spannende Unternehmen und vereinbare noch heute Dein erstes Interview.
+jobid,company,job-title,Seniority level,Employment type,Job function,Industries,description
+3803190837,STARFACE GmbH,Software Tester mit Schwerpunkt Testautomatisierung (w/m/d),Mid-Senior level,Full-time,Management,"Technology, Information and Media","Wen suchen wir?
+Sie sind erfahren im Testen von Hardware und Software? Sie interessieren sich für die Testautomatisierung und die kontinuierliche Weiterentwicklung von Testmethoden und -prozessen? Im Rahmen der Erweiterung unseres QA-Teams suchen wir ab sofort in Vollzeit oder Teilzeit einen Software Tester mit Schwerpunkt Testautomatisierung (w/m/d).
+Ihr Aufgabengebiet
+Überprüfen von Eingangs- und Endekriterien (Definition-of-Ready und Definition-of-Done)
+Erstellen von Teststrategien basierend auf Projektanforderungen
+Testüberwachung und -steuerung mit Bezug auf Abweichung
+Ausführen von manuellen Hardware- und Softwaretests
+Erarbeitung von automatisierten Tests zur Ergänzung unserer Testabdeckung
+Ihr Profil
+Sie haben eine abgeschlossene Ausbildung als Fachinformatiker (w/m/d), ein abgeschlossenes Studium der Informatik, Wirtschaftsinformatik, oder eine vergleichbare Qualifikation
+Sie sind vertraut mit CI / CD Werkzeugen wie Jenkins und Git
+Sie besitzen gute Kenntnisse zu Frameworks wie Selenium oder Appium
+Sie haben sich Grundkenntnisse zu einer Programmiersprache wie Java, Python oder C# angeeignet
+Sie interessieren und informieren sich über neue Trends und Entwicklungen in Ihrem Fachbereich
+Ihr zukünftiger Arbeitsplatz
+Ein Unternehmen, das nicht nur vom Startup Charakter spricht, sondern ihn auch im täglichen Miteinander lebt
+Unternehmensweite Transparenz und abteilungsübergreifende Kommunikation – wir verstehen uns als ein großes STARFACE Team
+Flexible Arbeitszeiten, soweit keine Servicezeiten abzudecken sind
+Flache Hierarchien, die im täglichen Miteinander nicht zu spüren sind. Wir führen Kommunikation auf Augenhöhe
+Wir haben keinen Dresscode, wir wollen, dass Sie sich an Ihrem Arbeitsplatz wohlfühlen und authentisch sind
+Viel Gestaltungspielraum für Ideen und Lösungen
+Betriebliche Altersvorsorge, elektrisch höhenverstellbare Schreibtische, der obligatorische Obstkorb und Getränke verstehen sich von selbst
+Regelmäßige Firmenfeiern und gerne auch an Freitagen ein Bier nach Vier mit den Kollegen
+Mit Möglichkeit auf Mobile Office und jährlich bis zu 2 Wochen Arbeiten aus dem EU-Ausland"
+3802282754,Club of Code,(Senior) Python-Entwickler (m/w/d),Mid-Senior level,Full-time,Information Technology,IT Services and IT Consulting,"Du hast genaue Vorstellungen, wo du hinwillst oder bist noch unentschlossen? Wir bieten Dir eine Vielzahl von beruflichen Möglichkeiten in Festanstellung. Erreiche mit uns spannende Unternehmen und vereinbare noch heute Dein erstes Interview.
 Aufgaben
 Du arbeitest in einem dynamischen Team an einer Software-as-a-Service-Lösung (SaaS). Die Entwicklung erfolgt in einer Scrum-Umgebung. DevOps, CI/CD und Software-Tests sind zentraler Bestandteil der Qualitätssicherung.
 Das Frontend basiert auf JavaScript, React und Bootstrap mit SASS. Im Backend kommen Python, Django und PostgreSQL zum Einsatz. Die App läuft in Containern auf AWS.
@@ -11,37 +35,7 @@ Django, PostgreSQL, REST, Docker
 Sprachen
 Englisch (min. B2), Deutsch (vorteilhaft)
 Senior-Entwickler? Hier bist Du richtig!"
-3698166029,GRENKE AG,CONTROLLING DATA ANALYST (M/W/D),Financial Services,"WAS WIR TUN UND WIE WIR ARBEITEN
-Die GRENKE AG ist mit rund 2.100 Mitarbeiter:innen in mehr als 30 Ländern „Möglichmacher“ für kleine und mittelständische Unternehmen. Wir schaffen schnelle und einfache Finanzierungslösungen, die unseren Kunden helfen, ihre Geschäftsideen in die Tat umzusetzen. Denn wir sind überzeugt davon, die Geschäftswelt bietet viele Chancen, wenn man den Mut hat diese umzusetzen. Und so agieren auch wir, im Umgang mit unseren Kunden aber auch in unseren starken Teams: Mit Persönlichkeit, unternehmerischem Denken, selbstbestimmt, gesundem Pragmatismus aber auch der nötigen Entschlossenheit. Das ist Teil unserer Unternehmenskultur – und die Möglichkeit beruflich und persönlich zu wachsen.
-WAS SIE ERWARTET
-// Betreuung des internen Deckungsbeitragsmodells und dessen Komponenten
-// Regelmäßige Überprüfung, Dokumentation und Weiterentwicklung des zugrundeliegenden statistischen Modells der Deckungsbeitragsrechnung
-// Analyse und Interpretation von Finanzdaten, um wichtige Erkenntnisse und Trends zu identifizieren
-// Durchführung von Standardanalysen und Aufbereitung komplexer Datensätze
-// Ansprechpartner:in vieler (internationaler) Fachbereiche in der Rolle als Spezialist:in für die Deckungsbeitragsrechnung
-// Adressatenspezifische Aufbereitung und Präsentation Ihrer Ergebnisse
-// Ein motiviertes Team mit der Leidenschaft, unsere Organisation weltweit zu unterstützen
-WAS SIE MITBRINGEN
-// Erfolgreich abgeschlossenes Studium der Betriebswirtschaftslehre mit Schwerpunkt in Controlling, Wirtschaftsinformatik oder Datenanalyse
-// Erste Berufserfahrung in der Datenanalyse im Controlling
-// Fundierte Kenntnisse in der Programmiersprache SQL sowie sehr gute MS-Office-Kenntnisse, insbesondere MS Excel
-// Ausgeprägte Zahlenaffinität und Verständnis für datentechnische Zusammenhänge und Datenaufbereitung
-// Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
-// Teamgeist sowie die Bereitschaft, sich in neue Aufgabenstellungen und Systeme einzuarbeiten
-WAS WIR BIETEN
-// Ein vielfältiges Angebot an Fort- und Weiterbildungen, u.a. in Form von LinkedIn Learning
-// Unternehmensweites Networking durch unser Buddy-Programm und Explore Breaks
-// Flexible Arbeitszeitgestaltung und Möglichkeit zu Remote Work
-// 30 Urlaubstage im Jahr sowie 24.12 und 31.12. frei
-// Ein vielseitiges Angebot an Gesundheits- und Sportaktivitäten inklusive Arbeitgeberzuschuss sowie die Möglichkeit zum Bike-Leasing
-// Zuschuss zum Mittagessen in unserer Kantine sowie kostenlose Getränke wie Wasser, Tee und Kaffee
-// Einen attraktiven Standort mit unkomplizierter Verkehrsanbindung und kostenlosen Parkplätzen
-Haben wir Ihr Interesse geweckt? Dann senden Sie uns Ihre aussagekräftigen Bewerbungsunterlagen über unser Bewerbermanagement System.
-Besonders freuen wir uns auf Bewerbungen von Kandidat:innen, die zur Vielfalt der GRENKE beitragen. Vielfalt beziehen wir insbesondere auf die Dimensionen kulturelle oder soziale Herkunft, Religion, Alter, Behinderung, Geschlecht und sexuelle Identität.
-Falls Sie Fragen haben, wenden Sie sich bitte an Frau Julia Hager // jobs@grenke.de.
-In Bezug auf Ihre Bewerbung ist die GRENKE AG verpflichtet, bei der Verarbeitung Ihrer personenbezogenen Daten Artikel 88 der DSGVO in Verbindung mit
-26 Bundesdatenschutzgesetz und die geltenden Vorschriften über die Aufbewahrungsfrist Ihrer personenbezogenen Daten zu beachten."
-3800683519,DIS AG,Software-Developer (m/w/d) - Hybridanteil,Human Resources Services,"Sie verbinden Motivation mit Expertise und sind der Fachexperte (m/w/d) in IT-Fragen? Sie suchen nach einer neuen Herausforderung im Berufsleben und glänzen mit Persönlichkeit und Leidenschaft für Ihren Job? Wir als DIS AG suchen Sie als Experte (m/w/d) in der Entwicklung im Raum Baden-Baden!
+3800683519,DIS AG,Software-Developer (m/w/d) - Hybridanteil,Entry level,Full-time,Engineering and Information Technology,Human Resources Services,"Sie verbinden Motivation mit Expertise und sind der Fachexperte (m/w/d) in IT-Fragen? Sie suchen nach einer neuen Herausforderung im Berufsleben und glänzen mit Persönlichkeit und Leidenschaft für Ihren Job? Wir als DIS AG suchen Sie als Experte (m/w/d) in der Entwicklung im Raum Baden-Baden!
 Ihre Aufgaben
 Entwickeln in den Programmiersprachen Java / C# Backend- und Frontend-Komponenten
 Nutzung von moderne Frameworks und Tools wie z.B. Spring (Java), Git, Maven und Jenkins
@@ -72,7 +66,7 @@ IT
 Frühlingstraße 10
 76131 Karlsruhe
 Telefon: +49 0721 9335841"
-3798848788,Club of Code,JavaScript-/TypeScript-Entwickler (m/w/d),IT Services and IT Consulting,"Du hast genaue Vorstellungen, wo du hinwillst oder bist noch unentschlossen? Wir bieten Dir eine Vielzahl von beruflichen Möglichkeiten in Festanstellung. Erreiche mit uns spannende Unternehmen und vereinbare noch heute Dein erstes Interview.
+3798848788,Club of Code,JavaScript-/TypeScript-Entwickler (m/w/d),Entry level,Full-time,Information Technology,IT Services and IT Consulting,"Du hast genaue Vorstellungen, wo du hinwillst oder bist noch unentschlossen? Wir bieten Dir eine Vielzahl von beruflichen Möglichkeiten in Festanstellung. Erreiche mit uns spannende Unternehmen und vereinbare noch heute Dein erstes Interview.
 Aufgaben
 Du hast die Möglichkeit in einer Vielzahl von Aufgabengebieten tätig zu sein:
 Entwicklung an einem eigenen Produkt oder in verschiedenen Projekten
@@ -99,62 +93,7 @@ Jobticket
 Weiterbildung
 bestmögliche Hardware-Ausstattung
 Ob Junior- oder Senior-Entwickler - hier bist Du richtig!"
-3740312640,Consulting4IT GmbH,Softwareentwickler (m/w/d),IT Services and IT Consulting,"Über Uns
-Wir sind Systemspezialist im Bereich Enterprise Service Management und unterstützen unsere Kunden hier mit einem klaren Fokus auf die Produkte und Lösungen unsere Partner Matrix42, Nexthink und Varonis.
-Wir suchen Menschen mit Leidenschaft, Ideen und der Motivation, etwas zu bewegen - authentische Persönlichkeiten, die Spaß daran haben, sich im Team zu entfalten und unsere Philosophie zu leben.
-Wen wir suchen
-Zum nächstmöglichen Zeitpunkt suchen wir Unterstützung in unserem Produkthaus für die Entwicklung unserer Eigenprodukte.
-Du bist vertraut mit C# und hast schon mal in der .NET-Welt vorbeigeschaut? Komm zu uns! Wir freuen uns auf enthusiastische Code-Begeisterte, die gemeinsam mit uns digitale Abenteuer erleben möchten.
-Dein Profil
-Was Du Mitbringen Solltest
-Neugier und den Drang, ständig Neues zu lernen
-Liebe zu sauberem Code und eleganten .NET Web-Oberflächen
-Ein Auge für Design, denn du wirst mit WPF UI arbeiten
-Teamgeist, denn bei uns wird im Team groß gedacht
-Eigeninitiative und einen strukturierten Arbeitsstil, um mit uns durchzustarten
-Bonus-Punkte Gibt's Für
-Kenntnisse in WEB UI Frameworks wie Angular, React o.ä. Erfahrung mit cloudfähigen Web Applikationen
-DevOps oder Github im Lebenslauf
-Aber Hey, Keine Sorge
-Du musst nicht alles können, bei uns kannst du auch hineinwachsen. Wir glauben an Potenzial und Leidenschaft!
-Was wir dir bieten
-Ein dynamisches Unternehmen, das ständig wächst und blüht. Eine familiäre Atmosphäre, wo jeder deinen Namen kennt. Weiterbildungsmöglichkeiten, die dich zum nächsten Level bringen. Einen extra Versicherungsschutz, weil uns deine Sicherheit am Herzen liegt
-Flexibilität in Arbeitszeit und -ort, weil Work-Life-Balance kein Fremdwort für uns ist
-Ein Team, das dich bei jeder Herausforderung unterstützt und mit dir feiert
-Bist du bereit, mit uns Geschichte zu schreiben?
-Dann schick uns deine Bewerbung schneller als ein Console.WriteLine(""Hello World!""); ausgeführt wird!
-Per E-Mail an bewerbung@consulting4it.de oder sehr gerne auch direkt über unsere Webseite.
-Bei Fragen sind wir unter der Telefonnummer 07243 2058 806 erreichbar.
-Ergänzende Informationen
-Anforderungen an den Bewerber:
-Grundkenntnisse: JavaScript-Framework Angular, JavaScript-Framework React, Versionsverwaltungsprogramm GitHub
-Erweiterte Kenntnisse: Programmiersprache C#, Web-Applikationen (Entwicklung, Programmierung), Programmieren"
-3770785337,dm-drogerie markt Deutschland,Data Analyst Logistik (w/m/d),Retail,"Die zentrale Logistik plant und steuert die Bestell- und Lieferprozesse vom Industriepartner bis hin zum Endkunden. Um das komplexe Netzwerk abzubilden, zu optimieren und Prozesse zu automatisieren sind datengetriebene UseCases von entscheidender Bedeutung. In einem Projektteam arbeiten wir daran den analytischen Toolstack für die Logistik auszubauen, um eine schnelle Entscheidungsunterstützung zu bieten und moderne analytische Verfahren anwenden zu können.
-Sind Sie bereit, mit uns die analytische Zukunft der zentralen Logistik von dm zu gestalten? Dann bewerben Sie sich jetzt!
-Ihre Aufgaben
-Fachliche Anwendungsbetreuung der logistischen Planungs- und Modellierungssoftware SCS (Siemens Supply Chain Suite) 
-Versorgung und Mitwirkung bei der Weiterentwicklung der Daten-Schnittstellen der SCS 
-Betrieb und Weiterentwicklung von bestehenden logistischen UseCases 
-Anforderungserhebung, Strukturierung und Bewertung potenzieller Anwendungsfälle in Zusammenarbeit mit dem Fach- und IT- Bereich 
-Vorantreiben und Realisieren von datengetriebenen Projekten gemeinsam mit anderen Unternehmensbereichen (z.B. Netzwerkplanung) 
-Multiplikation von Anwendungsfällen innerhalb der dm-Logistik international 
-Das bringen Sie mit
-Erfolgreich abgeschlossenes Hochschulstudium der Wirtschaftsinformatik, Wirtschaftsingenieurwesen, Wirtschaftsmathematik oder eine vergleichbare Qualifikation 
-Erste Berührungspunkte in den Bereichen quantitative Logistik, Supply Chain Management oder Operations Research im Rahmen Ihres Studiums oder entsprechende Berufserfahrung
-Grundverständnis der Funktionsweise von Datenbanken und Datenstrukturen 
-Idealerweise Erfahrungen mit Supply Chain Planungsverfahren 
-Kenntnisse in einer Programmiersprache aus dem Data-Analytics-Umfeld (z.B. SQL, Python, R) von Vorteil 
-Gute Deutschkenntnisse (C 1 Level)
-Schnelle Auffassungsgabe und Freude am Gestalten von analytischen Lösungsansätzen 
-Das bieten wir Ihnen
-Attraktive Arbeitsbedingungen: Mit flexiblen Arbeitszeiten und überwiegend mobilem Arbeiten, einer 37,5 Std.-Woche sowie 30 Urlaubstagen, ermöglichen wir eine ausgewogene Work-Life-Balance. 
-Moderne Unternehmenszentrale: Helle Büroflächen, höhenverstellbare Tische, neueste Technik und ein Mitarbeiterrestaurant – unser dialogicum bietet ideale Bedingungen für Ihren Arbeitstag dank innovativer Ausstattung und intelligenter Konzepte. 
-Optimale Verkehrsanbindung: In direkter Nähe zur Autobahn, einer S-Bahn-Haltestelle und dem DB-Bahnhof Durlach gelegen, sind wir mit PKW und Bahn sehr gut erreichbar. Zudem gibt es ein kostenloses Parkhaus und eine Fahrradgarage, jeweils mit Elektro-Ladestationen. 
-Dialogische Unternehmenskultur: Unsere Arbeitsgemeinschaft ist geprägt durch den gegenseitigen Austausch auf Augenhöhe, Dynamik und flache Hierarchien. Ein zentraler Baustein unserer Zusammenarbeitskultur ist die Eigenverantwortung. 
-Mitgestaltung und Entwicklung: Bei uns kann sich jeder einbringen und dazu beitragen, Themen voranzutreiben. Zur fachlichen und persönlichen Entwicklung bieten wir vielfältige Weiterbildungsangebote an. 
-Weitere Vorteile und Zusatzleistungen: Profitieren Sie von weiteren Leistungen wie Mitarbeiterrabatt, Fahrrad (Jobrad)- und IT-Leasing, Urlaubs- und Weihnachtsgeld sowie betrieblicher Altersvorsorge. 
-Bitte beachten Sie, dass wir zur Bearbeitung Ihrer Bewerbung die Angabe Ihrer Gehaltsvorstellung und Ihres frühestmöglichen Eintrittstermins benötigen."
-3730573805,ercas Software Solutions GmbH,Software Developer (m/w/d) Failsafe Systems,Software Development,"Ihre Aufgaben
+3730573805,ercas Software Solutions GmbH,Software Developer (m/w/d) Failsafe Systems,Mid-Senior level,Full-time,Engineering and Information Technology,Software Development,"Ihre Aufgaben
 Für die Weiterentwicklung des Produktportfolios im Bereich fehlersichere Systeme“ suchen wir erfahrene SW-Entwickler mit „Functional Safety“ Hintergrundwissen.
 Selbstständige Implementierung und Test der erforderlichen Softwaremodule
 Einhaltung von prozesskonformen Entwicklungsrichtlinien
@@ -180,7 +119,7 @@ Flexible Arbeitszeiten
 Firmenevents und Weiterbildungsmöglichkeiten
 Über uns
 Durch die ercas Software Solutions GmbH werden Ihre Talente gefordert und gefördert. Als familienfreundliches Unternehmen mit flachen Hierarchien bieten wir unseren Mitarbeitern die Möglichkeit, sich an Unternehmensentscheidungen zu beteiligen. Seit nun mehr als 20 Jahren überzeugen wir mit Qualität, Sicherheit und Effizienz. Werden auch Sie ein Teil unseres Teams und meistern mit uns gemeinsam spannende Herausforderungen."
-3799756984,Akkodis,Generative KI-Berater (m/w/d) - Direktvermittlung - hybrides Arbeiten (Remote & Präsenz),IT Services and IT Consulting,"Sie haben fundierte Kenntnisse in der generative Künstliche Intelligenz? Sie suchen eine neue Herausforderung in einer unbefristeten Festanstellung?
+3799756984,Akkodis,Generative KI-Berater (m/w/d) - Direktvermittlung - hybrides Arbeiten (Remote & Präsenz),Mid-Senior level,Full-time,"Consulting, Information Technology, and Sales",IT Services and IT Consulting,"Sie haben fundierte Kenntnisse in der generative Künstliche Intelligenz? Sie suchen eine neue Herausforderung in einer unbefristeten Festanstellung?
 Dann sind Sie als Generative KI-Berater (m/w/d) direkt bei unserem renommierten Kunden in der IT-Dienstleistung am Standort Karlsruhe ideal.
 Ihre Aufgaben
 Erkennung, Beurteilung, Realisierung und Einschätzung der Verwendung von generativer AI für Abläufe im Produktmanagement
@@ -211,5 +150,91 @@ Engineering
 Havellandstraße 6-14
 68309 Mannheim
 Telefon: +49 621 72827124"
-3804309507,,,,
-3737528987,,,,
+3806665552,Preis Ingenieurbüro,embedded Software Entwickler (m/w/d),,Full-time,,,"Preis Ingenieurbüro GmbH, aus einem badischen Familienunternehmen hervorgegangen, ist seit 2022 als Tochtergesellschaft Teil der Schmitz Cargobull AG. Als starker Entwicklungspartner in der Elektronik- und Softwareentwicklung treiben wir die Digitalisierung der Trailer maßgeblich mit voran. Werde Teil unseres 15-köpfigen Teams und gestalte die Logistik von morgen!
+Aufgaben
+Du schreibst Software für Steuergeräte in Sattelaufliegern und machst diese damit fit für die digitalisierte und automatisierte Logistik von morgen.
+Dazu entwickelst Du die Software-Architektur, entwirfst Algorithmen und setzt sie in der Programmiersprache C und C++ um.
+Du bist nah dran an den Hardware-Entwicklern im Raum nebenan, liebst hardwarenahe Software, verstehst und diskutierst auch gerne Schaltungstechnik und findest mit ihnen gemeinsam das ideale Design.
+Du testest im Team die Software Deiner Kollegen, wie sie auch Deine Software testen, Du führst mit ihnen Reviews und weitere qualitätssichernde Maßnahmen durch, um Software zu erzeugen, die dem Qualitätsanspruch der Automobilbranche gerecht wird. Dabei kannst Du auf jahrelange Erfahrungen des gesamten Teams zurückgreifen.
+Zu Inbetriebnahme- und Diagnosezwecken entwickelst Du Software-Tools für den PC mit z.B. C++, C#, oder Python, um die Steuergeräte auf dem Schreibtisch diagnostizieren und testen zu können.
+Dich fasziniert die E-Mobilität und deshalb begleitest Du die Elektrifizierung von Sattelaufliegern mit Entwicklung neuer Komponenten mit Deinen Softwarelösungen. So lieferst Du direkt einen nachhaltigen Beitrag zur CO2 Reduktion in der Logistik.
+Profil
+Du verfügst über ein mit gutem Erfolg abgeschlossenes (Fach-) Hochschulstudium im Bereich Elektrotechnik, Informatik oder ähnlichen Studiengängen.
+Du willst etwas bewegen, was man anfassen und erleben kann.
+Du hast bereits erste Erfahrung in der Software-Entwicklung, idealerweise im Automotive-Umfeld, gesammelt und brennst für neue Technologien genau wie wir.
+Du tauchst gerne in komplexe Themen ein und willst diese langfristig mitgestalten.
+Du hast Freude an innovativen Produkten, liebst abwechslungsreiche Aufgaben und das am besten als Teil eines Teams von Experten.
+Du sprichst und schreibst fließend Deutsch und Englisch.
+Wir bieten
+Flexible Arbeitszeit & mobiles Arbeiten in einer 40 Stunden Woche
+Individuelle Entwicklungsmöglichkeiten
+Atmosphäre eines Familienunternehmens mit den Vorteilen und Sicherheiten eines Konzerns
+flache Hierarchie und kurze Entscheidungswege
+Betriebliche Altersvorsorge
+Jobrad
+Mitgestalten statt mitarbeiten
+Regelmäßige Teamevents"
+3808634450,Vesterling AG,"Softwaretester Testautomatisierung | .NET / C#, Python, Linux, VMware | Inhouse, Home-Office (mwd)",Entry level,Full-time,Engineering and Information Technology,Staffing and Recruiting,"Unser Klient ist ein mittelständisches, deutsches und stetig wachsendes Unternehmen im Bereich der IT Produktsicherheit. Als innovativer Technologieführer ist er auch stark international tätig und in zahlreichen Branchen aufgestellt. Seine anspruchsvollen Lösungen lassen sich in Kundenanwendungen weltweit integrieren und wurden bereits ausgezeichnet.
+Kommen Sie an Bord eines nachweislich innovativen, deutschen Unternehmens - unser stetig wachsender mittelständischer Klient unterstützt Sie umfassend. Abwechslung garantiert!
+Ort
+Karlsruhe (Home Office bis 40%)
+Vertragsart
+Unbefristete Festanstellung durch unseren Klienten
+Ihre Aufgaben
+Als Softwaretester Testautomatisierung verantworten Sie die Tests von Software-Produkten im Bereich Schutz- und Lizenzierungstechnologie und arbeiten dabei in einem agilen Entwicklungsumfeld.
+Dabei analysieren Sie Produktanforderungen und wählen geeignete Methoden und Verfahren für die Tests aus mit dem Ziel, den Automatisierungsgrad der Software-Tests zu erhöhen.
+Die Entwicklung, Beschreibung und Durchführung von Testfällen für funktionale und nicht-funktionale Anforderungen zählt ebenfalls zu Ihren Aufgaben.
+Sie verantworten auch die Analyse von Testergebnissen und die Testberichte.
+Für Ihre Arbeit nutzen Sie moderne Test-Frameworks wie beispielsweise Selenium und Programmiersprachen wie .NET / C# oder Python.
+Ihr Profil
+Mehrjährige Erfahrung im Software-Testing mit Schwerpunkt auf automatisierten Software-Tests
+Erfahrung im Testen von Software unter verschiedenen Betriebssystemen wünschenswert
+Kenntnisse in einer Programmiersprache wie beispielsweise .NET / C# und/oder Python
+Erfahrung mit dem Betriebssystem Linux, VMware und in der Netzwerktechnik
+Gerne eine ISTQB-Zertifizierung, diese ist jedoch ausdrücklich kein Muss
+Gute Kenntnisse in Deutsch und Englisch
+Machen Sie Ihren nächsten Karriereschritt und bewerben Sie sich gleich hier oder senden Sie uns Ihre vollständigen Bewerbungsunterlagen mit Angabe der Referenznummer 21012, Ihrer Gehaltsvorstellungen sowie ggf. Ihrer Reise- und Umzugsbereitschaft
+Vesterling
+Vesterling ist seit über 25 Jahren einer der führenden Personaldienstleister im Bereich Technologie. Schwerpunkte der Tätigkeit sind das Recruiting von Experten bis hin zum Executive Search auf Vorstandsebene, die Durchführung von offenen und für Firmen maßgeschneiderten Trainings, Career Services sowie das Outplacement. Unsere Consultants, selbst erfahrene Diplom-Informatiker und Diplom-Ingenieure, beraten Sie in allen Karrierefragen und unterstützen Sie bei der Auswahl geeigneter Positionen."
+3737528987,PIONIX GmbH,Softwareentwickler (m/w/d),Entry level,Full-time,Information Technology,Renewable Energy Semiconductor Manufacturing,"Deine Aufgaben Sind
+Design und Implementierung einer
+erweiterbaren Softwareplattform für
+Ladestationen
+Entwurf und Implementierung von (offenen)
+Protokollen wie z.B OCPP, ISO15118 und
+EEBus
+Erarbeiten von neuen Softwaremodulen und
+Ursachenanalyse in Fehlerfällen
+Betreuung von weiteren (internen/externen)
+Projekt-Stakeholdern im Entwicklungsumfeld
+3rd Level Support und Wartung der betreten
+Software
+Ergänzende Informationen
+Anforderungen an den Bewerber:
+Erweiterte Kenntnisse: Programmieren, Betriebssystem LINUX, Programmiersprache C++, Programmiersprache Python"
+3726201028,SMIGHT GmbH,Hardware/Electronics Engineer (m/w/d),Mid-Senior level,Full-time,Engineering and Information Technology,IT Services and IT Consulting,"Deine Aufgaben
+Gemeinsam im Team entwickelst du neue Serien unserer IoT Sensoren und Gateways 
+Du sorgst durch Erfüllung von Anforderungen und Zeitvorgaben für die anforderungsgerechte Entwicklung verschiedener Serien in einzelnen Zyklen 
+Du evaluierst neue Lösungsansätze und verprobst und simulierst jeweils die Technologie dieser Ansätze entwicklungsbegleitend. Dazu stellen wir dir für Tests und Messungen unser eigenes Labor zur Verfügung
+Du entwirfst und baust Prototypen zum Funktionsnachweis neuer Konzepte und Ideen. Du arbeitest zur Optimierung und Verbesserung von Entwicklungsprozessen eng mit unseren Partnern und Lieferanten zusammen
+Du dokumentierst die Ergebnisse und stellst einen Wissenstransfer an die beteiligten Kolleg*innen aus Softwareentwicklern und Embedded Engineers sicher
+Dein Profil
+Du hast ein abgeschlossenes Studium des Ingenieurwesens (Elektrotechnik) oder vergleichbares Wissen in der Praxis erworben 
+Du hast grundlegende Kenntnisse im Design von elektronischen Schaltungen und den entsprechenden EDA-Tools (nice-to-have: Kicad) sowie in der dazugehörigen Simulation 
+Du hast fundiertes Wissen in der CAD-Konstruktion 
+Du bist geübt im Umgang mit Messgeräten inkl. der Berücksichtigung von EMV-Aspekten und handwerklich geschickt 
+Du hast gute Programmierkenntnisse in mindestens einer Skript- oder Programmiersprache (z. B. Python) und eine hohe IT-Affinität 
+Du verfügst über Deutschkenntnisse auf mindestens B2-Niveau in Wort und Schrift
+Das bieten wir dir
+Ein flexibles hybrides Arbeitsmodell: 2 Tage in unserem modernen Büro in Karlsruhe, Rest frei wählbar 
+Zuschuss zu deinen Büromöbeln im Homeoffice 
+Möglichkeit zur individuellen Einteilung deiner Arbeitszeit (40h/Woche) 
+Klare Aufgaben und transparente Entwicklungsmöglichkeiten durch Positionsbeschreibungen mit OKR 
+Offener und konstruktiver Austausch im Team durch strukturierte Teamtage vor Ort 
+Benefits wie Mobilitätsbudget, Rabatt für ÖPNV Monatsticket oder Jobrad 
+Faires Gehalt plus einer Erfolgsbeteiligung, sowie 30 Tage Urlaub 
+Zuschüsse für deine Altersvorsorge und vermögenswirksame Leistungen
+Über uns
+Wir leisten bei SMIGHT jeden Tag einen Beitrag zur Energiewende, in dem wir mit unserer IoT-Lösung SMIGHT Grid2 die Digitalisierung der Verteilnetze voranbringen. Netzbetreibern wird mit der Anwendung unserer Echtzeitdaten ein detaillierter Blick ins Stromnetz ermöglicht und damit der Weg für intelligente Netze, Elektromobilität und die Energiewende geebnet.
+Unser Team aus 30 interdisziplinär arbeitenden Profis mit verschiedenen Schwerpunkten treibt dieses gemeinsame Ziel jeden Tag an, Bestleistung zu bringen. Wir fördern uns gegenseitig und haben durch unsere transparente Kommunikation alle eine klare Vorstellung davon, wie wir uns weiterentwickeln. Teamgeist, Spaß und Kreativität sind fester Bestandteil unserer Unternehmenskultur.
+Mit unserem Kundenbestand wächst auch unser Team. Neugierig geworden? Wenn ja, dann bewirb dich jetzt und werde Teil von SMIGHT!"

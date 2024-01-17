@@ -8,6 +8,7 @@ from openai import OpenAI
 
 headers={"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"}
 target_url='https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Python+(Programmiersprache)&location=Karlsruhe%2C+Baden-Württemberg%2C+Germany&geoId=106523486&start={}'
+#target_url='https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=schreiner&location=Karlsruhe%2C+Baden-Württemberg%2C+Germany&geoId=106523486&start={}'
 
 job_url='https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/{}'
 
@@ -55,11 +56,11 @@ def get_job_ids(target_url):
     return job_id_list
 
 def get_job_content(job_url, job_ids):
-    job_dic={}
     job_conten_list=[]
     c = 0
     for job in job_ids:
         print(job)
+        job_dic={}
         resp = requests.get(job_url.format(job))
         soup=BeautifulSoup(resp.text,'html.parser')
 
@@ -83,7 +84,7 @@ def get_job_content(job_url, job_ids):
             for item in items:
                 header = item.find("h3", {"class": "description__job-criteria-subheader"}).get_text(strip=True)
                 value = item.find("span", {"class": "description__job-criteria-text"}).get_text(strip=True)
-                job_dic["header"]=value
+                job_dic[header]=value
         except:
             job_dic["criteria"]=None
         # description
@@ -91,15 +92,47 @@ def get_job_content(job_url, job_ids):
             text = soup.find("div",{"class":"description__text description__text--rich"}).get_text(separator="\n").replace("Show more", "").replace("Show less", "").lstrip('\n ').rstrip('\n ')
             job_dic["description"]=text
         except:
-            print("No description found")
             job_dic["description"]=None
-        job_conten_list.append(job_dic)
-        job_dic={}
+        
+        if job_dic["description"] == None:
+            continue
+        
+        job_conten_list.append(job_dic)        
+        
         c+=1
         if c>=10:
             break
 
     return job_conten_list
+
+def filter_jobs(job_content_list, constraints):
+    filtered_jobs=[]
+    for job in job_content_list:        
+        for c_key, c_value in constraints.items():
+            
+            # Filter options
+            if c_key in job.keys():
+                if type(c_value) == list:
+                    if not job[c_key] in c_value:
+                        print(f"Constraint not met! Constraint: {c_key} {c_value}   Job: {job[c_key]}")
+                        break
+                elif not job[c_key] == c_value:
+                    print(f"Constraint not met! Constraint: {c_key} {c_value}   Job: {job[c_key]}")
+                    break
+                #continue
+            # Fixed criteria
+            if job["description"] == None:
+                print("No description found")
+                break
+            if job["company"] == None:
+                print("No company found")
+                break
+            
+            
+            filtered_jobs.append(job)
+    print(f"From {len(job_content_list)} removed {len(job_content_list)-len(filtered_jobs)} jobs.")
+    return filtered_jobs
+
 
 def promt_llm(api_key, system, vita, job_description):
 
@@ -109,30 +142,49 @@ def promt_llm(api_key, system, vita, job_description):
     messages=[
         {"role": "system", "content": system},
         
-        {"role": "user", "content": "[[[YOU]]]\n{vita}\n\n[[[JOB]]]{job_description}"}
+        {"role": "user", "content": f"[[[YOU]]]\n{vita}\n\n[[[JOB]]]\n{job_description}"}
     ]
     )
 
     print(completion.choices[0].message.content)
 
+def simple_search():
+    job_ids=get_job_ids(target_url)
+    k=get_job_content(job_url, job_ids)
+    api_key = get_api_key()
+    
+    system = read_file_content("system.txt")
+    vita = read_file_content("vita.txt")
 
+    for job_description in k:
+        if not job_description["company"] == None:
+            print(job_description["jobid"])
+            print(job_description["company"])
+            print(job_description["job-title"])
+            print()
+            promt_llm(api_key, system, vita, job_description)
+            print()
 
 
 
 if __name__=="__main__":
-    #job_ids=get_job_ids(target_url)
-    #k=get_job_content(job_url, job_ids)
-    #df = pd.DataFrame(k)
-    #df.to_csv('linkedinjobs.csv', index=False, encoding='utf-8')
-    #dump_dict_to_file(k, "dings.txt")
-    api_key = get_api_key()
-    vita = read_file_content("vita.txt")
+    job_ids=get_job_ids(target_url)
+    k=get_job_content(job_url, job_ids)
     
-    system = read_file_content("system.txt")
-    vita = read_file_content("vita.txt")
-    job_description = read_file_content("job_description.txt")
+    filtered = filter_jobs(k, {"Seniority level": ["Associate", "Entry level"]})
+    
+    df = pd.DataFrame(k)
+    df.to_csv('linkedinjobs.csv', index=False, encoding='utf-8')
+    dump_dict_to_file(k, "dings.txt")
 
     
     
-    
-    promt_llm(api_key, system, vita, job_description)
+    '''api_key = get_api_key()
+    vita = read_file_content("vita.txt")
+    print(vita)
+    system = read_file_content("system.txt")
+    vita = read_file_content("vita.txt")
+    job_description = read_file_content("job_description.txt")    
+    promt_llm(api_key, system, vita, job_description)'''
+
+    #simple_search()
