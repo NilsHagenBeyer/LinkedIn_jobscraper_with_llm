@@ -1,0 +1,728 @@
+3698166029
+GRENKE AG
+CONTROLLING DATA ANALYST (M/W/D)
+
+WAS WIR TUN UND WIE WIR ARBEITEN
+Die GRENKE AG ist mit rund 2.100 Mitarbeiter:innen in mehr als 30 Ländern „Möglichmacher“ für kleine und mittelständische Unternehmen. Wir schaffen schnelle und einfache Finanzierungslösungen, die unseren Kunden helfen, ihre Geschäftsideen in die Tat umzusetzen. Denn wir sind überzeugt davon, die Geschäftswelt bietet viele Chancen, wenn man den Mut hat diese umzusetzen. Und so agieren auch wir, im Umgang mit unseren Kunden aber auch in unseren starken Teams: Mit Persönlichkeit, unternehmerischem Denken, selbstbestimmt, gesundem Pragmatismus aber auch der nötigen Entschlossenheit. Das ist Teil unserer Unternehmenskultur – und die Möglichkeit beruflich und persönlich zu wachsen.
+WAS SIE ERWARTET
+// Betreuung des internen Deckungsbeitragsmodells und dessen Komponenten
+// Regelmäßige Überprüfung, Dokumentation und Weiterentwicklung des zugrundeliegenden statistischen Modells der Deckungsbeitragsrechnung
+// Analyse und Interpretation von Finanzdaten, um wichtige Erkenntnisse und Trends zu identifizieren
+// Durchführung von Standardanalysen und Aufbereitung komplexer Datensätze
+// Ansprechpartner:in vieler (internationaler) Fachbereiche in der Rolle als Spezialist:in für die Deckungsbeitragsrechnung
+// Adressatenspezifische Aufbereitung und Präsentation Ihrer Ergebnisse
+// Ein motiviertes Team mit der Leidenschaft, unsere Organisation weltweit zu unterstützen
+WAS SIE MITBRINGEN
+// Erfolgreich abgeschlossenes Studium der Betriebswirtschaftslehre mit Schwerpunkt in Controlling, Wirtschaftsinformatik oder Datenanalyse
+// Erste Berufserfahrung in der Datenanalyse im Controlling
+// Fundierte Kenntnisse in der Programmiersprache SQL sowie sehr gute MS-Office-Kenntnisse, insbesondere MS Excel
+// Ausgeprägte Zahlenaffinität und Verständnis für datentechnische Zusammenhänge und Datenaufbereitung
+// Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+// Teamgeist sowie die Bereitschaft, sich in neue Aufgabenstellungen und Systeme einzuarbeiten
+WAS WIR BIETEN
+// Ein vielfältiges Angebot an Fort- und Weiterbildungen, u.a. in Form von LinkedIn Learning
+// Unternehmensweites Networking durch unser Buddy-Programm und Explore Breaks
+// Flexible Arbeitszeitgestaltung und Möglichkeit zu Remote Work
+// 30 Urlaubstage im Jahr sowie 24.12 und 31.12. frei
+// Ein vielseitiges Angebot an Gesundheits- und Sportaktivitäten inklusive Arbeitgeberzuschuss sowie die Möglichkeit zum Bike-Leasing
+// Zuschuss zum Mittagessen in unserer Kantine sowie kostenlose Getränke wie Wasser, Tee und Kaffee
+// Einen attraktiven Standort mit unkomplizierter Verkehrsanbindung und kostenlosen Parkplätzen
+Haben wir Ihr Interesse geweckt? Dann senden Sie uns Ihre aussagekräftigen Bewerbungsunterlagen über unser Bewerbermanagement System.
+Besonders freuen wir uns auf Bewerbungen von Kandidat:innen, die zur Vielfalt der GRENKE beitragen. Vielfalt beziehen wir insbesondere auf die Dimensionen kulturelle oder soziale Herkunft, Religion, Alter, Behinderung, Geschlecht und sexuelle Identität.
+Falls Sie Fragen haben, wenden Sie sich bitte an Frau Julia Hager // jobs@grenke.de.
+In Bezug auf Ihre Bewerbung ist die GRENKE AG verpflichtet, bei der Verarbeitung Ihrer personenbezogenen Daten Artikel 88 der DSGVO in Verbindung mit
+26 Bundesdatenschutzgesetz und die geltenden Vorschriften über die Aufbewahrungsfrist Ihrer personenbezogenen Daten zu beachten.
+
+
+3798848788
+Club of Code
+JavaScript-/TypeScript-Entwickler (m/w/d)
+
+Du hast genaue Vorstellungen, wo du hinwillst oder bist noch unentschlossen? Wir bieten Dir eine Vielzahl von beruflichen Möglichkeiten in Festanstellung. Erreiche mit uns spannende Unternehmen und vereinbare noch heute Dein erstes Interview.
+Aufgaben
+Du hast die Möglichkeit in einer Vielzahl von Aufgabengebieten tätig zu sein:
+Entwicklung an einem eigenen Produkt oder in verschiedenen Projekten
+Frontend-, Backend- oder Fullstack-Entwicklung
+Entwicklung von Microservices mittels Container-Technologie oder klassische Projekte
+Qualifikation
+Programmiersprache
+JavaScript / TypeScript (Berufseinsteiger oder -erfahren)
+Technologien
+HTML, CSS
+React 
+oder
+ Vue.js 
+oder
+ Node.js
+Git, Docker, Kubernetes
+Sprachen
+Deutsch (min. B2), Englisch
+Benefits
+Die Unternehmen bieten Dir unter anderem folgendes:
+Home Office
+bis zu 32 Urlaubstage
+Jobticket
+Weiterbildung
+bestmögliche Hardware-Ausstattung
+Ob Junior- oder Senior-Entwickler - hier bist Du richtig!
+
+
+3806665552
+Preis Ingenieurbüro
+embedded Software Entwickler (m/w/d)
+
+Preis Ingenieurbüro GmbH, aus einem badischen Familienunternehmen hervorgegangen, ist seit 2022 als Tochtergesellschaft Teil der Schmitz Cargobull AG. Als starker Entwicklungspartner in der Elektronik- und Softwareentwicklung treiben wir die Digitalisierung der Trailer maßgeblich mit voran. Werde Teil unseres 15-köpfigen Teams und gestalte die Logistik von morgen!
+Aufgaben
+Du schreibst Software für Steuergeräte in Sattelaufliegern und machst diese damit fit für die digitalisierte und automatisierte Logistik von morgen.
+Dazu entwickelst Du die Software-Architektur, entwirfst Algorithmen und setzt sie in der Programmiersprache C und C++ um.
+Du bist nah dran an den Hardware-Entwicklern im Raum nebenan, liebst hardwarenahe Software, verstehst und diskutierst auch gerne Schaltungstechnik und findest mit ihnen gemeinsam das ideale Design.
+Du testest im Team die Software Deiner Kollegen, wie sie auch Deine Software testen, Du führst mit ihnen Reviews und weitere qualitätssichernde Maßnahmen durch, um Software zu erzeugen, die dem Qualitätsanspruch der Automobilbranche gerecht wird. Dabei kannst Du auf jahrelange Erfahrungen des gesamten Teams zurückgreifen.
+Zu Inbetriebnahme- und Diagnosezwecken entwickelst Du Software-Tools für den PC mit z.B. C++, C#, oder Python, um die Steuergeräte auf dem Schreibtisch diagnostizieren und testen zu können.
+Dich fasziniert die E-Mobilität und deshalb begleitest Du die Elektrifizierung von Sattelaufliegern mit Entwicklung neuer Komponenten mit Deinen Softwarelösungen. So lieferst Du direkt einen nachhaltigen Beitrag zur CO2 Reduktion in der Logistik.
+Profil
+Du verfügst über ein mit gutem Erfolg abgeschlossenes (Fach-) Hochschulstudium im Bereich Elektrotechnik, Informatik oder ähnlichen Studiengängen.
+Du willst etwas bewegen, was man anfassen und erleben kann.
+Du hast bereits erste Erfahrung in der Software-Entwicklung, idealerweise im Automotive-Umfeld, gesammelt und brennst für neue Technologien genau wie wir.
+Du tauchst gerne in komplexe Themen ein und willst diese langfristig mitgestalten.
+Du hast Freude an innovativen Produkten, liebst abwechslungsreiche Aufgaben und das am besten als Teil eines Teams von Experten.
+Du sprichst und schreibst fließend Deutsch und Englisch.
+Wir bieten
+Flexible Arbeitszeit & mobiles Arbeiten in einer 40 Stunden Woche
+Individuelle Entwicklungsmöglichkeiten
+Atmosphäre eines Familienunternehmens mit den Vorteilen und Sicherheiten eines Konzerns
+flache Hierarchie und kurze Entscheidungswege
+Betriebliche Altersvorsorge
+Jobrad
+Mitgestalten statt mitarbeiten
+Regelmäßige Teamevents
+
+
+3798615690
+Bosch
+Softwareentwickler und -integrator AUTOSAR Classic Platform (w/m/div.) - anteilig remote
+
+Unternehmensbeschreibung
+Von Embedded Systems über Cloud Computing bis zu Künstlicher Intelligenz – ITK Engineering bietet als international tätiges Technologieunternehmen plattformunabhängige Software- und Systementwicklung und umfangreiche Methodenexpertise. Mit rund 1.300 Mitarbeitenden ist das Unternehmen Innovationstreiber im Bereich Digital Engineering und seit 2017 eine hundertprozentige Tochtergesellschaft der Robert Bosch GmbH. 
+Angetrieben von unserer Begeisterung für Technik gestalten wir gemeinsam die digitale Welt von morgen und lassen Visionen zur Wirklichkeit werden. Werde auch Du ein Teil davon!
+Bewirb Dich jetzt bei der ITK Engineering GmbH und freue Dich auf spannende Herausforderungen und ein inspirierendes Arbeitsumfeld.
+Stellenbeschreibung
+Du übernimmst abwechslungsreiche Entwicklungstätigkeiten in unserer vielfältigen Projektlandschaft, wie z.B. Konfiguration der BSW mit den gängigsten Werkzeugen, Treiberentwicklung auf MCAL-Ebene, CDD-Entwicklung im Kontext Vehicle Computer. 
+Zu Deinem Aufgabenbereich gehört die Erstellung und Analyse von Embedded Softwarearchitekturen. 
+Du designst und analysierst Scheduling-Konzepte für Echtzeitbetriebsysteme. 
+Du kümmerst dich um die Umsetzung von der Software-Over-The-Air Funktionalität für Embedded Systeme. 
+Du betreust die Integration kundenspezifischer Anwendungen und Flashbootloadern. 
+Du berätst unsere Kunden zu den neuesten Technologien und Entwicklungen rund um AUTOSAR. 
+Du übernimmst Projektverantwortung bei entsprechender Erfahrung bzw. Qualifikation durch ITK. 
+Qualifikationen
+Persönlichkeit und Arbeitsweise: Selbständige und strukturierte Arbeitsweise sowie hohes Qualitätsbewusstsein und Teamgeist
+Erfahrung und Know-How: Berufserfahrung in der Entwicklung von Embedded Software oder Applikationen im AUTOSAR-Kontext oder der Konfiguration von Modulen der Basissoftware wünschenswert, Erfahrung mit mindestens einer gängigen AUTOSAR-Toolkette und Mikrocontroller (Kenntnisse sind von Vorteil), fundierte Kenntnisse der Programmiersprache C und automotiver Bussysteme wie Ethernet, CAN(-FD), LIN oder FlexRay, praktische Erfahrung mit im Automotive-Bereich gängigen Entwicklungs- und Parametrierwerkzeugen (z.B. Vector CANoe)
+Ausbildung: Erfolgreich absolviertes Studium der Elektrotechnik, technischen Informatik oder vergleichbarer Abschluss (Diplom oder Master)
+Sprachen: Verhandlungssicheres Deutsch und gutes Englisch (mündlich und schriftlich)
+Zusätzliche Informationen
+Wir, die ITK Engineering GmbH, ermöglichen Dir berufliche Flexibilität. Sprich uns in einem ersten Kennenlerngespräch gerne auf die Möglichkeiten des flexiblen und mobilen Arbeitens an.
+Die Unterschiedlichkeit unserer Mitarbeitenden ist uns wichtig und wir fördern ein diverses Arbeitsumfeld. Zu unserem ITK-Alltag gehören außerdem der Austausch auf Augenhöhe, stetiges Lernen und eine große Portion Teamspirit. Finde mehr heraus über unsere Benefits sowie die ITK Kultur.
+Du hast Fragen am Bewerbungsprozess?
+Hatice Kürtül
++49 (0)7272-7703-3333
+
+
+3586243329
+NTT DATA Business Solutions
+Junior SAP Entwickler:in / Developer Ausbildungsprogramm (w/m/d)
+
+Empowering you – to break new ground!
+Als NTT DATA Business Solutions sind wir mehr als nur ein Unternehmen - wir sind ein Team von innovativen und leidenschaftlichen Menschen, die sich darauf spezialisiert haben, wertschöpfende SAP-Lösungen zu schaffen und unsere Kund*innen auf ihrem Weg zu einem intelligenten Unternehmen zu begleiten. Unser klarer Fokus liegt in den Bereichen SAP Consulting, SAP Development, Managed Cloud Services sowie Application Management Services (AMS) & Technology.
+Unser Erfolg beruht auf VIELFÄLTIGKEIT, INNOVATION, VERTRAUEN und NACHHALTIGKEIT - diese Werte sind das Herzstück unserer Unternehmenskultur.
+Als Teil der globalen NTT DATA Gruppe, einem der Top 5 IT-Dienstleister weltweit, stehen wir für unsere offene und nachhaltige Unternehmenskultur. Mehr als 13.000 Mitarbeitende aus 64 Nationen in über 30 Ländern zeigen, dass Vielfältigkeit ein fester Bestandteil unserer DNA ist und wir Toleranz und Respekt tagtäglich leben. Menschen sind der Schlüssel zu unserem Erfolg. Wir glauben, dass jeder Einzelne einen wichtigen Beitrag leisten kann und suchen deshalb kontinuierlich nach Talenten, die unser Team tatkräftig verstärken können.
+Are you ready to break new ground?
+Standort: Berlin, Bielefeld, Hamburg, Heidelberg, Dresden, Jena, Köln, München, Pforzheim, Stuttgart und Wien
+Das Darfst Du Von Uns Erwarten
+Wir haben die individuellen Bedürfnisse unserer Mitarbeitenden ganzheitlich im Blick. Daher bieten wir eine große Vielfalt an Benefits während der verschiedenen Lebensphasen an. Eine ausführliche Übersicht findest Du hier: https://nttdata-solutions.com/de/karriere/benefits/
+Gestalte Arbeitsort und -zeit flexibel: u. a. Workation, mobiles Arbeiten, Teilzeitmodelle und Sabbatical
+Deine Weiterentwicklung nach Plan: themenspezifische Einarbeitung, gezielte Karriereförderung basierend auf Karrieremodellen, Programmen und eigener Academy
+Family first: z. B. KiTa-Zuschuss, bezahlte Karenztage und Vaterschaftsnetzwerk
+SAP Platinum Partnerschaft: starke SAP-Partnerschaft, großes Wissensnetzwerk sowie SAP Learning Hub- und Zertifizierungsmöglichkeiten
+Wir sorgen vor: bspw. 25 % Zuschuss zur betrieblichen Altersvorsorge, betriebliches Gesundheitsmanagement und Kooperation mit Fitnessanbietern
+Mit uns kommst Du von A nach B: Dienstwagen (je nach Bereich), Vergünstigung für die Nutzung von öffentlichen Verkehrsmitteln und Fahrradleasing via JobRad®
+Du brennst für Herausforderungen?
+Du konzipierst und realisierst individuelle Apps für unsere Kunden mithilfe neuester Technologien im SAP-Umfeld.
+Du lernst die vier Kernbereiche der SAP-Entwicklung kennen: Frontend Entwicklung (UX, JavaScript), S/4HANA Development (ABAP, CDS Views), Formularentwicklung (Adobe Designer) und Datenmigration (Konvertierung und Übernahme von Massendaten). Später kannst du dich in diesen Themen spezialisieren.
+Hierbei unterstützt dich dein persönlicher Coach / Pate in einer freundlichen Arbeitsatmosphäre in einem Team auf Augenhöhe.
+Es wartet eine Vielzahl an konzeptionellen Herausforderungen vom Erstellen technischer Konzepte und Datenmodellen bis hin zur Umsetzung dieser.
+Wir arbeiten in Kundenprojekten – teilweise bei Kunden vor Ort, in unseren Büros oder aus dem Homeoffice.
+Überzeuge uns mit Deinem Potential!
+Du verfügst über ein abgeschlossenes Studium der Informatik, Wirtschaftsinformatik oder Mathematik, über eine abgeschlossene Ausbildung als Fachinformatiker für Anwendungsentwicklung oder eine vergleichbare Qualifikation.
+Du besitzt Kenntnisse in mindestens einer Programmiersprache (beispielsweise Java oder Python).
+Idealerweise hast Du erste Kenntnisse über betriebswirtschaftliche Abläufe.
+Du verfügst über fließende Deutsch- und gute Englischkenntnisse.
+Bewirb Dich jetzt!
+Wir freuen uns über Deine Onlinebewerbung inkl. Standortwunsch, Gehaltsvorstellung und frühestmöglichem Eintrittstermin.
+Get empowered by NTT DATA Business Solutions!
+
+
+3799090891
+CBTW
+CLOUD- UND DEVOPS-ENGINEER (M/W/D)
+
+Positive Thinking Company ist Teil unseres weltweiten Ökosystems "Collaboration betters the world". Unsere 6 Gründungspartner Positive Thinking Company, Steep, Versett, Alispharm, Otofacto & OneAston helfen dabei das Unternehmenswachstum unserer Kund:innen durch Strategie, Technologie und Design zu verwirklichen.
+Wir suchen dein Talent und deine Leidenschaft zur Verstärkung unserer Data & Analytics Expert:innen. Schließ dich uns an, entfalte deine Fähigkeiten und Talente und stecke unsere Community mit deiner Begeisterung und deinen Ideen an. Was uns wichtig ist? Die 3 W’s: Wissensaustausch, Weiterbildungen und Weiterentwicklung. Interessiert? Dann wird’s jetzt spannend:
+Aufgaben
+Als DevOps CI/CD Engineer (m/w/d) verantworten Sie AWS (oder andere) Cloud-basierte Produktionssysteme, um die Verfügbarkeit, Leistung, Skalierbarkeit und Sicherheit von Systemen zu gewährleisten. Im Detail bedeutet das:
+Sicherstellung von Bau-, Freigabe- und Konfigurationsmanagement von Produktionssystemen sowie die Abnahme und Prüfung zur Qualitätssicherung
+Weitergabe von Best Practices im Bereich DevOps Engineering an andere Teams
+Problembehebung unter Einbeziehung entsprechender Ressourcen und Förderung der Lösung von Problemen
+Dieses Wissen bietet unseren Kund:innen echten Mehrwert. Du bist das Bindeglied zwischen IT und Business. Du konzipierst. Du realisierst. Du treibst voran.
+Qualifikation
+Dein Talent
+Deine größte Leidenschaft ist, am Puls der Zeit mit 
+Cloud Plattformen
+ Applikationen zu realisieren und entwerfen. Dabei hast Du mit 
+Technologien
+ wie Kubernetes, Ansible und Docker sowie mit Cloud Native Bereitstellung für AWS, 
+Frameworks
+ wie Jenkins/Bamboo, Monitoring Frameworks wie Prometheus, Grafana, Icinga or Nagios und Code Depots auf GitHub und mit mindestens einer 
+Programmiersprache
+ wie Java, Python, Node.JS or C++ gearbeitet. Außerdem bist Du ein ausgebildeter 
+Informatiker
+ (m/w/d) oder hast einen vergleichbaren Background. 
+Deutsch
+ und 
+Englisch
+ kannst Du verhandlungssicher anwenden und Du bist 
+DACH-weit reisebereit
+.
+Benefits
+Wir bieten Dir eine Kultur, die von unseren Führungsleitsätzen angetrieben wird: Unternehmerisch, ergebnisorientiert, Eigenverantwortung fördernd und sich gegenseitig zum Erfolg verhelfend. Wir schaffen Transparenz über Unternehmensziele, Zusammenarbeit und Unterstützung durch ein internationales Team auf Augenhöhe. Wir leben Austausch, Teamgeist und einen respektvollen Umgang miteinander. Das verbindet uns hierarchieübergreifend – auch im Home-Office. So erhielten wir in 2022 die kununu Auszeichnung „TOP Company“.
+Das erwartet Dich bei uns:
+Onboarding: Du bist ab dem ersten Tag intern vernetzt: Welcome Day, Hello Drink, Mentoring-Programm
+Entwicklung: Entwicklung ist bei uns individuell auf Deine Stärken ausgerichtet: Regelmäßige Feedbackgespräche, Karrierepfade, Career Committees, Online Trainingskatalog, Internationales Arbeiten mit unterschiedlichen Kulturen
+Work-Life Balance: Raum für Deine persönliche Lebensplanung (Sabbatical, Remote Working aus dem Ausland, hochflexible Arbeitsmodelle, Elternzeitprogramme, 30 Tage Urlaub, Feiertagskalender Baden-Württemberg)
+Nachhaltigkeit: Uns ist es wichtig, dass unsere Arbeit einen positiven Einfluss auf die Umwelt und die Menschheit hat. Dafür machen wir unsere Lösungen und unsere Zusammenarbeit jeden Tag ein Stückchen nachhaltiger. 
+Events: Fachlich und mit Spaßfaktor (Summer-Tech-Event, lokale Afterworks, Sportevents, Teamevents, Weihnachtsfeiern)
+Netzwerken: Connecte Dich mit Deinen Kolleg:innen: Communities, Lunch Breaks, interne Know-How Sessions
+Fehlerkultur: Mache Fehler und teste Dich aus: Wir geben Dir den Freiraum neuesten Technologien zu arbeiten
+Prämien: Eine Vielzahl an Prämien für Dein zusätzliches Engagement
+Weitere Vorteile: Corporate Benefits, Jobfahrrad, betriebliches Gesundheitsmanagement
+Kein:e Kandidat:in wird jede dieser gewünschten Anforderungen erfüllen. Wenn Deine Erfahrungen etwas anders aussehen und Du denkst Du kannst dieser Stelle einen anderen Mehrwert verleihen, lass uns gerne darüber sprechen!
+Check unsere PTC Spotify Playlist aus und mache dir einen ersten musikalischen Eindruck von unserem Team: https://open.spotify.com/playlist/44kgWZRt5jmmgppH0qGszg?si=L312ch\_9SMKsCKBcN-EB\_A
+Aber genug von uns, jetzt bist Du dran - Wir freuen uns darauf Dich kennenzulernen!
+
+
+3800683519
+DIS AG
+Software-Developer (m/w/d) - Hybridanteil
+
+Sie verbinden Motivation mit Expertise und sind der Fachexperte (m/w/d) in IT-Fragen? Sie suchen nach einer neuen Herausforderung im Berufsleben und glänzen mit Persönlichkeit und Leidenschaft für Ihren Job? Wir als DIS AG suchen Sie als Experte (m/w/d) in der Entwicklung im Raum Baden-Baden!
+Ihre Aufgaben
+Entwickeln in den Programmiersprachen Java / C# Backend- und Frontend-Komponenten
+Nutzung von moderne Frameworks und Tools wie z.B. Spring (Java), Git, Maven und Jenkins
+Implementierung von Anforderungsspezifikationen, neuen Features sowie Bugfixes
+Begleitung von Software-Tests und Produkt-Releases
+Fachübergreifende Zusammenarbeit in agilen und crossfunktionalen Teams
+Ihr Profil
+Hochschulabschluss in der Informatik, Wirtschaftsinformatik oder einem vergleichbare Abschluss
+Fundierte Kenntnisse in Microsoft Dynamics NAV und idealerweise mehrjährige Erfahrungen in Programmiersprache C# 
+Berufsrelevantes Studium oder eine Ausbildung abgeschlossen oder eine vergleichbare passende Qualifikation
+Idealerweise Erfahrung in der Softwareentwicklung in Java und / oder C# sowie den entsprechenden Frameworks (z. B. WPF (C# .NET), Spring (Java))
+Wünschenswert sind zusätzliche Kenntnisse im Umgang mit Datenbanken (z. B. MSSQL, Oracle) und deren Programmierung
+Sehr gute Deutschkenntnisse in Wort und Schrift sowie gute Englischkenntnisse
+Ihre Benefits
+Unbefristeter Arbeitsvertrag
+Ein monatliches Festgehalt bei übertariflicher Bezahlung
+Vermögenswirksame Leistungen
+Urlaubs- und Weihnachtsgeld
+Flexible Arbeitszeiten/ Homeoffice
+Sicherer Arbeitsplatz
+…und vieles mehr
+Bei uns wird Ihr Berufsweg zum persönlichen Walk of Fame – wir bieten Ihnen spannende Perspektiven in den Bereichen Assistenz & Sekretariat, Marketing, Vertrieb, HR sowie Einkauf & Logistik. Jetzt auf "direkt bewerben" klicken!
+Dein Kontakt
+Frau Janin Fuchs
+it-karlsruhe@dis-ag.com
+DIS AG
+IT
+Frühlingstraße 10
+76131 Karlsruhe
+Telefon: +49 0721 9335841
+
+
+3698166029
+GRENKE AG
+CONTROLLING DATA ANALYST (M/W/D)
+
+WAS WIR TUN UND WIE WIR ARBEITEN
+Die GRENKE AG ist mit rund 2.100 Mitarbeiter:innen in mehr als 30 Ländern „Möglichmacher“ für kleine und mittelständische Unternehmen. Wir schaffen schnelle und einfache Finanzierungslösungen, die unseren Kunden helfen, ihre Geschäftsideen in die Tat umzusetzen. Denn wir sind überzeugt davon, die Geschäftswelt bietet viele Chancen, wenn man den Mut hat diese umzusetzen. Und so agieren auch wir, im Umgang mit unseren Kunden aber auch in unseren starken Teams: Mit Persönlichkeit, unternehmerischem Denken, selbstbestimmt, gesundem Pragmatismus aber auch der nötigen Entschlossenheit. Das ist Teil unserer Unternehmenskultur – und die Möglichkeit beruflich und persönlich zu wachsen.
+WAS SIE ERWARTET
+// Betreuung des internen Deckungsbeitragsmodells und dessen Komponenten
+// Regelmäßige Überprüfung, Dokumentation und Weiterentwicklung des zugrundeliegenden statistischen Modells der Deckungsbeitragsrechnung
+// Analyse und Interpretation von Finanzdaten, um wichtige Erkenntnisse und Trends zu identifizieren
+// Durchführung von Standardanalysen und Aufbereitung komplexer Datensätze
+// Ansprechpartner:in vieler (internationaler) Fachbereiche in der Rolle als Spezialist:in für die Deckungsbeitragsrechnung
+// Adressatenspezifische Aufbereitung und Präsentation Ihrer Ergebnisse
+// Ein motiviertes Team mit der Leidenschaft, unsere Organisation weltweit zu unterstützen
+WAS SIE MITBRINGEN
+// Erfolgreich abgeschlossenes Studium der Betriebswirtschaftslehre mit Schwerpunkt in Controlling, Wirtschaftsinformatik oder Datenanalyse
+// Erste Berufserfahrung in der Datenanalyse im Controlling
+// Fundierte Kenntnisse in der Programmiersprache SQL sowie sehr gute MS-Office-Kenntnisse, insbesondere MS Excel
+// Ausgeprägte Zahlenaffinität und Verständnis für datentechnische Zusammenhänge und Datenaufbereitung
+// Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+// Teamgeist sowie die Bereitschaft, sich in neue Aufgabenstellungen und Systeme einzuarbeiten
+WAS WIR BIETEN
+// Ein vielfältiges Angebot an Fort- und Weiterbildungen, u.a. in Form von LinkedIn Learning
+// Unternehmensweites Networking durch unser Buddy-Programm und Explore Breaks
+// Flexible Arbeitszeitgestaltung und Möglichkeit zu Remote Work
+// 30 Urlaubstage im Jahr sowie 24.12 und 31.12. frei
+// Ein vielseitiges Angebot an Gesundheits- und Sportaktivitäten inklusive Arbeitgeberzuschuss sowie die Möglichkeit zum Bike-Leasing
+// Zuschuss zum Mittagessen in unserer Kantine sowie kostenlose Getränke wie Wasser, Tee und Kaffee
+// Einen attraktiven Standort mit unkomplizierter Verkehrsanbindung und kostenlosen Parkplätzen
+Haben wir Ihr Interesse geweckt? Dann senden Sie uns Ihre aussagekräftigen Bewerbungsunterlagen über unser Bewerbermanagement System.
+Besonders freuen wir uns auf Bewerbungen von Kandidat:innen, die zur Vielfalt der GRENKE beitragen. Vielfalt beziehen wir insbesondere auf die Dimensionen kulturelle oder soziale Herkunft, Religion, Alter, Behinderung, Geschlecht und sexuelle Identität.
+Falls Sie Fragen haben, wenden Sie sich bitte an Frau Julia Hager // jobs@grenke.de.
+In Bezug auf Ihre Bewerbung ist die GRENKE AG verpflichtet, bei der Verarbeitung Ihrer personenbezogenen Daten Artikel 88 der DSGVO in Verbindung mit
+26 Bundesdatenschutzgesetz und die geltenden Vorschriften über die Aufbewahrungsfrist Ihrer personenbezogenen Daten zu beachten.
+
+
+3798848788
+Club of Code
+JavaScript-/TypeScript-Entwickler (m/w/d)
+
+Du hast genaue Vorstellungen, wo du hinwillst oder bist noch unentschlossen? Wir bieten Dir eine Vielzahl von beruflichen Möglichkeiten in Festanstellung. Erreiche mit uns spannende Unternehmen und vereinbare noch heute Dein erstes Interview.
+Aufgaben
+Du hast die Möglichkeit in einer Vielzahl von Aufgabengebieten tätig zu sein:
+Entwicklung an einem eigenen Produkt oder in verschiedenen Projekten
+Frontend-, Backend- oder Fullstack-Entwicklung
+Entwicklung von Microservices mittels Container-Technologie oder klassische Projekte
+Qualifikation
+Programmiersprache
+JavaScript / TypeScript (Berufseinsteiger oder -erfahren)
+Technologien
+HTML, CSS
+React 
+oder
+ Vue.js 
+oder
+ Node.js
+Git, Docker, Kubernetes
+Sprachen
+Deutsch (min. B2), Englisch
+Benefits
+Die Unternehmen bieten Dir unter anderem folgendes:
+Home Office
+bis zu 32 Urlaubstage
+Jobticket
+Weiterbildung
+bestmögliche Hardware-Ausstattung
+Ob Junior- oder Senior-Entwickler - hier bist Du richtig!
+
+
+3804309507
+Club of Code
+Java-Entwickler (m/w/d)
+
+Du hast genaue Vorstellungen, wo du hinwillst oder bist noch unentschlossen? Wir bieten Dir eine Vielzahl von beruflichen Möglichkeiten in Festanstellung. Erreiche mit uns spannende Unternehmen und vereinbare noch heute Dein erstes Interview.
+Aufgaben
+Du hast die Möglichkeit in einer Vielzahl von Aufgabengebieten tätig zu sein:
+Entwicklung an einem eigenen Produkt oder in verschiedenen Projekten
+Frontend-, Backend- oder Fullstack-Entwicklung
+Entwicklung von Microservices mittels Container-Technologie oder klassische Projekte
+Qualifikation
+Programmiersprache
+Java (Berufseinsteiger oder -erfahren)
+Technologien
+Spring, Elasticsearch, Git, Docker, REST, Kubernetes
+Sprachen
+Deutsch (min. B2), Englisch
+Benefits
+Die Unternehmen bieten Dir unter anderem folgendes:
+Home Office
+bis zu 32 Urlaubstage
+Jobticket
+Weiterbildung
+bestmögliche Hardware-Ausstattung
+Ob Junior- oder Senior-Entwickler - hier bist Du richtig!
+
+
+3740312640
+Consulting4IT GmbH
+Softwareentwickler (m/w/d)
+
+Über Uns
+Wir sind Systemspezialist im Bereich Enterprise Service Management und unterstützen unsere Kunden hier mit einem klaren Fokus auf die Produkte und Lösungen unsere Partner Matrix42, Nexthink und Varonis.
+Wir suchen Menschen mit Leidenschaft, Ideen und der Motivation, etwas zu bewegen - authentische Persönlichkeiten, die Spaß daran haben, sich im Team zu entfalten und unsere Philosophie zu leben.
+Wen wir suchen
+Zum nächstmöglichen Zeitpunkt suchen wir Unterstützung in unserem Produkthaus für die Entwicklung unserer Eigenprodukte.
+Du bist vertraut mit C# und hast schon mal in der .NET-Welt vorbeigeschaut? Komm zu uns! Wir freuen uns auf enthusiastische Code-Begeisterte, die gemeinsam mit uns digitale Abenteuer erleben möchten.
+Dein Profil
+Was Du Mitbringen Solltest
+Neugier und den Drang, ständig Neues zu lernen
+Liebe zu sauberem Code und eleganten .NET Web-Oberflächen
+Ein Auge für Design, denn du wirst mit WPF UI arbeiten
+Teamgeist, denn bei uns wird im Team groß gedacht
+Eigeninitiative und einen strukturierten Arbeitsstil, um mit uns durchzustarten
+Bonus-Punkte Gibt's Für
+Kenntnisse in WEB UI Frameworks wie Angular, React o.ä. Erfahrung mit cloudfähigen Web Applikationen
+DevOps oder Github im Lebenslauf
+Aber Hey, Keine Sorge
+Du musst nicht alles können, bei uns kannst du auch hineinwachsen. Wir glauben an Potenzial und Leidenschaft!
+Was wir dir bieten
+Ein dynamisches Unternehmen, das ständig wächst und blüht. Eine familiäre Atmosphäre, wo jeder deinen Namen kennt. Weiterbildungsmöglichkeiten, die dich zum nächsten Level bringen. Einen extra Versicherungsschutz, weil uns deine Sicherheit am Herzen liegt
+Flexibilität in Arbeitszeit und -ort, weil Work-Life-Balance kein Fremdwort für uns ist
+Ein Team, das dich bei jeder Herausforderung unterstützt und mit dir feiert
+Bist du bereit, mit uns Geschichte zu schreiben?
+Dann schick uns deine Bewerbung schneller als ein Console.WriteLine("Hello World!"); ausgeführt wird!
+Per E-Mail an bewerbung@consulting4it.de oder sehr gerne auch direkt über unsere Webseite.
+Bei Fragen sind wir unter der Telefonnummer 07243 2058 806 erreichbar.
+Ergänzende Informationen
+Anforderungen an den Bewerber:
+Grundkenntnisse: JavaScript-Framework Angular, JavaScript-Framework React, Versionsverwaltungsprogramm GitHub
+Erweiterte Kenntnisse: Programmiersprache C#, Web-Applikationen (Entwicklung, Programmierung), Programmieren
+
+
+3586243329
+NTT DATA Business Solutions
+Junior SAP Entwickler:in / Developer Ausbildungsprogramm (w/m/d)
+
+Empowering you – to break new ground!
+Als NTT DATA Business Solutions sind wir mehr als nur ein Unternehmen - wir sind ein Team von innovativen und leidenschaftlichen Menschen, die sich darauf spezialisiert haben, wertschöpfende SAP-Lösungen zu schaffen und unsere Kund*innen auf ihrem Weg zu einem intelligenten Unternehmen zu begleiten. Unser klarer Fokus liegt in den Bereichen SAP Consulting, SAP Development, Managed Cloud Services sowie Application Management Services (AMS) & Technology.
+Unser Erfolg beruht auf VIELFÄLTIGKEIT, INNOVATION, VERTRAUEN und NACHHALTIGKEIT - diese Werte sind das Herzstück unserer Unternehmenskultur.
+Als Teil der globalen NTT DATA Gruppe, einem der Top 5 IT-Dienstleister weltweit, stehen wir für unsere offene und nachhaltige Unternehmenskultur. Mehr als 13.000 Mitarbeitende aus 64 Nationen in über 30 Ländern zeigen, dass Vielfältigkeit ein fester Bestandteil unserer DNA ist und wir Toleranz und Respekt tagtäglich leben. Menschen sind der Schlüssel zu unserem Erfolg. Wir glauben, dass jeder Einzelne einen wichtigen Beitrag leisten kann und suchen deshalb kontinuierlich nach Talenten, die unser Team tatkräftig verstärken können.
+Are you ready to break new ground?
+Standort: Berlin, Bielefeld, Hamburg, Heidelberg, Dresden, Jena, Köln, München, Pforzheim, Stuttgart und Wien
+Das Darfst Du Von Uns Erwarten
+Wir haben die individuellen Bedürfnisse unserer Mitarbeitenden ganzheitlich im Blick. Daher bieten wir eine große Vielfalt an Benefits während der verschiedenen Lebensphasen an. Eine ausführliche Übersicht findest Du hier: https://nttdata-solutions.com/de/karriere/benefits/
+Gestalte Arbeitsort und -zeit flexibel: u. a. Workation, mobiles Arbeiten, Teilzeitmodelle und Sabbatical
+Deine Weiterentwicklung nach Plan: themenspezifische Einarbeitung, gezielte Karriereförderung basierend auf Karrieremodellen, Programmen und eigener Academy
+Family first: z. B. KiTa-Zuschuss, bezahlte Karenztage und Vaterschaftsnetzwerk
+SAP Platinum Partnerschaft: starke SAP-Partnerschaft, großes Wissensnetzwerk sowie SAP Learning Hub- und Zertifizierungsmöglichkeiten
+Wir sorgen vor: bspw. 25 % Zuschuss zur betrieblichen Altersvorsorge, betriebliches Gesundheitsmanagement und Kooperation mit Fitnessanbietern
+Mit uns kommst Du von A nach B: Dienstwagen (je nach Bereich), Vergünstigung für die Nutzung von öffentlichen Verkehrsmitteln und Fahrradleasing via JobRad®
+Du brennst für Herausforderungen?
+Du konzipierst und realisierst individuelle Apps für unsere Kunden mithilfe neuester Technologien im SAP-Umfeld.
+Du lernst die vier Kernbereiche der SAP-Entwicklung kennen: Frontend Entwicklung (UX, JavaScript), S/4HANA Development (ABAP, CDS Views), Formularentwicklung (Adobe Designer) und Datenmigration (Konvertierung und Übernahme von Massendaten). Später kannst du dich in diesen Themen spezialisieren.
+Hierbei unterstützt dich dein persönlicher Coach / Pate in einer freundlichen Arbeitsatmosphäre in einem Team auf Augenhöhe.
+Es wartet eine Vielzahl an konzeptionellen Herausforderungen vom Erstellen technischer Konzepte und Datenmodellen bis hin zur Umsetzung dieser.
+Wir arbeiten in Kundenprojekten – teilweise bei Kunden vor Ort, in unseren Büros oder aus dem Homeoffice.
+Überzeuge uns mit Deinem Potential!
+Du verfügst über ein abgeschlossenes Studium der Informatik, Wirtschaftsinformatik oder Mathematik, über eine abgeschlossene Ausbildung als Fachinformatiker für Anwendungsentwicklung oder eine vergleichbare Qualifikation.
+Du besitzt Kenntnisse in mindestens einer Programmiersprache (beispielsweise Java oder Python).
+Idealerweise hast Du erste Kenntnisse über betriebswirtschaftliche Abläufe.
+Du verfügst über fließende Deutsch- und gute Englischkenntnisse.
+Bewirb Dich jetzt!
+Wir freuen uns über Deine Onlinebewerbung inkl. Standortwunsch, Gehaltsvorstellung und frühestmöglichem Eintrittstermin.
+Get empowered by NTT DATA Business Solutions!
+
+
+3806665552
+Preis Ingenieurbüro
+embedded Software Entwickler (m/w/d)
+
+Preis Ingenieurbüro GmbH, aus einem badischen Familienunternehmen hervorgegangen, ist seit 2022 als Tochtergesellschaft Teil der Schmitz Cargobull AG. Als starker Entwicklungspartner in der Elektronik- und Softwareentwicklung treiben wir die Digitalisierung der Trailer maßgeblich mit voran. Werde Teil unseres 15-köpfigen Teams und gestalte die Logistik von morgen!
+Aufgaben
+Du schreibst Software für Steuergeräte in Sattelaufliegern und machst diese damit fit für die digitalisierte und automatisierte Logistik von morgen.
+Dazu entwickelst Du die Software-Architektur, entwirfst Algorithmen und setzt sie in der Programmiersprache C und C++ um.
+Du bist nah dran an den Hardware-Entwicklern im Raum nebenan, liebst hardwarenahe Software, verstehst und diskutierst auch gerne Schaltungstechnik und findest mit ihnen gemeinsam das ideale Design.
+Du testest im Team die Software Deiner Kollegen, wie sie auch Deine Software testen, Du führst mit ihnen Reviews und weitere qualitätssichernde Maßnahmen durch, um Software zu erzeugen, die dem Qualitätsanspruch der Automobilbranche gerecht wird. Dabei kannst Du auf jahrelange Erfahrungen des gesamten Teams zurückgreifen.
+Zu Inbetriebnahme- und Diagnosezwecken entwickelst Du Software-Tools für den PC mit z.B. C++, C#, oder Python, um die Steuergeräte auf dem Schreibtisch diagnostizieren und testen zu können.
+Dich fasziniert die E-Mobilität und deshalb begleitest Du die Elektrifizierung von Sattelaufliegern mit Entwicklung neuer Komponenten mit Deinen Softwarelösungen. So lieferst Du direkt einen nachhaltigen Beitrag zur CO2 Reduktion in der Logistik.
+Profil
+Du verfügst über ein mit gutem Erfolg abgeschlossenes (Fach-) Hochschulstudium im Bereich Elektrotechnik, Informatik oder ähnlichen Studiengängen.
+Du willst etwas bewegen, was man anfassen und erleben kann.
+Du hast bereits erste Erfahrung in der Software-Entwicklung, idealerweise im Automotive-Umfeld, gesammelt und brennst für neue Technologien genau wie wir.
+Du tauchst gerne in komplexe Themen ein und willst diese langfristig mitgestalten.
+Du hast Freude an innovativen Produkten, liebst abwechslungsreiche Aufgaben und das am besten als Teil eines Teams von Experten.
+Du sprichst und schreibst fließend Deutsch und Englisch.
+Wir bieten
+Flexible Arbeitszeit & mobiles Arbeiten in einer 40 Stunden Woche
+Individuelle Entwicklungsmöglichkeiten
+Atmosphäre eines Familienunternehmens mit den Vorteilen und Sicherheiten eines Konzerns
+flache Hierarchie und kurze Entscheidungswege
+Betriebliche Altersvorsorge
+Jobrad
+Mitgestalten statt mitarbeiten
+Regelmäßige Teamevents
+
+
+3799090891
+CBTW
+CLOUD- UND DEVOPS-ENGINEER (M/W/D)
+
+Positive Thinking Company ist Teil unseres weltweiten Ökosystems "Collaboration betters the world". Unsere 6 Gründungspartner Positive Thinking Company, Steep, Versett, Alispharm, Otofacto & OneAston helfen dabei das Unternehmenswachstum unserer Kund:innen durch Strategie, Technologie und Design zu verwirklichen.
+Wir suchen dein Talent und deine Leidenschaft zur Verstärkung unserer Data & Analytics Expert:innen. Schließ dich uns an, entfalte deine Fähigkeiten und Talente und stecke unsere Community mit deiner Begeisterung und deinen Ideen an. Was uns wichtig ist? Die 3 W’s: Wissensaustausch, Weiterbildungen und Weiterentwicklung. Interessiert? Dann wird’s jetzt spannend:
+Aufgaben
+Als DevOps CI/CD Engineer (m/w/d) verantworten Sie AWS (oder andere) Cloud-basierte Produktionssysteme, um die Verfügbarkeit, Leistung, Skalierbarkeit und Sicherheit von Systemen zu gewährleisten. Im Detail bedeutet das:
+Sicherstellung von Bau-, Freigabe- und Konfigurationsmanagement von Produktionssystemen sowie die Abnahme und Prüfung zur Qualitätssicherung
+Weitergabe von Best Practices im Bereich DevOps Engineering an andere Teams
+Problembehebung unter Einbeziehung entsprechender Ressourcen und Förderung der Lösung von Problemen
+Dieses Wissen bietet unseren Kund:innen echten Mehrwert. Du bist das Bindeglied zwischen IT und Business. Du konzipierst. Du realisierst. Du treibst voran.
+Qualifikation
+Dein Talent
+Deine größte Leidenschaft ist, am Puls der Zeit mit 
+Cloud Plattformen
+ Applikationen zu realisieren und entwerfen. Dabei hast Du mit 
+Technologien
+ wie Kubernetes, Ansible und Docker sowie mit Cloud Native Bereitstellung für AWS, 
+Frameworks
+ wie Jenkins/Bamboo, Monitoring Frameworks wie Prometheus, Grafana, Icinga or Nagios und Code Depots auf GitHub und mit mindestens einer 
+Programmiersprache
+ wie Java, Python, Node.JS or C++ gearbeitet. Außerdem bist Du ein ausgebildeter 
+Informatiker
+ (m/w/d) oder hast einen vergleichbaren Background. 
+Deutsch
+ und 
+Englisch
+ kannst Du verhandlungssicher anwenden und Du bist 
+DACH-weit reisebereit
+.
+Benefits
+Wir bieten Dir eine Kultur, die von unseren Führungsleitsätzen angetrieben wird: Unternehmerisch, ergebnisorientiert, Eigenverantwortung fördernd und sich gegenseitig zum Erfolg verhelfend. Wir schaffen Transparenz über Unternehmensziele, Zusammenarbeit und Unterstützung durch ein internationales Team auf Augenhöhe. Wir leben Austausch, Teamgeist und einen respektvollen Umgang miteinander. Das verbindet uns hierarchieübergreifend – auch im Home-Office. So erhielten wir in 2022 die kununu Auszeichnung „TOP Company“.
+Das erwartet Dich bei uns:
+Onboarding: Du bist ab dem ersten Tag intern vernetzt: Welcome Day, Hello Drink, Mentoring-Programm
+Entwicklung: Entwicklung ist bei uns individuell auf Deine Stärken ausgerichtet: Regelmäßige Feedbackgespräche, Karrierepfade, Career Committees, Online Trainingskatalog, Internationales Arbeiten mit unterschiedlichen Kulturen
+Work-Life Balance: Raum für Deine persönliche Lebensplanung (Sabbatical, Remote Working aus dem Ausland, hochflexible Arbeitsmodelle, Elternzeitprogramme, 30 Tage Urlaub, Feiertagskalender Baden-Württemberg)
+Nachhaltigkeit: Uns ist es wichtig, dass unsere Arbeit einen positiven Einfluss auf die Umwelt und die Menschheit hat. Dafür machen wir unsere Lösungen und unsere Zusammenarbeit jeden Tag ein Stückchen nachhaltiger. 
+Events: Fachlich und mit Spaßfaktor (Summer-Tech-Event, lokale Afterworks, Sportevents, Teamevents, Weihnachtsfeiern)
+Netzwerken: Connecte Dich mit Deinen Kolleg:innen: Communities, Lunch Breaks, interne Know-How Sessions
+Fehlerkultur: Mache Fehler und teste Dich aus: Wir geben Dir den Freiraum neuesten Technologien zu arbeiten
+Prämien: Eine Vielzahl an Prämien für Dein zusätzliches Engagement
+Weitere Vorteile: Corporate Benefits, Jobfahrrad, betriebliches Gesundheitsmanagement
+Kein:e Kandidat:in wird jede dieser gewünschten Anforderungen erfüllen. Wenn Deine Erfahrungen etwas anders aussehen und Du denkst Du kannst dieser Stelle einen anderen Mehrwert verleihen, lass uns gerne darüber sprechen!
+Check unsere PTC Spotify Playlist aus und mache dir einen ersten musikalischen Eindruck von unserem Team: https://open.spotify.com/playlist/44kgWZRt5jmmgppH0qGszg?si=L312ch\_9SMKsCKBcN-EB\_A
+Aber genug von uns, jetzt bist Du dran - Wir freuen uns darauf Dich kennenzulernen!
+
+
+3711028346
+ITK Engineering
+Softwareentwickler und -integrator AUTOSAR Classic Platform (w/m/div.) - anteilig remote
+
+Aufgaben
+Du übernimmst abwechslungsreiche Entwicklungstätigkeiten in unserer vielfältigen Projektlandschaft, wie z.B. Konfiguration der BSW mit den gängigsten Werkzeugen, Treiberentwicklung auf MCAL-Ebene, CDD-Entwicklung im Kontext Vehicle Computer.
+Zu Deinem Aufgabenbereich gehört die Erstellung und Analyse von Embedded Softwarearchitekturen.
+Du designst und analysierst Scheduling-Konzepte für Echtzeitbetriebsysteme.
+Du kümmerst dich um die Umsetzung von der Software-Over-The-Air Funktionalität für Embedded Systeme.
+Du betreust die Integration kundenspezifischer Anwendungen und Flashbootloadern.
+Du berätst unsere Kunden zu den neuesten Technologien und Entwicklungen rund um AUTOSAR.
+Du übernimmst Projektverantwortung bei entsprechender Erfahrung bzw. Qualifikation durch ITK.
+Profil
+Persönlichkeit und Arbeitsweise: Selbständige und strukturierte Arbeitsweise sowie hohes Qualitätsbewusstsein und Teamgeist
+Erfahrung und Know-How: Berufserfahrung in der Entwicklung von Embedded Software oder Applikationen im AUTOSAR-Kontext oder der Konfiguration von Modulen der Basissoftware wünschenswert, Erfahrung mit mindestens einer gängigen AUTOSAR-Toolkette und Mikrocontroller (Kenntnisse sind von Vorteil), fundierte Kenntnisse der Programmiersprache C und automotiver Bussysteme wie Ethernet, CAN(-FD), LIN oder FlexRay, praktische Erfahrung mit im Automotive-Bereich gängigen Entwicklungs- und Parametrierwerkzeugen (z.B. Vector CANoe)
+Ausbildung: Erfolgreich absolviertes Studium der Elektrotechnik, technischen Informatik oder vergleichbarer Abschluss (Diplom oder Master)
+Sprachen: Verhandlungssicheres Deutsch und gutes Englisch (mündlich und schriftlich)
+
+
+3806665552
+Preis Ingenieurbüro
+embedded Software Entwickler (m/w/d)
+
+Preis Ingenieurbüro GmbH, aus einem badischen Familienunternehmen hervorgegangen, ist seit 2022 als Tochtergesellschaft Teil der Schmitz Cargobull AG. Als starker Entwicklungspartner in der Elektronik- und Softwareentwicklung treiben wir die Digitalisierung der Trailer maßgeblich mit voran. Werde Teil unseres 15-köpfigen Teams und gestalte die Logistik von morgen!
+Aufgaben
+Du schreibst Software für Steuergeräte in Sattelaufliegern und machst diese damit fit für die digitalisierte und automatisierte Logistik von morgen.
+Dazu entwickelst Du die Software-Architektur, entwirfst Algorithmen und setzt sie in der Programmiersprache C und C++ um.
+Du bist nah dran an den Hardware-Entwicklern im Raum nebenan, liebst hardwarenahe Software, verstehst und diskutierst auch gerne Schaltungstechnik und findest mit ihnen gemeinsam das ideale Design.
+Du testest im Team die Software Deiner Kollegen, wie sie auch Deine Software testen, Du führst mit ihnen Reviews und weitere qualitätssichernde Maßnahmen durch, um Software zu erzeugen, die dem Qualitätsanspruch der Automobilbranche gerecht wird. Dabei kannst Du auf jahrelange Erfahrungen des gesamten Teams zurückgreifen.
+Zu Inbetriebnahme- und Diagnosezwecken entwickelst Du Software-Tools für den PC mit z.B. C++, C#, oder Python, um die Steuergeräte auf dem Schreibtisch diagnostizieren und testen zu können.
+Dich fasziniert die E-Mobilität und deshalb begleitest Du die Elektrifizierung von Sattelaufliegern mit Entwicklung neuer Komponenten mit Deinen Softwarelösungen. So lieferst Du direkt einen nachhaltigen Beitrag zur CO2 Reduktion in der Logistik.
+Profil
+Du verfügst über ein mit gutem Erfolg abgeschlossenes (Fach-) Hochschulstudium im Bereich Elektrotechnik, Informatik oder ähnlichen Studiengängen.
+Du willst etwas bewegen, was man anfassen und erleben kann.
+Du hast bereits erste Erfahrung in der Software-Entwicklung, idealerweise im Automotive-Umfeld, gesammelt und brennst für neue Technologien genau wie wir.
+Du tauchst gerne in komplexe Themen ein und willst diese langfristig mitgestalten.
+Du hast Freude an innovativen Produkten, liebst abwechslungsreiche Aufgaben und das am besten als Teil eines Teams von Experten.
+Du sprichst und schreibst fließend Deutsch und Englisch.
+Wir bieten
+Flexible Arbeitszeit & mobiles Arbeiten in einer 40 Stunden Woche
+Individuelle Entwicklungsmöglichkeiten
+Atmosphäre eines Familienunternehmens mit den Vorteilen und Sicherheiten eines Konzerns
+flache Hierarchie und kurze Entscheidungswege
+Betriebliche Altersvorsorge
+Jobrad
+Mitgestalten statt mitarbeiten
+Regelmäßige Teamevents
+
+
+3740312640
+Consulting4IT GmbH
+Softwareentwickler (m/w/d)
+
+Über Uns
+Wir sind Systemspezialist im Bereich Enterprise Service Management und unterstützen unsere Kunden hier mit einem klaren Fokus auf die Produkte und Lösungen unsere Partner Matrix42, Nexthink und Varonis.
+Wir suchen Menschen mit Leidenschaft, Ideen und der Motivation, etwas zu bewegen - authentische Persönlichkeiten, die Spaß daran haben, sich im Team zu entfalten und unsere Philosophie zu leben.
+Wen wir suchen
+Zum nächstmöglichen Zeitpunkt suchen wir Unterstützung in unserem Produkthaus für die Entwicklung unserer Eigenprodukte.
+Du bist vertraut mit C# und hast schon mal in der .NET-Welt vorbeigeschaut? Komm zu uns! Wir freuen uns auf enthusiastische Code-Begeisterte, die gemeinsam mit uns digitale Abenteuer erleben möchten.
+Dein Profil
+Was Du Mitbringen Solltest
+Neugier und den Drang, ständig Neues zu lernen
+Liebe zu sauberem Code und eleganten .NET Web-Oberflächen
+Ein Auge für Design, denn du wirst mit WPF UI arbeiten
+Teamgeist, denn bei uns wird im Team groß gedacht
+Eigeninitiative und einen strukturierten Arbeitsstil, um mit uns durchzustarten
+Bonus-Punkte Gibt's Für
+Kenntnisse in WEB UI Frameworks wie Angular, React o.ä. Erfahrung mit cloudfähigen Web Applikationen
+DevOps oder Github im Lebenslauf
+Aber Hey, Keine Sorge
+Du musst nicht alles können, bei uns kannst du auch hineinwachsen. Wir glauben an Potenzial und Leidenschaft!
+Was wir dir bieten
+Ein dynamisches Unternehmen, das ständig wächst und blüht. Eine familiäre Atmosphäre, wo jeder deinen Namen kennt. Weiterbildungsmöglichkeiten, die dich zum nächsten Level bringen. Einen extra Versicherungsschutz, weil uns deine Sicherheit am Herzen liegt
+Flexibilität in Arbeitszeit und -ort, weil Work-Life-Balance kein Fremdwort für uns ist
+Ein Team, das dich bei jeder Herausforderung unterstützt und mit dir feiert
+Bist du bereit, mit uns Geschichte zu schreiben?
+Dann schick uns deine Bewerbung schneller als ein Console.WriteLine("Hello World!"); ausgeführt wird!
+Per E-Mail an bewerbung@consulting4it.de oder sehr gerne auch direkt über unsere Webseite.
+Bei Fragen sind wir unter der Telefonnummer 07243 2058 806 erreichbar.
+Ergänzende Informationen
+Anforderungen an den Bewerber:
+Grundkenntnisse: JavaScript-Framework Angular, JavaScript-Framework React, Versionsverwaltungsprogramm GitHub
+Erweiterte Kenntnisse: Programmiersprache C#, Web-Applikationen (Entwicklung, Programmierung), Programmieren
+
+
+3804309507
+Club of Code
+Java-Entwickler (m/w/d)
+
+Du hast genaue Vorstellungen, wo du hinwillst oder bist noch unentschlossen? Wir bieten Dir eine Vielzahl von beruflichen Möglichkeiten in Festanstellung. Erreiche mit uns spannende Unternehmen und vereinbare noch heute Dein erstes Interview.
+Aufgaben
+Du hast die Möglichkeit in einer Vielzahl von Aufgabengebieten tätig zu sein:
+Entwicklung an einem eigenen Produkt oder in verschiedenen Projekten
+Frontend-, Backend- oder Fullstack-Entwicklung
+Entwicklung von Microservices mittels Container-Technologie oder klassische Projekte
+Qualifikation
+Programmiersprache
+Java (Berufseinsteiger oder -erfahren)
+Technologien
+Spring, Elasticsearch, Git, Docker, REST, Kubernetes
+Sprachen
+Deutsch (min. B2), Englisch
+Benefits
+Die Unternehmen bieten Dir unter anderem folgendes:
+Home Office
+bis zu 32 Urlaubstage
+Jobticket
+Weiterbildung
+bestmögliche Hardware-Ausstattung
+Ob Junior- oder Senior-Entwickler - hier bist Du richtig!
+
+
+3586243329
+NTT DATA Business Solutions
+Junior SAP Entwickler:in / Developer Ausbildungsprogramm (w/m/d)
+
+Empowering you – to break new ground!
+Als NTT DATA Business Solutions sind wir mehr als nur ein Unternehmen - wir sind ein Team von innovativen und leidenschaftlichen Menschen, die sich darauf spezialisiert haben, wertschöpfende SAP-Lösungen zu schaffen und unsere Kund*innen auf ihrem Weg zu einem intelligenten Unternehmen zu begleiten. Unser klarer Fokus liegt in den Bereichen SAP Consulting, SAP Development, Managed Cloud Services sowie Application Management Services (AMS) & Technology.
+Unser Erfolg beruht auf VIELFÄLTIGKEIT, INNOVATION, VERTRAUEN und NACHHALTIGKEIT - diese Werte sind das Herzstück unserer Unternehmenskultur.
+Als Teil der globalen NTT DATA Gruppe, einem der Top 5 IT-Dienstleister weltweit, stehen wir für unsere offene und nachhaltige Unternehmenskultur. Mehr als 13.000 Mitarbeitende aus 64 Nationen in über 30 Ländern zeigen, dass Vielfältigkeit ein fester Bestandteil unserer DNA ist und wir Toleranz und Respekt tagtäglich leben. Menschen sind der Schlüssel zu unserem Erfolg. Wir glauben, dass jeder Einzelne einen wichtigen Beitrag leisten kann und suchen deshalb kontinuierlich nach Talenten, die unser Team tatkräftig verstärken können.
+Are you ready to break new ground?
+Standort: Berlin, Bielefeld, Hamburg, Heidelberg, Dresden, Jena, Köln, München, Pforzheim, Stuttgart und Wien
+Das Darfst Du Von Uns Erwarten
+Wir haben die individuellen Bedürfnisse unserer Mitarbeitenden ganzheitlich im Blick. Daher bieten wir eine große Vielfalt an Benefits während der verschiedenen Lebensphasen an. Eine ausführliche Übersicht findest Du hier: https://nttdata-solutions.com/de/karriere/benefits/
+Gestalte Arbeitsort und -zeit flexibel: u. a. Workation, mobiles Arbeiten, Teilzeitmodelle und Sabbatical
+Deine Weiterentwicklung nach Plan: themenspezifische Einarbeitung, gezielte Karriereförderung basierend auf Karrieremodellen, Programmen und eigener Academy
+Family first: z. B. KiTa-Zuschuss, bezahlte Karenztage und Vaterschaftsnetzwerk
+SAP Platinum Partnerschaft: starke SAP-Partnerschaft, großes Wissensnetzwerk sowie SAP Learning Hub- und Zertifizierungsmöglichkeiten
+Wir sorgen vor: bspw. 25 % Zuschuss zur betrieblichen Altersvorsorge, betriebliches Gesundheitsmanagement und Kooperation mit Fitnessanbietern
+Mit uns kommst Du von A nach B: Dienstwagen (je nach Bereich), Vergünstigung für die Nutzung von öffentlichen Verkehrsmitteln und Fahrradleasing via JobRad®
+Du brennst für Herausforderungen?
+Du konzipierst und realisierst individuelle Apps für unsere Kunden mithilfe neuester Technologien im SAP-Umfeld.
+Du lernst die vier Kernbereiche der SAP-Entwicklung kennen: Frontend Entwicklung (UX, JavaScript), S/4HANA Development (ABAP, CDS Views), Formularentwicklung (Adobe Designer) und Datenmigration (Konvertierung und Übernahme von Massendaten). Später kannst du dich in diesen Themen spezialisieren.
+Hierbei unterstützt dich dein persönlicher Coach / Pate in einer freundlichen Arbeitsatmosphäre in einem Team auf Augenhöhe.
+Es wartet eine Vielzahl an konzeptionellen Herausforderungen vom Erstellen technischer Konzepte und Datenmodellen bis hin zur Umsetzung dieser.
+Wir arbeiten in Kundenprojekten – teilweise bei Kunden vor Ort, in unseren Büros oder aus dem Homeoffice.
+Überzeuge uns mit Deinem Potential!
+Du verfügst über ein abgeschlossenes Studium der Informatik, Wirtschaftsinformatik oder Mathematik, über eine abgeschlossene Ausbildung als Fachinformatiker für Anwendungsentwicklung oder eine vergleichbare Qualifikation.
+Du besitzt Kenntnisse in mindestens einer Programmiersprache (beispielsweise Java oder Python).
+Idealerweise hast Du erste Kenntnisse über betriebswirtschaftliche Abläufe.
+Du verfügst über fließende Deutsch- und gute Englischkenntnisse.
+Bewirb Dich jetzt!
+Wir freuen uns über Deine Onlinebewerbung inkl. Standortwunsch, Gehaltsvorstellung und frühestmöglichem Eintrittstermin.
+Get empowered by NTT DATA Business Solutions!
+
+
+3698166029
+GRENKE AG
+CONTROLLING DATA ANALYST (M/W/D)
+
+Bewertung: 5
+Kommentar: Die Stellenbeschreibung erfordert Kenntnisse in Datenanalyse, insbesondere im Controlling, sowie Programmierungen in SQL und MS Excel. Da ich einen Master-Abschluss in Data Science habe und Erfahrung in der Datenanalyse im Kontext des Controllings habe, denke ich, dass ich gut zur Stellenbeschreibung passe. Allerdings habe ich keine spezifischen Kenntnisse in MS Excel. Daher bewerte ich die Übereinstimmung mit einer 5.
+
+3804309507
+Club of Code
+Java-Entwickler (m/w/d)
+
+Bewertung: 7
+Kommentar: Ich passe gut zur Stellenbeschreibung, da ich Erfahrung in der Softwareentwicklung habe und auch Programmiersprachen wie Java beherrsche. Außerdem sind Kenntnisse in den Technologien Spring, Git und Docker vorhanden. Allerdings habe ich kein spezifisches Wissen über Microservices oder Container-Technologie. Dennoch denke ich, dass ich mich gut in das Unternehmen einbringen kann.
+
+3798615690
+Bosch
+Softwareentwickler und -integrator AUTOSAR Classic Platform (w/m/div.) - anteilig remote
+
+Bewertung: 6
+Kommentar: Aufgrund meiner Erfahrung mit maschinellem Lernen und meiner Kenntnisse in Python würde ich gut zum Unternehmen passen. Allerdings habe ich keine spezifische Erfahrung mit AUTOSAR oder Mikrocontrollern, was möglicherweise ein Nachteil sein könnte. Trotzdem denke ich, dass meine Fähigkeiten und mein Interesse an Softwareentwicklung für den Job relevant sind und ich gerne die Herausforderung annehmen würde.
+
+3806665552
+Preis Ingenieurbüro
+embedded Software Entwickler (m/w/d)
+
+Bewertung: 7
+Kommentar: Die Stellenbeschreibung passt im Allgemeinen gut zu meinen Interessen und Fähigkeiten. Ich habe Erfahrung in der Softwareentwicklung, sowohl in C++ als auch in Python. Außerdem habe ich bereits Erfahrungen in der Entwicklung von Algorithmen und der Arbeit mit hardwarenaher Software gemacht. Die Tätigkeiten, wie die Entwicklung von Software-Architektur, das Testen von Software und die Entwicklung von Software-Tools, kommen meinen Fähigkeiten ebenfalls entgegen. Das einzige, was nicht perfekt passt, ist der spezifische Bezug zum Automobilbereich, aber ich bin offen dafür, neue Technologien kennenzulernen und mich in neue Themen einzuarbeiten.
+
+3800683519
+DIS AG
+Software-Developer (m/w/d) - Hybridanteil
+
+Bewertung: 4
+Kommentar: Obwohl ich Erfahrung in der Softwareentwicklung habe, liegt der Schwerpunkt meiner Kenntnisse und Erfahrungen mehr auf maschinellem Lernen und Data Science. Die Stellenbeschreibung erwähnt zwar die Programmiersprachen Java und C#, aber es wird auch spezifisch nach Microsoft Dynamics NAV und Datenbankkenntnissen gefragt, die ich nicht besitze. Daher denke ich, dass ich nicht optimal zum Jobprofil passe.
+
+3808634450
+Vesterling AG
+Softwaretester Testautomatisierung | .NET / C#, Python, Linux, VMware | Inhouse, Home-Office (mwd)
+
+Bewertung: 6
+Kommentar: Basierend auf meiner Erfahrung im Bereich maschinelles Lernen und Softwareentwicklung würde ich sagen, dass ich in der Lage bin, automatisierte Softwaretests durchzuführen. Ich habe Kenntnisse in Python und C++, was hilfreich sein kann. Allerdings habe ich keine Erfahrung mit .NET oder C#, und obwohl ich über Grundkenntnisse in Linux und VMware verfüge, fehlt mir die Erfahrung in der Netzwerktechnik. Trotzdem denke ich, dass ich in der Lage wäre, mich in diese neuen Bereiche einzuarbeiten und einen guten Job als Softwaretester in Testautomatisierung zu machen.
+
+3698166029
+GRENKE AG
+CONTROLLING DATA ANALYST (M/W/D)
+
+Bewertung: 4 
+Kommentar: Ich passe nicht perfekt zur Stellenbeschreibung, da mein Studium einen Schwerpunkt auf Maschinenbau und Data Science hat, während das Unternehmen jemanden mit einem Abschluss in Betriebswirtschaftslehre mit Schwerpunkt Controlling, Wirtschaftsinformatik oder Datenanalyse sucht. Ich habe auch keine spezifische Berufserfahrung in der Datenanalyse im Controlling. Allerdings habe ich gute Kenntnisse in SQL und MS Excel, was für die Stelle wichtig ist. Ich bin auch bereit, mich in neue Aufgabenstellungen und Systeme einzuarbeiten. Daher könnte ich mich trotzdem bewerben und meine Qualifikationen und Interessen hervorheben.
+
+3798615690
+Bosch
+Softwareentwickler und -integrator AUTOSAR Classic Platform (w/m/div.) - anteilig remote
+
+Bewertung: 6.5
+Kommentar: Deine Erfahrungen und Qualifikationen im Bereich maschinelles Lernen und Softwareentwicklung passen gut zur Stellenbeschreibung. Du hast Kenntnisse in Python, C++, und SQL, die in diesem Job gefragt sind. Außerdem hast du bereits Erfahrung in der Softwareentwicklung und der Entwicklung von AI-gesteuertem Greifen. Allerdings erwähnt die Stellenbeschreibung spezifische Erfahrungen im AUTOSAR-Kontext und mit Mikrocontrollern, die du vielleicht nicht hast. Trotzdem könntest du dich aufgrund deiner Qualifikationen und deines Interesses an maschinellem Lernen für den Job bewerben und deine Erfahrungen im Bewerbungsgespräch herausstellen.
+
+3740312640
+Consulting4IT GmbH
+Softwareentwickler (m/w/d)
+
+Bewertung: 5
+Kommentar: Ich habe grundlegende Kenntnisse in C# und habe bereits Erfahrung in der Softwareentwicklung gesammelt. Ich besitze jedoch keine spezifischen Kenntnisse in den von der Stellenbeschreibung genannten WEB UI Frameworks oder cloudfähigen Web-Applikationen. Dennoch bin ich offen für neue Herausforderungen und bereit, mich weiterzuentwickeln.
+
+3586243329
+NTT DATA Business Solutions
+Junior SAP Entwickler:in / Developer Ausbildungsprogramm (w/m/d)
+
+Bewertung: 5
+Kommentar: Ich denke, ich habe einige relevante Kenntnisse und Erfahrungen, die für den Job als Junior SAP Entwickler:in von NTT DATA Business Solutions nützlich sein könnten. Ich habe Erfahrung in der Softwareentwicklung und kenne auch Programmiersprachen wie Python. Allerdings habe ich keine spezifische Erfahrung mit SAP oder ABAP. Meine Kenntnisse in betriebswirtschaftlichen Abläufen sind begrenzt. Daher würde ich nicht perfekt in die Stellenbeschreibung passen, aber ich denke, ich könnte mich gut einarbeiten und schnell lernen.
+
+3799090891
+CBTW
+CLOUD- UND DEVOPS-ENGINEER (M/W/D)
+
+Bewertung: 6 Kommentar: 
+Basierend auf der Stellenbeschreibung, passt du zu einigen Anforderungen der Position. Du hast Erfahrung mit Cloud-Plattformen gearbeitet und hast Kenntnisse in Programmiersprachen wie Python und C++. Du hast auch Erfahrung mit Tools wie Jenkins und Docker. Deine Kenntnisse im Bereich maschinelles Lernen könnten ebenfalls von Vorteil sein. Es gibt jedoch auch einige Anforderungen in der Stellenbeschreibung, die du nicht erfüllst, wie zum Beispiel Kenntnisse in Kubernetes, Ansible und Monitoring-Frameworks. Insgesamt würde ich sagen, dass du dich für diesen Job bewerben könntest, da du einige relevante Fähigkeiten und Erfahrungen mitbringst, jedoch gibt es noch Verbesserungspotential.
+
+3800683519
+DIS AG
+Software-Developer (m/w/d) - Hybridanteil
+
+Bewertung: 3
+Kommentar: Ich habe Kenntnisse in den Programmiersprachen Python und C++, aber nicht in Java oder C#. Auch habe ich keine Erfahrung mit Microsoft Dynamics NAV. Es gibt einige Überschneidungen in den Kenntnissen, aber insgesamt denke ich, dass ich nicht sehr gut zur Stellenbeschreibung passe.
+
+3788646815
+EnBW Energie Baden-Württemberg AG
+Requirements Engineer (w/m/d)
+
+Bewertung: 7
+Kommentar: Ich denke, ich bin gut qualifiziert für den Job als Requirements Engineer. Ich habe einen Abschluss in Maschinenbau mit Schwerpunkt Data Science und habe während meines Studiums Erfahrungen in der Softwareentwicklung und Datenanalyse gesammelt. Ich habe auch praktische Erfahrung im Bereich maschinelles Lernen und Robotik. Ich habe gute Kenntnisse in Python und C++, was mir bei der Arbeit mit verschiedenen Programmiersprachen helfen wird. Obwohl ich keine spezifische Erfahrung in der Energiebranche habe, denke ich, dass meine technischen und analytischen Fähigkeiten mir helfen werden, mich schnell in die Anforderungen des Unternehmens einzuarbeiten.
+

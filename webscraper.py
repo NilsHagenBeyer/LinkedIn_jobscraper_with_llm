@@ -43,16 +43,20 @@ def dump_dict_to_file(dict_obj, file_name):
 
 def get_job_ids(target_url):
     job_id_list=[]
-    for i in range(0,math.ceil(117/25)):    #TODO change 117 to the number of jobs you want to scrape
+    for i in range(0,math.ceil(250/25)):    #TODO change 117 to the number of jobs you want to scrape
         res = requests.get(target_url.format(i))
         soup=BeautifulSoup(res.text,'html.parser')
         alljobs_on_this_page=soup.find_all("li")
         print(len(alljobs_on_this_page))
 
-        for x in range(0,len(alljobs_on_this_page)):        
-            jobid = alljobs_on_this_page[x].find("div",{"class":"base-card"}).get('data-entity-urn').split(":")[3]
-            print(jobid)
-            job_id_list.append(jobid)
+        for x in range(0,len(alljobs_on_this_page)):
+            try:
+                jobid = alljobs_on_this_page[x].find("div",{"class":"base-card"}).get('data-entity-urn').split(":")[3]
+                print(jobid)
+                job_id_list.append(jobid)
+            except:
+                print()
+    
     return job_id_list
 
 def get_job_content(job_url, job_ids):
@@ -101,7 +105,8 @@ def get_job_content(job_url, job_ids):
         
         c+=1
         if c>=10:
-            break
+            pass
+            #break
 
     return job_conten_list
 
@@ -147,35 +152,48 @@ def promt_llm(api_key, system, vita, job_description):
     )
 
     print(completion.choices[0].message.content)
+    return completion.choices[0].message.content
 
 def simple_search():
     job_ids=get_job_ids(target_url)
     k=get_job_content(job_url, job_ids)
+    filtered_jobs = filter_jobs(k, {"Seniority level": ["Associate", "Entry level"]})
+
     api_key = get_api_key()
     
     system = read_file_content("system.txt")
     vita = read_file_content("vita.txt")
 
-    for job_description in k:
+    for job_description in filtered_jobs:
         if not job_description["company"] == None:
             print(job_description["jobid"])
             print(job_description["company"])
             print(job_description["job-title"])
             print()
-            promt_llm(api_key, system, vita, job_description)
+            output = promt_llm(api_key, system, vita, job_description)
             print()
+
+            # append to output.txt
+            with open("output.txt", "a", encoding="utf8") as file:
+                file.write(f"{job_description['jobid']}\n")
+                file.write(f"{job_description['company']}\n")
+                file.write(f"{job_description['job-title']}\n")
+                file.write("\n")
+                file.write(output)
+                file.write("\n")
+                file.write("\n")
 
 
 
 if __name__=="__main__":
-    job_ids=get_job_ids(target_url)
+    ''' job_ids=get_job_ids(target_url)
     k=get_job_content(job_url, job_ids)
     
     filtered = filter_jobs(k, {"Seniority level": ["Associate", "Entry level"]})
     
     df = pd.DataFrame(k)
     df.to_csv('linkedinjobs.csv', index=False, encoding='utf-8')
-    dump_dict_to_file(k, "dings.txt")
+    dump_dict_to_file(k, "dings.txt")'''
 
     
     
@@ -187,4 +205,4 @@ if __name__=="__main__":
     job_description = read_file_content("job_description.txt")    
     promt_llm(api_key, system, vita, job_description)'''
 
-    #simple_search()
+    simple_search()
