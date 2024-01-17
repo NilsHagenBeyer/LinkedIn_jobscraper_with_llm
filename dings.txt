@@ -1,0 +1,252 @@
+jobid: 3802282754
+company: Club of Code
+job-title: (Senior) Python-Entwickler (m/w/d)
+header: IT Services and IT Consulting
+description: Du hast genaue Vorstellungen, wo du hinwillst oder bist noch unentschlossen? Wir bieten Dir eine Vielzahl von beruflichen Möglichkeiten in Festanstellung. Erreiche mit uns spannende Unternehmen und vereinbare noch heute Dein erstes Interview.
+Aufgaben
+Du arbeitest in einem dynamischen Team an einer Software-as-a-Service-Lösung (SaaS). Die Entwicklung erfolgt in einer Scrum-Umgebung. DevOps, CI/CD und Software-Tests sind zentraler Bestandteil der Qualitätssicherung.
+Das Frontend basiert auf JavaScript, React und Bootstrap mit SASS. Im Backend kommen Python, Django und PostgreSQL zum Einsatz. Die App läuft in Containern auf AWS.
+Qualifikation
+Programmiersprache
+Python (berufserfahren, min. 3 Jahre)
+Technologien
+Django, PostgreSQL, REST, Docker
+Sprachen
+Englisch (min. B2), Deutsch (vorteilhaft)
+Senior-Entwickler? Hier bist Du richtig!
+jobid: 3698166029
+company: GRENKE AG
+job-title: CONTROLLING DATA ANALYST (M/W/D)
+header: Financial Services
+description: WAS WIR TUN UND WIE WIR ARBEITEN
+Die GRENKE AG ist mit rund 2.100 Mitarbeiter:innen in mehr als 30 Ländern „Möglichmacher“ für kleine und mittelständische Unternehmen. Wir schaffen schnelle und einfache Finanzierungslösungen, die unseren Kunden helfen, ihre Geschäftsideen in die Tat umzusetzen. Denn wir sind überzeugt davon, die Geschäftswelt bietet viele Chancen, wenn man den Mut hat diese umzusetzen. Und so agieren auch wir, im Umgang mit unseren Kunden aber auch in unseren starken Teams: Mit Persönlichkeit, unternehmerischem Denken, selbstbestimmt, gesundem Pragmatismus aber auch der nötigen Entschlossenheit. Das ist Teil unserer Unternehmenskultur – und die Möglichkeit beruflich und persönlich zu wachsen.
+WAS SIE ERWARTET
+// Betreuung des internen Deckungsbeitragsmodells und dessen Komponenten
+// Regelmäßige Überprüfung, Dokumentation und Weiterentwicklung des zugrundeliegenden statistischen Modells der Deckungsbeitragsrechnung
+// Analyse und Interpretation von Finanzdaten, um wichtige Erkenntnisse und Trends zu identifizieren
+// Durchführung von Standardanalysen und Aufbereitung komplexer Datensätze
+// Ansprechpartner:in vieler (internationaler) Fachbereiche in der Rolle als Spezialist:in für die Deckungsbeitragsrechnung
+// Adressatenspezifische Aufbereitung und Präsentation Ihrer Ergebnisse
+// Ein motiviertes Team mit der Leidenschaft, unsere Organisation weltweit zu unterstützen
+WAS SIE MITBRINGEN
+// Erfolgreich abgeschlossenes Studium der Betriebswirtschaftslehre mit Schwerpunkt in Controlling, Wirtschaftsinformatik oder Datenanalyse
+// Erste Berufserfahrung in der Datenanalyse im Controlling
+// Fundierte Kenntnisse in der Programmiersprache SQL sowie sehr gute MS-Office-Kenntnisse, insbesondere MS Excel
+// Ausgeprägte Zahlenaffinität und Verständnis für datentechnische Zusammenhänge und Datenaufbereitung
+// Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+// Teamgeist sowie die Bereitschaft, sich in neue Aufgabenstellungen und Systeme einzuarbeiten
+WAS WIR BIETEN
+// Ein vielfältiges Angebot an Fort- und Weiterbildungen, u.a. in Form von LinkedIn Learning
+// Unternehmensweites Networking durch unser Buddy-Programm und Explore Breaks
+// Flexible Arbeitszeitgestaltung und Möglichkeit zu Remote Work
+// 30 Urlaubstage im Jahr sowie 24.12 und 31.12. frei
+// Ein vielseitiges Angebot an Gesundheits- und Sportaktivitäten inklusive Arbeitgeberzuschuss sowie die Möglichkeit zum Bike-Leasing
+// Zuschuss zum Mittagessen in unserer Kantine sowie kostenlose Getränke wie Wasser, Tee und Kaffee
+// Einen attraktiven Standort mit unkomplizierter Verkehrsanbindung und kostenlosen Parkplätzen
+Haben wir Ihr Interesse geweckt? Dann senden Sie uns Ihre aussagekräftigen Bewerbungsunterlagen über unser Bewerbermanagement System.
+Besonders freuen wir uns auf Bewerbungen von Kandidat:innen, die zur Vielfalt der GRENKE beitragen. Vielfalt beziehen wir insbesondere auf die Dimensionen kulturelle oder soziale Herkunft, Religion, Alter, Behinderung, Geschlecht und sexuelle Identität.
+Falls Sie Fragen haben, wenden Sie sich bitte an Frau Julia Hager // jobs@grenke.de.
+In Bezug auf Ihre Bewerbung ist die GRENKE AG verpflichtet, bei der Verarbeitung Ihrer personenbezogenen Daten Artikel 88 der DSGVO in Verbindung mit
+26 Bundesdatenschutzgesetz und die geltenden Vorschriften über die Aufbewahrungsfrist Ihrer personenbezogenen Daten zu beachten.
+jobid: 3800683519
+company: DIS AG
+job-title: Software-Developer (m/w/d) - Hybridanteil
+header: Human Resources Services
+description: Sie verbinden Motivation mit Expertise und sind der Fachexperte (m/w/d) in IT-Fragen? Sie suchen nach einer neuen Herausforderung im Berufsleben und glänzen mit Persönlichkeit und Leidenschaft für Ihren Job? Wir als DIS AG suchen Sie als Experte (m/w/d) in der Entwicklung im Raum Baden-Baden!
+Ihre Aufgaben
+Entwickeln in den Programmiersprachen Java / C# Backend- und Frontend-Komponenten
+Nutzung von moderne Frameworks und Tools wie z.B. Spring (Java), Git, Maven und Jenkins
+Implementierung von Anforderungsspezifikationen, neuen Features sowie Bugfixes
+Begleitung von Software-Tests und Produkt-Releases
+Fachübergreifende Zusammenarbeit in agilen und crossfunktionalen Teams
+Ihr Profil
+Hochschulabschluss in der Informatik, Wirtschaftsinformatik oder einem vergleichbare Abschluss
+Fundierte Kenntnisse in Microsoft Dynamics NAV und idealerweise mehrjährige Erfahrungen in Programmiersprache C# 
+Berufsrelevantes Studium oder eine Ausbildung abgeschlossen oder eine vergleichbare passende Qualifikation
+Idealerweise Erfahrung in der Softwareentwicklung in Java und / oder C# sowie den entsprechenden Frameworks (z. B. WPF (C# .NET), Spring (Java))
+Wünschenswert sind zusätzliche Kenntnisse im Umgang mit Datenbanken (z. B. MSSQL, Oracle) und deren Programmierung
+Sehr gute Deutschkenntnisse in Wort und Schrift sowie gute Englischkenntnisse
+Ihre Benefits
+Unbefristeter Arbeitsvertrag
+Ein monatliches Festgehalt bei übertariflicher Bezahlung
+Vermögenswirksame Leistungen
+Urlaubs- und Weihnachtsgeld
+Flexible Arbeitszeiten/ Homeoffice
+Sicherer Arbeitsplatz
+…und vieles mehr
+Bei uns wird Ihr Berufsweg zum persönlichen Walk of Fame – wir bieten Ihnen spannende Perspektiven in den Bereichen Assistenz & Sekretariat, Marketing, Vertrieb, HR sowie Einkauf & Logistik. Jetzt auf "direkt bewerben" klicken!
+Dein Kontakt
+Frau Janin Fuchs
+it-karlsruhe@dis-ag.com
+DIS AG
+IT
+Frühlingstraße 10
+76131 Karlsruhe
+Telefon: +49 0721 9335841
+jobid: 3798848788
+company: Club of Code
+job-title: JavaScript-/TypeScript-Entwickler (m/w/d)
+header: IT Services and IT Consulting
+description: Du hast genaue Vorstellungen, wo du hinwillst oder bist noch unentschlossen? Wir bieten Dir eine Vielzahl von beruflichen Möglichkeiten in Festanstellung. Erreiche mit uns spannende Unternehmen und vereinbare noch heute Dein erstes Interview.
+Aufgaben
+Du hast die Möglichkeit in einer Vielzahl von Aufgabengebieten tätig zu sein:
+Entwicklung an einem eigenen Produkt oder in verschiedenen Projekten
+Frontend-, Backend- oder Fullstack-Entwicklung
+Entwicklung von Microservices mittels Container-Technologie oder klassische Projekte
+Qualifikation
+Programmiersprache
+JavaScript / TypeScript (Berufseinsteiger oder -erfahren)
+Technologien
+HTML, CSS
+React 
+oder
+ Vue.js 
+oder
+ Node.js
+Git, Docker, Kubernetes
+Sprachen
+Deutsch (min. B2), Englisch
+Benefits
+Die Unternehmen bieten Dir unter anderem folgendes:
+Home Office
+bis zu 32 Urlaubstage
+Jobticket
+Weiterbildung
+bestmögliche Hardware-Ausstattung
+Ob Junior- oder Senior-Entwickler - hier bist Du richtig!
+jobid: 3740312640
+company: Consulting4IT GmbH
+job-title: Softwareentwickler (m/w/d)
+header: IT Services and IT Consulting
+description: Über Uns
+Wir sind Systemspezialist im Bereich Enterprise Service Management und unterstützen unsere Kunden hier mit einem klaren Fokus auf die Produkte und Lösungen unsere Partner Matrix42, Nexthink und Varonis.
+Wir suchen Menschen mit Leidenschaft, Ideen und der Motivation, etwas zu bewegen - authentische Persönlichkeiten, die Spaß daran haben, sich im Team zu entfalten und unsere Philosophie zu leben.
+Wen wir suchen
+Zum nächstmöglichen Zeitpunkt suchen wir Unterstützung in unserem Produkthaus für die Entwicklung unserer Eigenprodukte.
+Du bist vertraut mit C# und hast schon mal in der .NET-Welt vorbeigeschaut? Komm zu uns! Wir freuen uns auf enthusiastische Code-Begeisterte, die gemeinsam mit uns digitale Abenteuer erleben möchten.
+Dein Profil
+Was Du Mitbringen Solltest
+Neugier und den Drang, ständig Neues zu lernen
+Liebe zu sauberem Code und eleganten .NET Web-Oberflächen
+Ein Auge für Design, denn du wirst mit WPF UI arbeiten
+Teamgeist, denn bei uns wird im Team groß gedacht
+Eigeninitiative und einen strukturierten Arbeitsstil, um mit uns durchzustarten
+Bonus-Punkte Gibt's Für
+Kenntnisse in WEB UI Frameworks wie Angular, React o.ä. Erfahrung mit cloudfähigen Web Applikationen
+DevOps oder Github im Lebenslauf
+Aber Hey, Keine Sorge
+Du musst nicht alles können, bei uns kannst du auch hineinwachsen. Wir glauben an Potenzial und Leidenschaft!
+Was wir dir bieten
+Ein dynamisches Unternehmen, das ständig wächst und blüht. Eine familiäre Atmosphäre, wo jeder deinen Namen kennt. Weiterbildungsmöglichkeiten, die dich zum nächsten Level bringen. Einen extra Versicherungsschutz, weil uns deine Sicherheit am Herzen liegt
+Flexibilität in Arbeitszeit und -ort, weil Work-Life-Balance kein Fremdwort für uns ist
+Ein Team, das dich bei jeder Herausforderung unterstützt und mit dir feiert
+Bist du bereit, mit uns Geschichte zu schreiben?
+Dann schick uns deine Bewerbung schneller als ein Console.WriteLine("Hello World!"); ausgeführt wird!
+Per E-Mail an bewerbung@consulting4it.de oder sehr gerne auch direkt über unsere Webseite.
+Bei Fragen sind wir unter der Telefonnummer 07243 2058 806 erreichbar.
+Ergänzende Informationen
+Anforderungen an den Bewerber:
+Grundkenntnisse: JavaScript-Framework Angular, JavaScript-Framework React, Versionsverwaltungsprogramm GitHub
+Erweiterte Kenntnisse: Programmiersprache C#, Web-Applikationen (Entwicklung, Programmierung), Programmieren
+jobid: 3770785337
+company: dm-drogerie markt Deutschland
+job-title: Data Analyst Logistik (w/m/d)
+header: Retail
+description: Die zentrale Logistik plant und steuert die Bestell- und Lieferprozesse vom Industriepartner bis hin zum Endkunden. Um das komplexe Netzwerk abzubilden, zu optimieren und Prozesse zu automatisieren sind datengetriebene UseCases von entscheidender Bedeutung. In einem Projektteam arbeiten wir daran den analytischen Toolstack für die Logistik auszubauen, um eine schnelle Entscheidungsunterstützung zu bieten und moderne analytische Verfahren anwenden zu können.
+Sind Sie bereit, mit uns die analytische Zukunft der zentralen Logistik von dm zu gestalten? Dann bewerben Sie sich jetzt!
+Ihre Aufgaben
+Fachliche Anwendungsbetreuung der logistischen Planungs- und Modellierungssoftware SCS (Siemens Supply Chain Suite) 
+Versorgung und Mitwirkung bei der Weiterentwicklung der Daten-Schnittstellen der SCS 
+Betrieb und Weiterentwicklung von bestehenden logistischen UseCases 
+Anforderungserhebung, Strukturierung und Bewertung potenzieller Anwendungsfälle in Zusammenarbeit mit dem Fach- und IT- Bereich 
+Vorantreiben und Realisieren von datengetriebenen Projekten gemeinsam mit anderen Unternehmensbereichen (z.B. Netzwerkplanung) 
+Multiplikation von Anwendungsfällen innerhalb der dm-Logistik international 
+Das bringen Sie mit
+Erfolgreich abgeschlossenes Hochschulstudium der Wirtschaftsinformatik, Wirtschaftsingenieurwesen, Wirtschaftsmathematik oder eine vergleichbare Qualifikation 
+Erste Berührungspunkte in den Bereichen quantitative Logistik, Supply Chain Management oder Operations Research im Rahmen Ihres Studiums oder entsprechende Berufserfahrung
+Grundverständnis der Funktionsweise von Datenbanken und Datenstrukturen 
+Idealerweise Erfahrungen mit Supply Chain Planungsverfahren 
+Kenntnisse in einer Programmiersprache aus dem Data-Analytics-Umfeld (z.B. SQL, Python, R) von Vorteil 
+Gute Deutschkenntnisse (C 1 Level)
+Schnelle Auffassungsgabe und Freude am Gestalten von analytischen Lösungsansätzen 
+Das bieten wir Ihnen
+Attraktive Arbeitsbedingungen: Mit flexiblen Arbeitszeiten und überwiegend mobilem Arbeiten, einer 37,5 Std.-Woche sowie 30 Urlaubstagen, ermöglichen wir eine ausgewogene Work-Life-Balance. 
+Moderne Unternehmenszentrale: Helle Büroflächen, höhenverstellbare Tische, neueste Technik und ein Mitarbeiterrestaurant – unser dialogicum bietet ideale Bedingungen für Ihren Arbeitstag dank innovativer Ausstattung und intelligenter Konzepte. 
+Optimale Verkehrsanbindung: In direkter Nähe zur Autobahn, einer S-Bahn-Haltestelle und dem DB-Bahnhof Durlach gelegen, sind wir mit PKW und Bahn sehr gut erreichbar. Zudem gibt es ein kostenloses Parkhaus und eine Fahrradgarage, jeweils mit Elektro-Ladestationen. 
+Dialogische Unternehmenskultur: Unsere Arbeitsgemeinschaft ist geprägt durch den gegenseitigen Austausch auf Augenhöhe, Dynamik und flache Hierarchien. Ein zentraler Baustein unserer Zusammenarbeitskultur ist die Eigenverantwortung. 
+Mitgestaltung und Entwicklung: Bei uns kann sich jeder einbringen und dazu beitragen, Themen voranzutreiben. Zur fachlichen und persönlichen Entwicklung bieten wir vielfältige Weiterbildungsangebote an. 
+Weitere Vorteile und Zusatzleistungen: Profitieren Sie von weiteren Leistungen wie Mitarbeiterrabatt, Fahrrad (Jobrad)- und IT-Leasing, Urlaubs- und Weihnachtsgeld sowie betrieblicher Altersvorsorge. 
+Bitte beachten Sie, dass wir zur Bearbeitung Ihrer Bewerbung die Angabe Ihrer Gehaltsvorstellung und Ihres frühestmöglichen Eintrittstermins benötigen.
+jobid: 3730573805
+company: ercas Software Solutions GmbH
+job-title: Software Developer (m/w/d) Failsafe Systems
+header: Software Development
+description: Ihre Aufgaben
+Für die Weiterentwicklung des Produktportfolios im Bereich fehlersichere Systeme“ suchen wir erfahrene SW-Entwickler mit „Functional Safety“ Hintergrundwissen.
+Selbstständige Implementierung und Test der erforderlichen Softwaremodule
+Einhaltung von prozesskonformen Entwicklungsrichtlinien
+Erstellung der für den Zertifizierungsprozess erforderlichen Beschreibungen
+Mitarbeit bei der Klärung der Anforderungen für funktionale Sicherheit im Bereich der Prozessautomatisierung
+Erarbeiten von Konzepten, um die Anforderungen unter Berücksichtigung der relevanten Normen zu realisieren
+Mitwirkung am Planungsprozess des Sicherheitsnachweises
+Für den Know-How Aufbau ist eine umfassende Einarbeitungsphase basierend auf dem heute existierenden System geplant
+Ihr Profil
+Sehr gute Kenntnisse der Programmiersprache C#
+ Kenntnisse in HTML5 und JavaScript sind von Vorteil
+Mehrjährige Erfahrung im Bereich der SW-Entwicklung für industrielle Anwendungen
+Erfahrung im Umgang mit der Microsoft VS-Studio Entwicklungsumgebung und den zugehörigen „Configuration Management Tools (Azure DevOps)“
+Kenntnisse im Bereich „Funktionale Sicherheit“ sind wünschenswert
+Idealerweise Erfahrungen mit der SW-Entwicklung nach mindestens einer Safety-Norm sowie Erfahrung im Umgang mit IEC-Sicherheitsnormen (IEC61508, IEC 61511)
+Idealerweise Kenntnisse der SIMATIC Komponenten
+Deutsch- und Englischkenntnisse (in Wort und Schrift)
+Warum wir?
+Mitarbeit in einem der erfolgreichsten Konzerne Deutschlands
+Top Einarbeitung ab dem 1. Tag durch erfahrene Fachkollegen
+Überdurchschnittliche Vergütung
+Flexible Arbeitszeiten
+Firmenevents und Weiterbildungsmöglichkeiten
+Über uns
+Durch die ercas Software Solutions GmbH werden Ihre Talente gefordert und gefördert. Als familienfreundliches Unternehmen mit flachen Hierarchien bieten wir unseren Mitarbeitern die Möglichkeit, sich an Unternehmensentscheidungen zu beteiligen. Seit nun mehr als 20 Jahren überzeugen wir mit Qualität, Sicherheit und Effizienz. Werden auch Sie ein Teil unseres Teams und meistern mit uns gemeinsam spannende Herausforderungen.
+jobid: 3799756984
+company: Akkodis
+job-title: Generative KI-Berater (m/w/d) - Direktvermittlung - hybrides Arbeiten (Remote & Präsenz)
+header: IT Services and IT Consulting
+description: Sie haben fundierte Kenntnisse in der generative Künstliche Intelligenz? Sie suchen eine neue Herausforderung in einer unbefristeten Festanstellung?
+Dann sind Sie als Generative KI-Berater (m/w/d) direkt bei unserem renommierten Kunden in der IT-Dienstleistung am Standort Karlsruhe ideal.
+Ihre Aufgaben
+Erkennung, Beurteilung, Realisierung und Einschätzung der Verwendung von generativer AI für Abläufe im Produktmanagement
+Einführung von bewährten Methoden für Anwendungsbeispiele sowie Beratung, Konzeption und Entwicklung von fortschrittlichen Architekturlösungen 
+Erfassung von Anforderungen, Strukturierung und Bewertung potenzieller Anwendungsszenarien in Zusammenarbeit mit Fach- und IT-Seite
+Übernahme von Verantwortung und aktive Beteiligung an interdisziplinären Projektteams zur Umsetzung von Anwendungsbeispielen
+Ihr Profil
+Abgeschlossenes Studium der Informatik, Wirtschaftsinformatik oder vergleichbare Qualifikation
+Erfahrungen in generativer KI - insbesondere Bildgenerierung und Sprachmodellen, gute Kenntnisse mindestens einer Programmiersprache (z.B. Python oder Java) sowie erste Erfahrungen in der Programmierung mit generativer KI oder LLMs
+Fundiertes technisches Verständnis im Bereich künstlicher Intelligenz, Prozessautomatisierung und IT-Security
+Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+Das erwartet Sie
+Teamspirit und Diversität
+Work-Life-Balance
+Attraktive Vergütung
+Sozialleistungen
+Vielseitige Weiterbildungsmöglichkeiten
+Team- und Sportevents
+Globales Netzwerk
+Attraktives Mitarbeiterempfehlungsprogramm
+Die Benefits können je nach Position und Standort variieren. Eine Übersicht über unsere Benefits befindet sich auf unserer Webseite unterhalb Karriere und Benefits.
+Senden Sie uns direkt Ihre Bewerbung zu. Für Rückfragen stehen wir Ihnen gerne zur Verfügung. Wir freuen uns über die Bewerbung von Menschen, die zur Vielfalt unseres Unternehmens beitragen.
+Dein Kontakt
+Herr Thibaut Demmerlé
+Karlsruhe@akkodis.com
+Akkodis Germany Tech Experts GmbH
+Engineering
+Havellandstraße 6-14
+68309 Mannheim
+Telefon: +49 621 72827124
+jobid: 3804309507
+company: None
+job-title: None
+description: None
+jobid: 3737528987
+company: None
+job-title: None
+description: None
