@@ -2,6 +2,7 @@
 api_key.txt
 vita.txt
 system.txt
+outputs/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -1,5 +1,6 @@
 #%%
 import webscraper as w
+import os
 from IPython.display import display
 
 job_url='https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/{}'
@@ -124,4 +125,6 @@ job_df = w.simple_search(target_urls, job_url, filter, number_of_jobs=400, do_ma
 # display jobs dataframes
 display(job_df)
 # save job_df to csv
-job_df.to_csv("jobs.csv", index=False, sep=";")
+if not os.path.exists("outputs/jobs.csv"):
+    os.mkdir("outputs")
+job_df.to_csv("outputs/jobs.csv", index=False, sep=";")
