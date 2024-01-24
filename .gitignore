@@ -3,6 +3,7 @@ api_key.txt
 vita.txt
 system.txt
 outputs/*
+job_ids.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
