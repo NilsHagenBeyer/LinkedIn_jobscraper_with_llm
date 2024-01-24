@@ -828,3 +828,1082 @@ Software Developer PL/I (m/w/d)
 Ranking: 6
 Comment: Ich habe zwar keine Erfahrung mit der spezifischen Programmiersprache PL/I, aber meine Kenntnisse in C++ könnten mir helfen, das Wissen in PL/I aufzubauen. Meine Erfahrungen mit SQL und Git könnten auch von Nutzen sein. Allerdings fehlt mir Erfahrung mit z/OS, JCL und Bankenprodukten, was für diese Position wünschenswert ist.
 
+3807563487
+arconsis
+SENIOR SOFTWARE ENGINEER – CLOUD (ALL GENDERS)
+Ranking: 7
+Comment: Du hast Erfahrung als Software Engineer und verfügst über Kenntnisse in Cloud-Technologien wie AWS, Azure oder GCP. Du hast auch Erfahrung mit CI/CD-Pipelines und automatisierten Bereitstellungstools. Obwohl du keine spezifische Erfahrung als Senior Software Engineer erwähnst, könntest du dennoch gut in diese Position passen, da du über solide Programmierkenntnisse und Problemlösungsfähigkeiten verfügst. Du könntest auch Junior Software Engineers schulen und die technische Exzellenz fördern.
+
+3810723587
+Amadeus FiRe
+1st Level Supporter (m/w/d)
+Ranking: 4
+Comment: Obwohl ich gerade meinen Master in Maschinenbau abgeschlossen habe und Erfahrung mit maschinellem Lernen habe, passt meine Erfahrung nicht genau zu den Anforderungen des Stellenangebots. Das Unternehmen sucht jemanden mit einer abgeschlossenen Ausbildung im IT-Bereich und fortgeschrittenen Kenntnissen im Bereich Software-Deployment und Client-Management. Meine Kenntnisse in diesen spezifischen Bereichen sind begrenzt, daher passt die Stelle nicht perfekt zu mir. Trotzdem könnte ich mich bewerben und versuchen, meine Fähigkeiten und Erfahrungen im maschinellen Lernen zu betonen.
+
+3804612400
+simplicity networks GmbH
+Software Developer (m_w_d)
+Ranking: 5
+Comment: Die Stellenbeschreibung sucht nach einem Softwareentwickler, der sich für Software Development begeistert und Wert auf Clean Code und Eigenverantwortung legt. Da dies deine Interessen widerspiegelt und du Erfahrungen in der Softwareentwicklung mitbringst, passt du grundsätzlich gut zur Stellenbeschreibung. Allerdings fehlt in deiner Vita eine ausdrückliche Erfahrung mit den genannten Programmiersprachen (Python, TypeScript, Go) und Datenbanksystemen (SQL, Postgres, DynamoDB). Daher ist das Ranking eher durchschnittlich.
+
+3810412152
+myposter GmbH
+DevOps Engineer (m/w/d)
+Ranking: 7
+Comment: Die Stellenbeschreibung als DevOps Engineer beinhaltet viele Aspekte, die gut zu meiner technischen Ausbildung passen. Ich habe Erfahrung mit der Automatisierung von Prozessen und mit der Entwicklung von Software. Ich habe auch Erfahrung mit Cloud-Providern, obwohl es in der Stellenbeschreibung speziell AWS erwähnt wird. Meine Kenntnisse in Python und meiner Erfahrung mit Continuous Integration passen auch gut zu den Anforderungen. Die einzigen Einschränkungen könnten meine begrenzte Erfahrung mit Bash-Scripting und meine mangelnde Erfahrung mit einigen der spezifischen Tools und Komponenten des Stacks sein. Insgesamt denke ich also, dass ich gut zu dieser Stellenbeschreibung passe und würde mich dafür bewerben.
+
+3799306401
+filancore
+Software Developer (m/w/d) [100% Remote in DE]
+Ranking: 6
+Comment: Aufgrund deiner Erfahrung in der Softwareentwicklung und deiner Kenntnisse in Programmiersprachen wie Python und C++, sowie deiner Erfahrung mit Datenbanken und SQL, passt du gut zur Stellenbeschreibung als Softwareentwickler. Allerdings ist es wichtig zu beachten, dass Kenntnisse in Rust und Docker sowie Erfahrung mit sicherheitskritischen Systemen und Container-Orchestrierungstools (Kubernetes, Nomad) gewünscht sind. Es könnte also erforderlich sein, einige zusätzliche Fähigkeiten zu erlernen, um für den Job optimal qualifiziert zu sein.
+
+3805036882
+Onity_
+Werkstudent Vertrieb Recruiting as a Service in Teilzeit
+Ranking: 2
+Comment: Obwohl du Interesse an maschinellem Lernen und Cybersicherheit hast, ist dieser Job im Vertrieb und im Bereich Recruiting. Die Hauptaufgaben beinhalten die Identifizierung und Ansprache von Unternehmen, die Schwierigkeiten haben, interne IT-Positionen zu besetzen, sowie die Pflege von Kundenbeziehungen und die Vertragsabwicklung. Deine Erfahrung im Bereich maschinelles Lernen und Softwareentwicklung ist nicht direkt relevant für diese Stelle.
+
+3798615677
+Bosch
+Softwareentwickler und -integrator AUTOSAR Classic Platform (w/m/div.) - anteilig remote
+Ranking: 7
+Kommentar: Die Stellenbeschreibung passt gut zu meiner Erfahrung und Interessen. Ich habe Erfahrung in der Entwicklung von Embedded Software und auch mit AUTOSAR-Toolketten. Ich habe zwar nicht explizit Erfahrung mit der Konfiguration von Modulen der Basissoftware, aber ich denke, dass ich mich schnell in diese Aufgaben einarbeiten könnte. Meine Programmierkenntnisse in C sind solide und ich habe auch praktische Erfahrung mit Automotive-Entwicklungswerkzeugen wie dem Vector CANoe. Ich denke, ich könnte einen wertvollen Beitrag leisten und würde mich gerne für diesen Job bewerben.
+
+3810424741
+Kenbun IT AG
+Software Developer (w/m/d) - Karlsruhe / Stuttgart / München / remote
+Ranking: 9
+Comment: Ich denke, dass ich gut zur Stellenbeschreibung passe. Ich habe einen Master-Abschluss in Maschinenbau mit Schwerpunkt Data Science und habe Erfahrung mit maschinellem Lernen und Python. Ich habe auch einige Kenntnisse in C++, SQL und ROS. Obwohl ich keine Erfahrung mit Java, Swift oder Rust habe, kann ich mich schnell in neue Programmiersprachen einarbeiten. Ich habe auch Erfahrung mit der Entwicklung von Software für die Produktion, was in der Stellenbeschreibung erwähnt wird. Darüber hinaus habe ich Interesse an KI-Technologien und NLP, was in der Stellenbeschreibung ebenfalls wichtig ist. Meine Deutsch- und Englischkenntnisse sind gut. Insgesamt denke ich, dass ich gut zu der Stellenbeschreibung passe und würde mich daher mit einer Bewertung von 9 bewerben.
+
+3789360388
+ADVERGY GmbH
+Java Developer (m/w/d) | bis zu 100% Remote
+Ranking: 5
+Comment: Ich habe einige Erfahrung mit der Programmiersprache Java, jedoch nicht viel Berufserfahrung. Ich kenne auch Frameworks wie Spring und Hibernate. Allerdings habe ich keine Erfahrung mit Angular oder React. Die Flexibilität und die Benefits, die das Unternehmen bietet, sind jedoch attraktiv für mich. Insgesamt denke ich, dass ich mich für diesen Job bewerben könnte, obwohl meine Erfahrung vielleicht nicht ganz ausreicht.
+
+3802694933
+Smart Host
+Sales Manager (m/w/d) - Remote von Deutschland / Österreich
+Ranking: 6
+Comment: Da du Erfahrung im Bereich maschinelles Lernen hast und auch Interesse an Softwareentwicklung und Cybersicherheit zeigst, könnte der Job als Sales Manager bei Smart Host interessant für dich sein. Obwohl der Job eher im Vertrieb liegt, könntest du in diesem technologieorientierten Unternehmen einen Mehrwert bieten, indem du potenziellen Kunden die Vorteile von maschinellem Lernen und KI in ihrem Hotelbetrieb erklärst. Es könnte eine gute Gelegenheit sein, dein Wissen und deine Leidenschaft in die Hotelbranche zu bringen und gleichzeitig deine Kommunikations- und Verhandlungsfähigkeiten auszubauen.
+
+3804526156
+Nitrado
+Software Developer (m/f/x)
+Ranking: 5
+Comment: 
+Based on your experience and skills, you seem to have some relevant knowledge for the Software Developer position at Nitrado. You have experience in software development and you are proficient in programming languages like Python, which is mentioned in the job description. You also have some experience with Git, which is another requirement mentioned in the description. However, there are also some areas where you have less experience or knowledge, such as Go/Golang, PHP, and Redis. Overall, while you have some of the required skills and experience, there are still areas where you would need to further develop your skills. Considering this, ranking yourself at a 5 seems appropriate.
+
+3811639671
+Majori GmbH
+DevOps-Engineer
+Ranking: 7
+
+Comment: Basierend auf meiner Vita passt die Stellenbeschreibung recht gut zu meinen Fähigkeiten und Interessen. Ich habe Erfahrung mit Cloud-Technologien, insbesondere mit AWS, und auch solide Kenntnisse in Linux, Netzwerken und Sicherheit. Außerdem habe ich Erfahrung mit automatisierten Deployments und Versionierungssystemen wie Git. Obwohl ich keine Erfahrung mit Terraform und Docker/Kubernetes habe, bin ich motiviert, mich in diese Technologien einzuarbeiten. Auch bin ich ein Teamplayer und entwickle gerne in einer gängigen Programmiersprache. Daher denke ich, dass ich mich für diesen Job bewerben sollte.
+
+3811337767
+TELUS International AI Data Solutions
+Home office: Internet Ads Assessors (m/f/d)
+Ranking: 5
+Comment: 
+Based on the information provided in your CV, you have some relevant skills and experiences for the job as an Internet Ads Assessor. You have experience in reviewing and analyzing online content, which can be beneficial for assessing the content and quality of internet ads. Additionally, your knowledge of different programming languages and your background in data science may also be valuable in this role.
+However, there are some requirements in the job description that you may not meet, such as the need for a specific smartphone and continuous residence in Germany. Therefore, while you have some relevant qualifications, there may be some gaps between your profile and the job requirements. Hence the ranking of 5.
+
+3596166510
+Sopra Steria
+Software Developer PL/I (m/w/d)
+Ranking: 4
+Comment: Obwohl du Erfahrung in der Softwareentwicklung hast und auch mit Git arbeitest, passen deine Kenntnisse nicht ganz zur Stellenbeschreibung. Die Stelle erfordert Kenntnisse in PL/I oder C++, während du Erfahrung mit Python hast. Es könnte dennoch möglich sein, sich für die Stelle zu bewerben und deine Fähigkeit zur Einarbeitung in neue Programmiersprachen und Technologien hervorzuheben.
+
+3734610115
+msg
+(Junior) Consultant im Bereich aktuarielle Beratung (m/w/d)
+Ranking: 2
+Comment: Based on the given job description, it seems that the position requires a strong background in mathematics and actuarial science, which I don't have. Additionally, the job involves knowledge of programming languages like C, C++, or Java, in which I only have limited experience. Therefore, I don't think I am a good fit for this particular job.
+
+3576932748
+msg
+(Junior) Cloud Engineer Insurance (m/w/d)
+Ranking: 6
+Comment: Based on your experience with Python and your interest in machine learning, this job as a Junior Cloud Engineer in the insurance industry could be a good fit for you. You have the required development experience in a common programming language and knowledge of frameworks. While you may not have direct experience with cloud technologies like AWS or Microsoft Azure, your background in data science and software development can be transferable to this role. Additionally, your experience in working with agile projects and your motivation for continuous learning align with the job requirements. However, you may need to acquire more specific knowledge in cloud technologies and microservices to excel in this position.
+
+3791032277
+Workwise
+Fullstack Software Engineer - Angular / Cloud Computing / Objektorientierte Programmierung (m/w/d)
+Ranking: 7
+Comment: Ich würde mich mit einer Bewertung von 7 bewerben, da meine Kenntnisse und Erfahrungen in der Softwareentwicklung und maschinellen Lernen gut zur Stellenbeschreibung passen. Obwohl ich hauptsächlich Kenntnisse in Python habe, habe ich auch Erfahrungen in C++, SQL und ROS, was in der Jobbeschreibung gefragt wird. Ich habe auch Erfahrung in der Entwicklung von AI-gesteuerten Lösungen und der Arbeit mit Bilderkennung, was für die maßgeschneiderten Softwarelösungen, die in der Beschreibung erwähnt werden, relevant sein könnte. Allerdings habe ich weniger Erfahrung mit Angular und Cloud Computing, daher ist meine Bewertung nicht höher.
+
+3780309719
+Nigel Frank International
+Java Fullstack Developer (m/w) -100% remote- 75.000EUR
+Ranking: 4 
+Comment: Obwohl ich Erfahrung in der Softwareentwicklung und mit der Programmiersprache Java habe, fehlt mir die Erfahrung mit den spezifischen Technologien wie Spring, CI/CD und Docker/Kubernetes, die in der Stellenbeschreibung gefordert sind. Außerdem habe ich keine Erfahrung mit Frontend-Frameworks wie React oder Angular. Daher passt die Stelle nicht perfekt zu meinen Fähigkeiten und Erfahrungen, aber ich könnte mich trotzdem bewerben und meine Kenntnisse in den geforderten Technologien weiterentwickeln.
+
+3808862371
+join.com
+Softwareentwickler (m/w/d) at Supremum Marketing GmbH
+Ranking: 7
+Comment: Based on the information provided in your resume, you have a good foundation for the Softwareentwickler job at Supremum Marketing GmbH. You have experience in software development, including working with Python, which is a required language for the job. Additionally, your experience with data analysis and the ability to work independently align well with the responsibilities listed in the job description. While you may not have experience with some of the desired languages like C++ and JavaScript, your willingness to learn new technologies and languages should make you a strong candidate for the role. Overall, with some additional experience in certain areas and your enthusiasm for the field, you have a good chance at securing this job.
+
+3804302500
+USU Solutions DACH
+Softwareentwickler (w/d/m) Big Data/ KI
+Ranking: 6
+Comment: Ich denke, dass ich gut zu dieser Stellenbeschreibung passe, da ich solide Kenntnisse in Python habe, was eine der geforderten Programmiersprachen ist. Ich habe auch Erfahrungen mit Softwareentwicklung und bin daran interessiert, meine Fähigkeiten im Bereich maschinelles Lernen und Big Data weiter auszubauen. Allerdings habe ich weniger Erfahrung mit den container-Lösungen und BigData-Technologien, die erwähnt werden. Dennoch denke ich, dass ich mich gut in das agil Team integrieren kann und von Forschungsprojekten und Innovationen begeistert sein kann.
+
+3785396974
+IPG Automotive
+DevOps Engineer (m/w/d)
+Ranking: 6
+Comment: Deine Kenntnisse in Python könnten in diesem Job von Vorteil sein, da JavaScript oder eine andere Skriptsprache erforderlich ist. Auch deine Erfahrungen mit Git könnten nützlich sein, da GitLab und Bitbucket genannt werden. Es wird jedoch auch Erfahrung in C/C++ und Docker gewünscht, von denen du weniger Erfahrung hast. Wenn du bereit bist, dich in diese Bereiche weiterzuentwickeln, könntest du eine gute Passform sein.
+
+3811069281
+group24 AG
+Softwareentwickler künstliche Intelligenz und maschinelles Lernen (m/w/d)
+Ranking: 8
+Comment: Ich passe gut zur Stellenbeschreibung, da ich einen Abschluss in Data Science habe und Erfahrung mit der Entwicklung von KI-Anwendungen. Ich habe auch Kenntnisse in Python und gängigen KI-Frameworks. Obwohl ich nicht viel Erfahrung mit gängigen Tools innerhalb der Embedded Softwareentwicklung habe, bin ich mir sicher, dass ich mich schnell in diese Tools einarbeiten könnte. Der Job bietet die Möglichkeit, in einem agilen Projektumfeld mit einem jungen Team zusammenzuarbeiten, was mir sehr gefällt.
+
+3808634450
+Vesterling AG
+Softwaretester Testautomatisierung | .NET / C#, Python, Linux, VMware | Inhouse, Home-Office (mwd)
+Ranking: 6 
+Comment: Ich würde mich zu dieser Stellenbeschreibung mit einer Bewertung von 6 bewerben. Meine Erfahrung im Bereich Softwareentwicklung und Kenntnisse in den Programmiersprachen Python und C++ passen gut zur Anforderung, automatisierte Software-Tests zu entwickeln und durchzuführen. Zwar habe ich weniger Erfahrung mit .NET / C# und VMware, aber ich bin bereit, mich in diese Bereiche einzuarbeiten. Meine Sprachkenntnisse in Deutsch und Englisch erfüllen ebenfalls die Anforderungen.
+
+3750064487
+Workwise
+Projektingenieur - Kundenservice / Administration / Beratung / Konzeption (m/w/d)
+Ranking: 5
+Comment: The job description mentions experience with programming languages, IT networks, and development tools, which aligns with my skills and interests. However, I don't have specific experience with the PLM system PTC Windchill or ERP systems like SAP, S/4HANA, Microsoft D365, NAV, or Oracle. So while I believe I could be a good fit for this job, there may be some learning curve involved.
+
+3665708554
+Bertrandt Group
+Testingenieur Mikro-Positioniersysteme (m/w/d)
+Ranking: 7
+Comment: Ich denke, ich passe gut zur Stellenbeschreibung, da ich einen Abschluss in Maschinenbau mit Spezialisierung auf Data Science habe. Ich habe Erfahrung mit der Entwicklung von Bilderkennungspipelines und einer Schnittstelle für AI-gesteuertes Greifen von Roboterarmen. Dies zeigt meine Kenntnisse in der Konzeptionierung, Durchführung, Auswertung und Dokumentation von Tests auf System- und Komponentenebene. Ich habe auch Erfahrung mit der Versuchsplanung, Verifizierung und Validierung von Produktmerkmalen . Zudem bringe ich gute Kenntnisse in Python mit, was ideal ist, da eine moderne Programmiersprache gefordert ist. Allerdings fehlt mir etwas Erfahrung im Umgang mit CAD & FEM, was ein Nachteil sein könnte. Insgesamt denke ich jedoch, dass ich gut zu dieser Stelle passe und deshalb eine Bewertung von 7 gebe.
+
+3798615690
+Bosch
+Softwareentwickler und -integrator AUTOSAR Classic Platform (w/m/div.) - anteilig remote
+Ranking: 7
+Comment: Ich denke, ich passe recht gut zur Stellenbeschreibung, da ich Erfahrung in der Softwareentwicklung und im Umgang mit Embedded-Systemen habe. Ich habe auch Kenntnisse in der Programmiersprache C und Erfahrung mit AUTOSAR und verschiedenen AUTOSAR-Toolketten. Obwohl ich nicht genau über die geforderten Berufserfahrungen verfüge, denke ich, dass meine Kenntnisse und Fähigkeiten ausreichen, um in dieser Rolle erfolgreich zu sein.
+
+3759067856
+INFORM GmbH - Optimization Software
+KI-Softwareentwickler (all genders)
+Ranking: 7.5
+Comment: Based on your experience with Python and your background in data science, you have a strong foundation for the role of a KI-Softwareentwickler. Your experience with AI technologies and your ability to develop software products using KI would make you a valuable asset to the company. However, it would be beneficial to have more practical experience in the field of Künstliche Intelligenz and proficiency in higher programming languages. Overall, you have a good match for the job description and could consider applying for the position.
+
+3806308937
+join.com
+Softwareentwickler Python (m/w/d) Festanstellung, in Voll- oder Teilzeit (mind. 30 Stunden/Woche) · Hannover at tec connect GmbH
+Ranking: 7
+Comment: Ich denke, ich passe recht gut zur Stellenbeschreibung. Ich habe Erfahrung in der Softwareentwicklung mit Python und habe gute Kenntnisse in den Webtechnologien JavaScript, HTML und CSS. Ich habe auch Erfahrung mit Git, was in der Stellenbeschreibung erwähnt wird. Das einzige, was mir fehlt, ist spezifische Erfahrung mit dem ERP-System Odoo, aber ich denke, dass meine allgemeinen Kenntnisse und Erfahrungen ausreichen könnten. 
+
+3791029868
+Workwise
+Fullstack Software Engineer - Angular / Cloud Computing / Objektorientierte Programmierung (m/w/d)
+Ranking: 5
+Comment: Ich habe Erfahrung in der Softwareentwicklung, sowohl im Front-End als auch im Back-End und bin erfahren mit Angular. Ich habe auch Kenntnisse in Datenbanken und Service-Architekturen. Allerdings habe ich weniger Erfahrung mit Cloud Computing und objektorientierter Programmierung in C# oder Java. Auch habe ich keine Erfahrung mit Künstlicher Intelligenz oder Digitalisierung, was in dieser Stellenbeschreibung erwähnt wird. Trotzdem denke ich, dass ich mich aufgrund meiner Erfahrungen in der Softwareentwicklung und meiner Kenntnisse in Angular bewerben könnte.
+
+3596168393
+Sopra Steria
+Developer Robotic Process Automation (RPA) (m/w/d)
+Ranking: 6
+Comment: Aufgrund deines Studiums im Bereich Data Science und deiner Erfahrung mit maschinellem Lernen in der Softwareentwicklung passt dieser Job gut zu dir. Du bringst bereits Erfahrung in der Entwicklung von automatisierten Prozessen mit und hast Kenntnisse in einer objektorientierten Programmiersprache wie Python. Es gibt jedoch einige Anforderungen in Bezug auf Robotic Process Automation (RPA), bei denen du weniger Erfahrung hast. Wenn du bereit bist, dich in diesem Bereich weiterzuentwickeln, könnte dies ein guter Job für dich sein.
+
+3807151032
+Vesterling AG
+Testentwicklungsingenieur Halbleitersysteme | Messmethodik, Statistik, C / C++ (mwd) Nr. 20064_0
+Ranking: 5
+Comment: Der Job als Testentwicklungsingenieur Halbleitersysteme könnte interessant sein, da er Elektrotechnikkenntnisse erfordert und Erfahrung mit Multimeter- und Oszilloskopmessungen in Analog- und Digitalschaltungen voraussetzt. Auch Kenntnisse in Statistik und statistischer Datenauswertung sind erforderlich. Allerdings wird in der Stellenbeschreibung auch Erfahrung in der Mikroelektronikentwicklung und Kenntnisse in der Automatisierung von elektrischen Messungen mikroelektronischer Schaltungen in Labor / Produktion gewünscht, die ich nicht ausdrücklich in meiner Vita erwähnt habe. Daher ist das Ranking eher durchschnittlich.
+
+3808518421
+n-komm GmbH
+Ausbildung zum Fachinformatiker Anwendungsentwicklung
+Ranking: 6
+Comment: Ich habe einige der geforderten Kenntnisse und Erfahrungen wie Programmierung in Python, aber auch Java, C#, und Python. Ich habe auch Erfahrung in der Softwareentwicklung und der Analyse von Anforderungen. Allerdings bin ich kein Experte in der Anwendungsentwicklung und habe weniger Erfahrung mit einigen der geforderten Programmiersprachen. Außerdem bin ich eher an Themen wie maschinelles Lernen und Cybersicherheit interessiert, was möglicherweise nicht perfekt zur Beschreibung dieser Stelle als Fachinformatiker für Anwendungsentwicklung passt.
+
+3641555135
+Alter Solutions Deutschland
+(Senior) Consultant - Security Testing (m/w/d)
+Ranking: 5
+Comment: Ich denke, ich passe einigermaßen gut zur Stellenbeschreibung. Obwohl ich nicht über 3 Jahre Erfahrung im Bereich Penetrationstesting und Produktsicherheitsanalyse verfüge, habe ich Erfahrung im Bereich Cybersicherheit und habe in meinem Studium Kenntnisse in Sicherheitsmechanismen und Kryptografie erworben. Ich habe auch Erfahrung in der Entwicklung von Software und könnte daher bei der Entwicklung von Tools mitarbeiten. Meine Programmierkenntnisse in Python könnten auch von Vorteil sein. Allerdings fehlen mir vertiefte Kenntnisse in den meisten der aufgeführten Bereiche und ich besitze keine der angegebenen Zertifizierungen.
+
+3806123263
+Quants AG
+JUNIOR PORTFOLIOMANAGER (M/W/D)
+Ranking: 3
+Comment: Obwohl ich Kenntnisse in Python habe und analytische Fähigkeiten besitze, passt meine Erfahrung im Bereich maschinelles Lernen nicht perfekt zu der Stellenbeschreibung als Junior Portfoliomanager. Die Position erfordert Kenntnisse in der Unternehmensbewertung, Programmierkenntnisse in Python, VBA oder SQL und gute EDV-Kenntnisse in Excel. Ich habe auch keine Erfahrung in Refinitiv, Bloomberg oder Infront Portfoliomanager. Daher passt die Stelle nicht perfekt zu meinen Fähigkeiten und Erfahrungen, aber ich könnte immer noch  lernen und mich weiterentwickeln, um den Anforderungen gerecht zu werden.
+
+3798620557
+Bosch
+Softwareentwickler und -integrator AUTOSAR Classic Platform (w/m/div.) - anteilig remote
+Ranking: 3
+Comment: Die Stellenbeschreibung sucht einen Softwareentwickler und -integrator für die AUTOSAR Classic Platform. Obwohl du Erfahrung in der Softwareentwicklung hast, bezieht sich diese hauptsächlich auf Python und nicht auf die AUTOSAR-Plattform. Die Beschreibung erwähnt auch Erfahrung mit Mikrocontrollern und Automotive-Bussystemen, von denen du keine Erfahrung hast. Daher passt die Stellenbeschreibung nicht gut zu deinen Fähigkeiten und Interessen.
+
+3683780899
+PACE
+Golang Developer m/w/d
+Ranking: 7
+Comment: 
+Basierend auf deiner Vita scheinst du sehr gute Voraussetzungen für den Job als Golang Developer zu haben. Du hast Erfahrung in der Softwareentwicklung mit verschiedenen Programmiersprachen, darunter Python, was als vergleichbare Programmiersprache betrachtet werden kann. Du hast auch Erfahrung mit der Arbeit in einer Microservice-Architektur und mit der Entwicklung von REST-APIs. Obwohl du keine spezifischen Kenntnisse in Go hast, scheinst du sehr interessiert daran zu sein und bereit, dich in diese Technologie einzuarbeiten. Du bringst auch gute Kenntnisse in der Versionskontrolle mit Git mit. Einziger Nachteil könnte sein, dass du nicht über Deutschkenntnisse auf sehr hohem Niveau verfügst, was in der Stellenbeschreibung erwähnt wird. Aber insgesamt denke ich, dass du definitiv in Betracht ziehen solltest dich auf diese Stelle zu bewerben.
+
+3788646815
+EnBW Energie Baden-Württemberg AG
+Requirements Engineer (w/m/d)
+Ranking: 5
+Comment: 
+
+Based on your experience and skills in machine learning and software development, you have some relevant knowledge for the Requirements Engineer position at EnBW. Although the job description mentions experience in the energy sector, there is no specific requirement for machine learning or software development skills. However, your background in data science and experience in developing AI solutions could be valuable for analyzing customer data and translating business requirements into technical capabilities. Additionally, your experience in cross-functional teams and ability to communicate with stakeholders can contribute to building good relationships and effective collaboration. However, since you have less experience in requirements engineering and no specific experience in the energy industry, your fit for the role may not be as strong as it could be. Nonetheless, it could still be a good opportunity to consider for your career development.
+
+3725983312
+MegaPart GmbH
+Firmware Entwickler
+Ranking: 6
+Comment: 
+Ich passe gut zur Stellenbeschreibung, da ich auf meinem Master-Abschluss im Maschinenbau mit Schwerpunkt Data Science aufbaue und Erfahrung in der Entwicklung von Software und maschinellem Lernen habe. Ich habe Kenntnisse in den Programmiersprachen C und C++, was eine der Anforderungen der Stellenbeschreibung ist. Darüber hinaus habe ich Erfahrung mit Multi-Core- und Multi-Prozessor-Systemen sowie mit Multi-Threading und Echtzeitsystemen, was ebenfalls gefragt ist. Allerdings habe ich keine Erfahrung mit bestimmten Feldbussen wie Profinet und Profibus, was in der Stellenbeschreibung als wünschenswert, aber nicht notwendig, aufgeführt wird. Insgesamt denke ich, dass ich gut zum Profil eines Firmware Entwicklers passe und wäre daher interessiert, mich für den Job zu bewerben.
+
+3789140495
+SVA System Vertrieb Alexander GmbH
+Senior IT-Consultant KI – Öffentliche Auftraggeber (m/w/d)
+Ranking: 7
+Comment: Based on your background in data science and machine learning, as well as your experience with Python and automation projects, you seem like a good fit for this Senior IT-Consultant position in the field of artificial intelligence. Your knowledge and experience in machine learning and the ability to quickly learn new technologies align well with the job requirements. However, your experience in leading IT projects or data science is not mentioned in your Vita, which could be a potential drawback. Overall, you have a strong foundation and could be a strong candidate for this position.
+
+3807605190
+join.com
+Fullstack Developer (m/w/d) für neues Startup at DIGITALE NEUORDNUNG
+Ranking: 7
+Comment: Based on your experience in software development, especially in Python, and your interest in machine learning and cybersecurity, this job as a Fullstack Developer in a new startup could be a good fit for you. Although you may not have experience with all the specific technologies mentioned in the job description, your background and skills make you a strong candidate for this position. Additionally, the opportunity to be one of the first employees and potentially a co-founder of the startup adds to the appeal of this job. Consider applying and showcasing your experience in software architecture, frontend and backend development, and your motivation to build a new product.
+
+3751709773
+Almato AG
+Softwareentwickler / Microsoft Power Platform-Entwickler (all genders)
+Ranking: 4
+Comment: Obwohl ich Erfahrung in der Softwareentwicklung habe und Kenntnisse in objektorientierten Programmiersprachen besitze, habe ich keine Erfahrung mit der Power Platform von Microsoft. Außerdem fehlen mir Kenntnisse in Java oder C#, die in der Stellenbeschreibung gefragt sind. Daher denke ich, dass ich nur bedingt zu dieser Stelle passe.
+
+3803111595
+DIS AG
+Softwareentwickler (m/w/d) - Hybridanteil
+Ranking: 7
+Comment: Die Stellenbeschreibung passt größtenteils zu meinen Fähigkeiten und Interessen. Ich habe Erfahrung in der Softwareentwicklung mit den Programmiersprachen Java und C#, und auch in der Verwendung von modernen Frameworks und Tools wie Git und Maven. Ich habe zwar weniger Erfahrung mit Microsoft Dynamics NAV und WPF, aber ich denke, dass ich mich schnell in neue Technologien einarbeiten kann. Meine Kenntnisse in der Datenbankprogrammierung sind ebenfalls begrenzt, aber ich habe SQL-Kenntnisse, die für eine Einarbeitung hilfreich sein könnten. Insgesamt denke ich, dass ich gut zur Stellenbeschreibung passe und ich würde mich gerne bewerben.
+
+3743702288
+SINC GmbH
+Softwareentwickler (m/w/d) Webtechnologien
+Ranking: 6
+Comment: Based on your experience in software development and your interest in machine learning, this job as a software developer (m/w/d) with a focus on web technologies seems like a good fit. You have experience with Python, which is a valuable skill in this role, and you have some experience with C++ and SQL, which could be useful in web development. Additionally, your knowledge of machine learning could be applied to developing robust software solutions. However, you may need to gain more experience with Angular and Ionic, the frameworks used in this job.
+
+3722383120
+LIONSTEP
+Database Developer (w/m/d)
+Ranking: 5.5
+Comment: Based on your experience in data science, software development, and machine learning, you have some relevant skills for the position of a database developer. You have experience in Python, which is often used in database development, and you also have some experience with SQL. However, you may need to gain more experience with PL/SQL and specific database systems like Oracle, PostgreSQL, or MSSQL. Additionally, it is unclear if you have experience in developing software modules and working with project management. Overall, you have a good foundation, but some additional skills and experience may be required for this role.
+
+3775651746
+Atruvia AG
+(Junior) System Engineer Identity- & Access-Management (m/w/d)
+Ranking: 5
+Comment: Ich habe Kenntnisse im Bereich Softwareentwicklung und bin auch mit Linux-basierten Betriebssystemen vertraut, was für den Job hilfreich sein könnte. Allerdings habe ich keine Erfahrung im Bereich Identity- und Access-Management-Verfahren. Ich könnte mich für den Job bewerben, aber es gibt vielleicht andere Positionen, die besser zu meinen Kenntnissen passen.
+
+3809823579
+join.com
+Embedded Entwickler (m/w/d) Karlsruhe, Automatisierungstechnik at AURELLY TECHNOLOGIES GmbH
+Ranking: 5
+Comment: Ich habe ein abgeschlossenes Studium in Maschinenbau mit Schwerpunkt Data Science, was mir Kenntnisse im Bereich Softwareentwicklung und maschinelles Lernen vermittelt hat. Ich habe auch Erfahrung in der Entwicklung von Softwarelösungen im Embedded-Umfeld und kenne die Programmiersprachen C++ und Assembler. Ich bin jedoch kein Experte in der Anwendung von PROFIBUS/PROFINET, was in der Stellenbeschreibung erwähnt wurde. Ich denke, ich habe einige der geforderten Fähigkeiten, aber es gibt auch Bereiche, in denen ich noch nicht so erfahren bin. Daher gebe ich eine durchschnittliche Bewertung von 5.
+
+3714141276
+LIONSTEP
+Database Developer (a)
+Ranking: 2
+Comment: 
+Obwohl ich allgemeine Erfahrung in der Datenbankentwicklung habe und gut in Python bin, fehlen mir einige spezifische Fähigkeiten für diese Stelle, wie Programmierungssprache PL/SQL und Oracle, PostgreSQL oder MSSQL-Datenbanken. Ich habe auch keine Erfahrung in der Personalwirtschaft oder im Bereich Human Resources. Daher passt diese Stelle nicht gut zu meiner Erfahrung und meinen Interessen.
+
+3810403996
+Kenbun IT AG
+AI Engineer (w/m/d) - Karlsruhe / Stuttgart / München / remote
+Ranking: 8
+Comment: Ich denke, ich passe sehr gut zur Stellenbeschreibung. Das Unternehmen sucht jemanden mit einem Hintergrund in IT, Künstliche Intelligenz und Mathematik/Physik, was alle in meinem Studium und meiner aktuellen Arbeit abgedeckt sind. Ich habe auch Erfahrung mit AI-Technologien wie Python und kenne Methoden der Softwareentwicklung. Obwohl ich nicht alle genannten Programmiersprachen kenne, habe ich Erfahrung mit Python, C++ und SQL, was meiner Meinung nach ausreichen sollte. Ich denke, ich könnte die geforderten Aufgaben erfüllen und würde mich gerne für diese Stelle bewerben.
+
+3776248825
+ADVERGY GmbH
+Java Fullstack Entwickler (bis zu 100% Remote) (m/w/d)
+Ranking: 2
+Comment: Die Stellenbeschreibung sucht einen Java Fullstack Entwickler und erwähnt spezifische Kenntnisse wie Angular, Java EE, TypeScript und Node.js. Da du in erster Linie Erfahrung mit Python hast und weniger mit Java und den genannten Technologien, passt die Stelle nicht perfekt zu dir. Allerdings hast du Kenntnisse in C++, die möglicherweise auch bei der Entwicklung im Backend-Umfeld hilfreich sein könnten. Daher gebe ich eine niedrige Bewertung von 2, da du einige grundlegende Programmierkenntnisse mitbringst, aber nicht alle spezifischen Anforderungen der Stellenbeschreibung erfüllst.
+
+3805337051
+Questax
+Softwaretester (m/w/d)
+Ranking: 4
+Comment: Obwohl du Erfahrung mit Softwareentwicklung und maschinellem Lernen hast, passt die Stellenbeschreibung nicht gut zu deinen Fähigkeiten und Interessen. Die Stelle erfordert primär Erfahrung im Softwaretesten, während du mehr Erfahrung in der Entwicklung hast. Darüber hinaus wird in der Stellenbeschreibung spezifisch nach Kenntnissen in Java, C# oder Python gefragt, von denen du nur Python beherrschst. 
+
+3645834601
+KPMG Deutschland
+(Junior) Consultant / Developer (w/m/d) RPA (Robotic Process Automation)
+Ranking: 3
+Comment: Obwohl du Erfahrung mit maschinellem Lernen hast und Python beherrschst, passt deine Erfahrung nicht direkt zur Stellenbeschreibung als (Junior) Consultant / Developer für RPA (Robotic Process Automation) bei KPMG. Es wird spezifisches Wissen über RPA-Software wie Blue Prism, UiPath oder Softomotive Process Robot sowie Kenntnisse in einer Programmiersprache wie C#, Java oder JavaScript gefordert. Deine bisherige Erfahrung und Kenntnisse könnten jedoch eine gute Grundlage darstellen, um dich in den geforderten Bereich einzuarbeiten.
+
+3804066513
+APRIORI - business solutions AG
+Remote: Cloud Architekt (m/w/d)
+Ranking: 2
+Comment: Der Job als Cloud Architekt erfordert spezifische Fähigkeiten und Erfahrungen, die in meiner Vita nicht ausreichend vertreten sind. Obwohl ich Erfahrung mit Softwareentwicklung und der Arbeit mit Tools wie Python habe, fehlen mir Kenntnisse in der Planung, Implementierung und Verwaltung von Cloud-Lösungen sowie in Netzwerk- und Datensicherheit. Auch die Erfahrung in der Automatisierung von Cloud-Diensten und dem Einsatz von DevOps-Methoden fehlt mir. Daher passt der Job nicht gut zu meiner aktuellen Expertise.
+
+3776949251
+Helbako Group
+Softwareentwickler* C/C++ Embedded Systems - 100% remote möglich
+Ranking: 4
+Comment: Obwohl ich Erfahrung in der Softwareentwicklung und Kenntnisse in C++ und Embedded Systems habe, fehlt mir die Erfahrung in der Entwicklung von Embedded Software im Automotive-Umfeld. Zudem habe ich keine Erfahrung mit den spezifischen Tools und Standards der Automobilindustrie, die in der Stellenbeschreibung erwähnt werden. Daher würde ich mich mit einer Bewertung von 4 nicht für diesen Job bewerben.
+
+3804309507
+Club of Code
+Java-Entwickler (m/w/d)
+Ranking: 7
+Comment: Aufgrund meiner guten Kenntnisse in Python und meiner Erfahrung in der Entwicklung von Software und maschinellem Lernen könnte ich mich gut in die Position des Java-Entwicklers einarbeiten. Ich habe zwar weniger Erfahrung mit Java, aber da ich in anderen Programmiersprachen gearbeitet habe und bereit bin, mich weiterzubilden, denke ich, dass ich die Anforderungen erfüllen könnte.
+
+3804916551
+reteach
+Werkstudent Design mit KI-Kenntnissen (m/w/d)
+Ranking: 6
+Comment: Based on the job description, it seems that my skills in machine learning and software development could be valuable for this position. Although my background is in engineering and data science, I have experience working with Python and have a strong interest in artificial intelligence and machine learning. Additionally, my experience in developing image recognition pipelines and working with AI-governed robot arms could be relevant for creating design concepts using AI-generated images and videos. However, my experience in graphic design software like Adobe Creative Suite is limited. Nonetheless, I believe I could adapt and learn quickly in order to contribute effectively to the team.
+
+3808461877
+WPS Management GmbH
+Agiler Tester (m/w/d) mit Schwerpunkt Testautomatisierung
+Ranking: 6
+Comment: Aufgrund deiner Erfahrung mit Testen und deiner Kenntnis von Testautomatisierungstools passt du gut zur Stellenbeschreibung. Du hast auch gute Programmierkenntnisse und arbeitest bereits in einem agilen Softwareentwicklungsteam. Allerdings fehlt dir die Erfahrung mit den spezifischen Tools, die in der Stellenbeschreibung genannt werden. Daher ist die Bewertung etwas niedriger.
+
+3746747998
+Materna Information & Communications SE
+Test Automation Engineer (m/w/d)
+Ranking: 6
+Comment: Based on your experience in software development, particularly in Python, and your interest in machine learning, you could be a good fit for the Test Automation Engineer position. You have experience in developing automated tests, creating test cases and scenarios, and working with test automation tools. However, you may need to gain more experience with tools like Selenium or MF UFT to meet all the requirements of the job. But overall, with your background in software development and knowledge of test methods and tools, you have a good foundation for this role.
+
+3740312640
+Consulting4IT GmbH
+Softwareentwickler (m/w/d)
+Ranking: 3
+Comment: Obwohl du gute Programmierkenntnisse hast und Erfahrung mit maschinellem Lernen, passt du nicht gut zur Stellenbeschreibung. Diese Stelle erfordert Kenntnisse in C# und .NET, während du mehr Erfahrung mit Python und C++ hast. Du könntest dich jedoch aufgrund deines Interesses an Softwareentwicklung bewerben und deine Bereitschaft betonen, neue Sprachen und Frameworks zu erlernen.
+
+3808800622
+CBTW
+CLOUD- UND DEVOPS-ENGINEER (M/W/D)
+Ranking: 4
+Comment: Obwohl der Job als Cloud- und DevOps-Engineer im IT-Bereich liegt, gibt es einige Überschneidungen mit deinen Kenntnissen und Erfahrungen. Du hast Erfahrung mit der Entwicklung von Software und hast bereits mit Python und C++ gearbeitet. Du hast auch Erfahrung mit Cloud-Plattformen. Allerdings fehlen dir Erfahrungen mit Kubernetes, Ansible, Docker und anderen Technologien, die in der Stellenbeschreibung erwähnt werden. Es könnte jedoch möglich sein, dass du dich schnell in die erforderlichen Technologien einarbeiten könntest. Daher ist eine Bewertung von 4 angemessen.
+
+3812472543
+EKM GmbH Ottobrunn
+Anwendungsentwickler:in (m/w/d)
+Ranking: 4 
+Comment: Ich würde sagen, dass ich zu diesem Job passen könnte, aber nicht perfekt. Ich habe Erfahrung in der Softwareentwicklung und kenne eine Programmiersprache (Python), aber ich habe weniger Erfahrung mit SQL und Datenbankprogrammierung. Außerdem habe ich keine Kenntnisse oder Erfahrung mit ERP-Systemen. Es wäre sicher eine Herausforderung für mich, mich in diese speziellen Bereiche einzuarbeiten, aber ich wäre bereit, mich weiterzubilden.
+
+3789145711
+AllCloud
+Account Manager - Data (m/f/d)
+Ranking: 7
+Comment: Ich würde mich mit einer Bewertung von 7 bewerten. Ich habe Erfahrung im Bereich Data Science und maschinelles Lernen, was in dieser Stellenbeschreibung gefordert ist. Ich habe auch Erfahrung mit AWS, was ebenfalls ein Pluspunkt ist. Mein Hauptmanko ist, dass ich weniger als 5 Jahre Erfahrung im technischen Vertrieb in einer Datenumgebung habe. Ansonsten erfülle ich jedoch die meisten Anforderungen und finde den Job sehr interessant.
+
+3810403996
+Kenbun IT AG
+AI Engineer (w/m/d) - Karlsruhe / Stuttgart / München / remote
+Ranking: 7
+Comment: Based on your academic background in Data Science and your experience in machine learning, as well as your skills in Python and knowledge of AI technologies like PyTorch and TensorFlow, you seem to be a good fit for the AI Engineer position. The job description mentions the development of AI products, cloud and on-premise software systems, and the selection and training of deep learning models, which align with your interests and skills. While you may have less experience in other programming languages mentioned in the job description, your strong foundation in software development and your ability to learn new languages suggest that you can quickly adapt and contribute effectively to the role.
+
+3683780899
+PACE
+Golang Developer m/w/d
+Ranking: 5
+Comment: Basierend auf deinen Kenntnissen und Erfahrungen passt du teilweise zur Stellenbeschreibung. Du hast Erfahrung mit der Entwicklung von Backend-Services und hast auch schon mit einer vergleichbaren Programmiersprache wie Python gearbeitet. Du könntest dich leicht in das Go-Entwicklungsteam einbringen. Allerdings fehlt dir die spezifische Erfahrung mit Go und der Microservice-Architektur, die in der Stellenbeschreibung erwähnt wird. Es besteht immer noch die Möglichkeit, dass du den Job bekommst und dich in diesen Bereichen weiterentwickelst.
+
+3791032277
+Workwise
+Fullstack Software Engineer - Angular / Cloud Computing / Objektorientierte Programmierung (m/w/d)
+Ranking: 6
+Comment: Ich würde mich für diesen Job bewerben, da ich Erfahrung in der Softwareentwicklung habe, insbesondere im Bereich der webbasierten Anwendungen. Zudem habe ich Kenntnisse in objektorientierter Programmierung und arbeite gerne mit neuen Technologien. Obwohl ich nicht explizit Erfahrung mit Angular, Cloud Computing und C# habe, bin ich offen dafür, Neues zu lernen und mich regelmäßig weiterzubilden.
+
+3812472543
+EKM GmbH Ottobrunn
+Anwendungsentwickler:in (m/w/d)
+Ranking: 3
+Comment: Die Stellenbeschreibung sucht jemanden mit Erfahrung in der Anwendungsentwicklung, insbesondere mit Kenntnissen im Bereich der Datenbankprogrammierung und SQL. Obwohl ich Kenntnisse in diesen Bereichen habe, liegt mein Schwerpunkt eher auf maschinellem Lernen und nicht auf der Warenwirtschaft. Der Job passt daher nicht perfekt zu meinen Fähigkeiten und Interessen.
+
+3799128498
+myposter GmbH
+Cloud Architect (m/w/d)
+Ranking: 6
+Comment: Based on your experience with Python and your interest in machine learning, you could potentially be a good fit for the cloud architect position at myposter GmbH. The company's tech stack includes AWS, Terraform, and Kubernetes, which align with your skills and interests. Additionally, your experience with automation and continuous integration could be valuable in this role. However, it is important to note that the job description also mentions knowledge of networking and experience with an Infrastructure as Code tool, such as Terraform, which you have less experience with. Overall, while you have some relevant skills and interests, there may be some areas where you would need to develop or expand your knowledge.
+
+3808862397
+fino
+Software Engineer (all genders) - 100% Home Office
+Ranking: 5
+Comment: Obwohl der Job als Software Engineer zu deinem Hintergrund in der Softwareentwicklung passt, besteht möglicherweise eine Diskrepanz in Bezug auf die Programmiersprachen. Du hast Erfahrung mit Python, C++ und SQL, aber laut der Stellenbeschreibung sind Kenntnisse in Go, Java oder C# erwünscht. Es könnte jedoch positiv bewertet werden, dass du motiviert bist, Go zu lernen und einzusetzen. Deine Erfahrung mit der Entwicklung von Produkten und Software sowie dein agiles Mindset könnten ebenfalls Pluspunkte sein. Ein weiterer Aspekt, den du berücksichtigen könntest, ist die Tatsache, dass der Job zu 100% Remote ist, was mit deinem Wunsch nach flexiblen Arbeitsbedingungen übereinstimmt. Insgesamt scheinst du einige wichtige Fähigkeiten und Erfahrungen für diesen Job mitzubringen, aber es gibt auch Bereiche, in denen du dich weiterentwickeln müsstest, um wirklich gut zu passen.
+
+3702946871
+4BrainSolutions GmbH
+Innovativer Java-Entwickler / Consultant
+Ranking: 2
+Comment: Obwohl ich gute Programmierkenntnisse habe und Erfahrung in der Softwareentwicklung gesammelt habe, scheine ich nicht alle Anforderungen dieser Stellenbeschreibung zu erfüllen. Die Stelle erfordert gute Skills in der Softwareentwicklung, insbesondere in Java, während ich hauptsächlich Python-Kenntnisse habe. Auch sind Kenntnisse in den Tools wie Maven, Jenkins, Nexus, Sonarqube, Docker und Erfahrungen mit Cloud-Technologien gefragt, die ich nicht besitze. Daher denke ich, dass ich mich mit einer Bewertung von 2 nicht gut für diese Stelle eigne.
+
+3775653334
+Atruvia AG
+Site Reliability Engineer (m/w/d)
+Ranking: 5
+Comment: Ich habe einige Kenntnisse und Erfahrungen im Bereich der Softwareentwicklung und habe auch mit verschiedenen Tools wie GIT gearbeitet. Allerdings habe ich keine spezifische Erfahrung mit dem betreffenden Unternehmen oder den genannten Technologien wie OpenShift, Kubernetes und Docker. Daher denke ich, dass meine Kenntnisse und Erfahrungen teilweise relevant sind, aber es gibt auch Bereiche, in denen ich mich weiterentwickeln müsste, um den Anforderungen der Stellenbeschreibung besser gerecht zu werden.
+
+3602147077
+Sycor
+Customer Service Developer Microsoft Dynamics 365 (m/w/d)\Average Ranking:3.0
+LLM Output:
+Ranking: 2
+Comment: Ich habe nur geringe Erfahrung in Microsoft Dynamics AX / Microsoft Dynamics 365, X++ oder anderen objektorientierten Programmiersprachen wie Java, C++, C#. Außerdem fehlen mir Kenntnisse im Datenbankentwurf und SQL. Obwohl ich ein gewisses Verständnis für die Zusammenarbeit von Anwendungen und Datenbanken habe, glaube ich nicht, dass ich den Anforderungen dieser Stellenbeschreibung gerecht werden kann.
+
+3750064487
+Workwise
+Projektingenieur - Kundenservice / Administration / Beratung / Konzeption (m/w/d)\Average Ranking:5.833333333333333
+LLM Output:
+Ranking: 5.5
+Comment: Based on the given job description, it seems that the position requires experience and knowledge in programming languages such as Java, as well as familiarity with PLM systems like PTC Windchill and ERP systems like SAP. Although I have experience in programming with Python and some knowledge of C++ and SQL, I do not have direct experience with Java or specific PLM and ERP systems mentioned in the description. However, my background in data science and experience with machine learning could be valuable in understanding and working with the technologies mentioned. Therefore, I have given a moderate ranking of 5.5.
+
+3725983312
+MegaPart GmbH
+Firmware Entwickler\Average Ranking:6.0
+LLM Output:
+Ranking: 6
+Comment: Basierend auf deiner Vita scheinst du einige relevante Kenntnisse und Erfahrungen für den Job als Firmware Entwickler mitzubringen. Du hast Erfahrung mit C++ Programmierung, was eine Anforderung in der Stellenbeschreibung ist. Du hast auch Erfahrung mit der Entwicklung und Integration von Softwaremodulen sowie mit dem Testen und Dokumentieren von Firmware. Allerdings hast du keine spezifische Erfahrung mit Feldbus- und Ethernet-Kommunikation, was in der Stellenbeschreibung gefragt ist. Dennoch könntest du dich aufgrund deines Studiums im Bereich Informatik/Elektrotechnik und deiner Programmierkenntnisse für den Job bewerben.
+
+3807151032
+Vesterling AG
+Testentwicklungsingenieur Halbleitersysteme | Messmethodik, Statistik, C / C++ (mwd) Nr. 20064_0\Average Ranking:5.0
+LLM Output:
+Ranking: 7
+Comment: Die Stellenbeschreibung scheint gut zu meiner Expertise im Bereich Maschinenbau und Data Science zu passen. Obwohl ich mehr Erfahrung mit Python habe, habe ich auch einige Kenntnisse in C++ und Statistik, die in der Stellenbeschreibung gefordert werden. Ich habe zwar keine spezifische Erfahrung mit Halbleitersystemen, aber meine Erfahrung mit automatisierter Produktion und Datenanalyse könnte für den Job nützlich sein. Mit meiner Motivation und meinem Interesse an innovativen Technologien passe ich gut zur beschriebenen Unternehmenskultur.
+
+3807563487
+arconsis
+SENIOR SOFTWARE ENGINEER – CLOUD (ALL GENDERS)\Average Ranking:4.333333333333333
+LLM Output:
+Ranking: 3
+Comment: Obwohl du Erfahrung in der Softwareentwicklung und Kenntnisse in Cloud-Technologien hast, passt der Job nicht perfekt zu dir. Es wird eine nachgewiesene Erfahrung als Software Engineer mit starkem Fokus auf Cloud-Technologien in den Bereichen AWS, Azure oder GCP gefordert. Zudem wird Erfahrung mit mindestens einer Programmiersprache wie Kotlin, Java, TypeScript oder C# vorausgesetzt. Da du keine Erfahrung mit diesen konkreten Technologien hast und dein Fokus eher auf maschinellem Lernen liegt, passt der Job nicht optimal zu deinen Interessen und Fähigkeiten.
+
+3804612400
+simplicity networks GmbH
+Software Developer (m_w_d)\Average Ranking:4.666666666666667
+LLM Output:
+Ranking: 6
+Comment: Based on your experience in software development and your knowledge of Python, it seems like you could be a good fit for the position of a Software Developer at simplicity networks GmbH. However, it is important to note that the job description mentions experience in languages such as Python, TypeScript, or Go, and your proficiency in these languages is not specified in your vita. Nonetheless, your skills in Python, knowledge of modern software architecture principles, and experience in developing scalable and high availability architectures could make you a strong candidate for the role. It may be worth considering applying and showcasing your experience in these areas during the application process.
+
+3802694933
+Smart Host
+Sales Manager (m/w/d) - Remote von Deutschland / Österreich\Average Ranking:5.166666666666667
+LLM Output:
+Ranking: 5
+Comment: Der Job als Sales Manager bei Smart Host klingt interessant, aber es scheint nicht ganz zu meinen Fähigkeiten und meiner Erfahrung zu passen. Ich habe Erfahrung in der Softwareentwicklung und im maschinellen Lernen, aber keinen spezifischen Hintergrund im Vertrieb oder im Hotelgewerbe. Ich spreche fließend Deutsch und Englisch, was eine gute Voraussetzung ist. Ich würde wahrscheinlich einige Zeit brauchen, um mich in die Aufgaben des Sales Managers einzuarbeiten, aber ich könnte mein technisches Know-how und meine analytischen Fähigkeiten nutzen, um potenzielle Kunden zu verstehen und ihnen Feedback zu geben. Insgesamt würde ich sagen, dass ich ein mittelhohes Interesse an diesem Job habe.
+
+3775651746
+Atruvia AG
+(Junior) System Engineer Identity- & Access-Management (m/w/d)\Average Ranking:6.333333333333333
+LLM Output:
+Ranking: 7
+Comment: Die Stellenbeschreibung passt gut zu meinen Interessen und Kenntnissen im Bereich maschinelles Lernen und Softwareentwicklung. Obwohl ich keine spezifische Erfahrung im Identity- und Access-Management habe, habe ich Kenntnisse in agiler Softwareentwicklung, einer verbreiteten Programmiersprache und Erfahrung mit Linux- und Unix-basierten Betriebssystemen. Ich bin auch bereit, mich nach einer Einarbeitungsphase mit Rufbereitschaft zu beteiligen.
+
+3805337051
+Questax
+Softwaretester (m/w/d)
+Average Ranking:6.333333333333333
+LLM Output:
+Ranking: 6
+Comment: Ich denke, dass ich zu der Stellenbeschreibung als Softwaretester (m/w/d) gut passe, da ich Erfahrung im Bereich Softwaretest habe und auch Kenntnisse in Softwaretestmethoden und -werkzeugen besitze. Ich habe zwar keine spezifische Erfahrung mit Testautomatisierungswerkzeugen wie Selenium oder JUnit, aber ich verstehe Softwareentwicklungsprozesse und bin bereit, mich in neue Tools einzuarbeiten. Ich habe auch Grundkenntnisse in Python, was von Vorteil wäre. Insgesamt denke ich, dass ich gut geeignet wäre und mich bewerben sollte.
+
+3807151032
+Vesterling AG
+Testentwicklungsingenieur Halbleitersysteme | Messmethodik, Statistik, C / C++ (mwd) Nr. 20064_0
+Average Ranking:4.0
+LLM Output:
+Ranking: 4
+Comment: Ich habe Erfahrung in der Softwareentwicklung und kenne C++, was in der Stellenbeschreibung gefordert wird. Allerdings habe ich weniger Erfahrung in der Statistik und der Durchführung von Messungen in Analog- und Digitalschaltungen, was ebenfalls gefordert wird. Auch habe ich keine Kenntnisse in der Mikroelektronikentwicklung und der Automatisierung von elektrischen Messungen. Daher denke ich, dass ich nur teilweise zur Stellenbeschreibung passe und gebe daher eine Bewertung von 4.
+
+3807563487
+arconsis
+SENIOR SOFTWARE ENGINEER – CLOUD (ALL GENDERS)
+Average Ranking:5.166666666666667
+LLM Output:
+Ranking: 4
+Comment: Based on the job description, the position requires a strong focus on cloud technologies and experience as a software engineer in this field. While I have some experience in software development and knowledge of programming languages, my expertise lies more in the area of machine learning and data science. Additionally, I have limited experience with cloud technologies, specifically AWS, Azure, or GCP. Therefore, although I find the job interesting, I don't believe I am the perfect fit for this particular position.
+
+3798615677
+Bosch
+Softwareentwickler und -integrator AUTOSAR Classic Platform (w/m/div.) - anteilig remote
+Average Ranking:6.166666666666667
+LLM Output:
+Ranking: 5.5
+Comment: Based on your experience and skills in software development and machine learning, you have a good foundation for the position of a software developer and integrator at Bosch. Your knowledge of Python and experience in developing software for data analysis and automation could be valuable in this role. However, you may have less experience with embedded systems and the specific tools and technologies mentioned in the job description, such as AUTOSAR and microcontrollers. It might be worth considering applying for the job and highlighting your relevant experience and willingness to learn and adapt to new technologies in your application.
+
+3809823579
+join.com
+Embedded Entwickler (m/w/d) Karlsruhe, Automatisierungstechnik at AURELLY TECHNOLOGIES GmbH
+Average Ranking:5.666666666666667
+LLM Output:
+Ranking: 5
+Comment: Die Stellenbeschreibung sucht einen Embedded Softwareentwickler mit Erfahrung in der Programmiersprache Assembler und C. Du hast Erfahrung in C++, was ähnlich ist, aber keine Erfahrung in Assembler. Außerdem werden Kenntnisse in der Anwendung von PROFIBUS/PROFINET und gute Englischkenntnisse gefordert, die du beide nicht erwähnt hast. Es gibt einige Überschneidungen zwischen deinen Fähigkeiten und den Anforderungen der Stellenbeschreibung, aber nicht genug, um eine Bewertung über 5 zu rechtfertigen.
+
+3804309507
+Club of Code
+Java-Entwickler (m/w/d)
+Average Ranking:5.666666666666667
+LLM Output:
+Ranking: 7
+Comment: Die Stellenbeschreibung sucht einen Java-Entwickler, und obwohl ich mehr Erfahrung mit Python habe, habe ich auch Kenntnisse in C++, was beim Erlernen von Java hilfreich sein könnte. Ich habe auch Erfahrung mit GIT und meine Kenntnisse in den Technologien Spring, Git und Docker könnten von Vorteil sein. Allerdings habe ich keine Erfahrung mit Elasticsearch, REST und Kubernetes, aber ich bin bereit, mich in diese Technologien einzuarbeiten. Insgesamt denke ich, dass ich die erforderlichen Programmierkenntnisse und die Bereitschaft zur Weiterentwicklung mitbringe, um in diesem Job erfolgreich zu sein.
+
+3804302500
+USU Solutions DACH
+Softwareentwickler (w/d/m) Big Data/ KI
+Average Ranking:6.0
+LLM Output:
+Ranking: 5
+Comment: Based on your experience in machine learning and software development, and your knowledge of Python, it seems like you have some of the skills required for the job. However, you mentioned that you have less experience in languages such as Scala or Java, and you have not specifically mentioned any experience with cloud computing, NoSQL databases, or DevOps. Additionally, the job description emphasizes the use of modern technologies and methods, which you may not have extensive experience with. Overall, while you have some relevant skills, there are certain areas where you may need further development or experience.
+
+3775653334
+Atruvia AG
+Site Reliability Engineer (m/w/d)
+Average Ranking:3.3333333333333335
+LLM Output:
+Ranking: 3
+Comment: Obwohl der Job im Bereich Engineering und Informationstechnologie liegt, liegt der Fokus des Jobs auf der Frontend-Entwicklung und DevOps. Meine Erfahrung liegt hauptsächlich auf dem Gebiet des maschinellen Lernens und der Softwareentwicklung, was nur teilweise mit den Anforderungen des Jobs übereinstimmt. Während ich Kenntnisse in Scriptsprachen und GIT habe, fehlt mir die Erfahrung mit OpenShift, Kubernetes und Docker. Daher würde ich mich nur mit einer niedrigen Bewertung für den Job bewerben.
+
+3799306401
+filancore
+Software Developer (m/w/d) [100% Remote in DE]
+Average Ranking:6.5
+LLM Output:
+Ranking: 6.5
+Comment: Based on the information provided in your Vita, you have a strong academic background in machine learning and data science. You also have experience in programming languages like Python, C++, and SQL, which are relevant to the job description. Additionally, your experience in developing image recognition pipelines and AI-driven robotics projects could be valuable in the role. However, you may need to brush up on your knowledge of Rust and container orchestration tools like Kubernetes. Overall, you seem to have a good foundation for the position and could consider applying.
+
+3811069281
+group24 AG
+Softwareentwickler künstliche Intelligenz und maschinelles Lernen (m/w/d)
+Average Ranking:8.0
+LLM Output:
+Ranking: 8
+Comment: Ich würde sagen, dass du sehr gut zur Stellenbeschreibung passt. Du hast einen Master-Abschluss in Maschinenbau mit Schwerpunkt Data Science, was perfekt für die Position ist. Du hast auch viel Erfahrung mit Python, was eine wichtige Programmiersprache im Bereich maschinelles Lernen ist. Zudem hast du bereits an KI-Projekten gearbeitet und hast Erfahrung in der Entwicklung von KI-Anwendungen. Das einzige, was dir vielleicht fehlt, ist etwas Erfahrung mit gängigen Tools innerhalb der Embedded Softwareentwicklung und mit Toolschnittstellen und Datenmodellen. Aber insgesamt denke ich, dass du dich definitiv für den Job bewerben solltest.
+
+3804916551
+reteach
+Werkstudent Design mit KI-Kenntnissen (m/w/d)
+Average Ranking:4.0
+LLM Output:
+Ranking: 4
+Comment: Obwohl ich einige Kenntnisse im Bereich maschinelles Lernen habe, ist dieser Job eher auf Grafikdesign und die Verwendung von Design-Software wie Adobe Creative Suite ausgerichtet. Da meine Erfahrung und Kenntnisse in diesem Bereich begrenzt sind, halte ich meine Eignung für diesen Job für eher niedrig.
+
+3759067856
+INFORM GmbH - Optimization Software
+KI-Softwareentwickler (all genders)
+Average Ranking:6.333333333333333
+LLM Output:
+Ranking: 7
+Comment: Based on your background in data science, practical experience in machine learning, and knowledge of programming languages like Python, you seem to be a good fit for the position of KI-Softwareentwickler at INFORM GmbH. Your experience in developing software products using AI technologies aligns with the responsibilities mentioned in the job description. However, it would be beneficial to have more experience in higher-level programming languages and frameworks like NumPy and Pandas. Overall, I would recommend applying for this job as it offers an opportunity to work on innovative technologies and contribute to the future of workforce management.
+
+3807605190
+join.com
+Fullstack Developer (m/w/d) für neues Startup at DIGITALE NEUORDNUNG
+Average Ranking:4.666666666666667
+LLM Output:
+Ranking: 5
+Comment: 
+
+Based on the given job description, I see that the company is looking for a Fullstack Developer with experience in JavaScript/Vue.js and Golang. Although I have a good understanding of object-oriented software development and experience in Python, my experience in JavaScript and Golang is limited. Therefore, I would rate my fit for this job as a 5. While I do have some relevant skills and a strong motivation to work on a new product, I may need to further develop my skills in JavaScript and Golang to be a perfect fit for this role.
+
+3810412152
+myposter GmbH
+DevOps Engineer (m/w/d)
+Average Ranking:4.666666666666667
+LLM Output:
+Ranking: 5
+Comment: Basierend auf deiner Vita scheinst du einige grundlegende Kenntnisse zu haben, die für den Job als DevOps Engineer relevant sind, wie z.B. Erfahrung mit Python, C++ und SQL, sowie Erfahrung mit der Entwicklung von Software und Tools. Du hast auch Erfahrung mit der Automatisierung von Prozessen und der Arbeit mit GIT. Allerdings fehlen dir spezifische Kenntnisse im Bereich DevOps und Cloud-Computing, die in der Stellenbeschreibung erwähnt werden. Es könnte sich lohnen, einige der fehlenden Fähigkeiten und Kenntnisse zu erwerben, um deine Chancen zu verbessern.
+
+3806308937
+join.com
+Softwareentwickler Python (m/w/d) Festanstellung, in Voll- oder Teilzeit (mind. 30 Stunden/Woche) · Hannover at tec connect GmbH
+Average Ranking:6.0
+LLM Output:
+Ranking: 7
+Comment: Based on your skills and experiences, you have a good foundation for the role of a Python Software Developer. You have a strong background in Python and experience in software development. However, you may need to gain more experience in specific technologies mentioned in the job description, such as JavaScript, PostgreSQL, Bootstrap, and Docker. Additionally, the job requires knowledge of the ERP system Odoo, which you have not mentioned in your CV. Overall, with some additional learning and experience, you could be a strong candidate for this position.
+
+3807135550
+elipZis
+Software Engineer (w/m/d) für spannende Web-/Anwendungsentwicklungen
+Average Ranking:4.666666666666667
+LLM Output:
+Ranking: 5
+Comment: Based on your experience with Python and your interest in machine learning, you have some relevant skills for this job as a Software Engineer for web/application development. However, the job description mentions PHP, JavaScript/TypeScript, and frameworks like Laravel, Fiber, Unity, or Svelte, which you have less experience with. Therefore, while you could still be a potential candidate, there may be others who are a better fit for the specific requirements of this position.
+
+3665708554
+Bertrandt Group
+Testingenieur Mikro-Positioniersysteme (m/w/d)
+Average Ranking:5.333333333333333
+LLM Output:
+Ranking: 6
+Comment: Aufgrund deines Studiums im Bereich Maschinenbau und deiner Erfahrung in der Entwicklung von Bilderkennungspipelines und der Schnittstellenentwicklung für AI-gesteuertes Greifen könntest du gut zur Stellenbeschreibung passen. Du hast auch Erfahrung in der Versuchsplanung und Verifizierung von Produktmerkmalen, was ebenfalls gefragt ist. Allerdings fehlen dir Erfahrungen im Umgang mit modernen Programmiersprachen wie Python, Matlab oder .NET, was ein potenzieller Nachteil sein kann.
+
+3596168393
+Sopra Steria
+Developer Robotic Process Automation (RPA) (m/w/d)
+Average Ranking:4.333333333333333
+LLM Output:
+Ranking: 6
+Comment: 
+Dein Masterabschluss in Maschinenbau mit Schwerpunkt Data Science und deine Erfahrung in der Entwicklung von Bilderkennungspipelines und AI-gesteuerter Greiftechnik passen gut zur Stellenbeschreibung. Du hast zwar weniger Erfahrung mit objektorientierten Programmiersprachen wie C/C++ und mehr Erfahrung mit Python, aber du hast bereits mit maschinellem Lernen gearbeitet, was für die Position relevant ist. Es könnte auch von Vorteil sein, wenn du Erfahrung mit Automatisierungslösungen wie UiPath, Blue Prism oder Automation Anywhere hättest. Insgesamt scheinst du die meisten Anforderungen der Stellenbeschreibung zu erfüllen und könntest eine starke Bewerbung einreichen.
+
+3808862371
+join.com
+Softwareentwickler (m/w/d) at Supremum Marketing GmbH
+Average Ranking:6.0
+LLM Output:
+Ranking: 7
+Comment: Based on your experience with Python, software development, and data analysis, as well as your interest in machine learning and problem-solving, you seem to be a good fit for the role of a software developer at Supremum Marketing GmbH. You have some experience with other programming languages like C++ and SQL, which could be an advantage. However, you may need to further develop your knowledge in areas such as Microsoft Excel and Linux-based servers. Overall, this job aligns well with your interests and skills, and it offers the opportunity for growth and learning new technologies.
+
+3791032277
+Workwise
+Fullstack Software Engineer - Angular / Cloud Computing / Objektorientierte Programmierung (m/w/d)
+Average Ranking:6.5
+LLM Output:
+Ranking: 6
+Comment: 
+Du hast gute Chancen, dich für diesen Job zu bewerben. Du sprichst sowohl Deutsch als auch Englisch fließend, was ein Pluspunkt ist. Du hast Erfahrung in der Softwareentwicklung und hast auch Kenntnisse in der Webentwicklung mit einem SPA-Webframework. Allerdings liegt der Schwerpunkt des Jobs auf der Fullstack-Entwicklung mit Angular, Cloud Computing, C# oder Java, Datenbanken und Service-Architekturen. Es scheint, dass du nicht genau spezialisiert oder erfahren genug in diesen Bereichen bist, aber du bringst solide Programmierkenntnisse mit, sodass du dich in diese Technologien einarbeiten könntest.
+
+3812472543
+EKM GmbH Ottobrunn
+Anwendungsentwickler:in (m/w/d)
+Average Ranking:3.6666666666666665
+LLM Output:
+Ranking: 4
+Comment: Obwohl ich Erfahrung mit der Entwicklung von Software habe und auch mit SQL und Datenbankprogrammierung vertraut bin, habe ich nicht viel Erfahrung mit den spezifischen Anforderungen des Jobs, wie der Anpassung und Erstellung von Masken, der Erstellung von Skripten und der Erweiterung und Anpassung von Datenbanken. Zusätzlich habe ich keine Erfahrung mit ERP-Systemen, was ein weiterer Nachteil ist.
+
+3810723587
+Amadeus FiRe
+1st Level Supporter (m/w/d)
+Average Ranking:3.0
+LLM Output:
+Ranking: 3
+Comment: Obwohl ich eine abgeschlossene Ausbildung im IT-Bereich habe und Kenntnisse im Umgang mit Hard- und Software besitze, habe ich keine Erfahrung im IT-Support. Zudem fehlt mir auch die Erfahrung im Bereich Software-Deployment und Client-Management, die in der Stellenbeschreibung gefordert wird. Daher passt die Stelle nicht optimal zu meinen Fähigkeiten und Erfahrungen.
+
+3808800622
+CBTW
+CLOUD- UND DEVOPS-ENGINEER (M/W/D)
+Average Ranking:5.333333333333333
+LLM Output:
+Ranking: 5
+Comment: Obwohl ich Erfahrung mit den Programmiersprachen Python, C++ und SQL habe und auch schon mit maschinellem Lernen gearbeitet habe, passe ich nicht perfekt zur Stellenbeschreibung als Cloud- und DevOps-Ingenieur. Ich habe keine Erfahrung mit Cloud-Plattformen wie AWS und auch nicht mit Technologien wie Kubernetes, Ansible und Docker. Daher würde ich mir vorstellen, dass ich mich gut in die Rolle einarbeiten könnte, aber ich würde wohl nicht sofort die Anforderungen der Stelle erfüllen.
+
+3799129460
+myposter GmbH
+DevOps Engineer (m/w/d)
+Average Ranking:6.0
+LLM Output:
+Ranking: 7
+Comment: Deine Kenntnisse in Python und Data Science könnten für die Stelle als DevOps Engineer nützlich sein. Du hast bereits Erfahrung mit AWS und Automatisierung. Zudem hast du gute Scripting- und Automatisierungsfähigkeiten. Ein Pluspunkt ist auch deine Erfahrung mit Continuous Integration & Deployment. Allerdings fehlt dir möglicherweise etwas Erfahrung mit Netzwerken und du hast keine Programmiererfahrung in den genannten Sprachen (Python, Go, PHP) außer Python. Insgesamt passt du jedoch gut zur Stellenbeschreibung und könntest dich für den Job bewerben.
+
+3811639671
+Majori GmbH
+DevOps-Engineer
+Average Ranking:4.666666666666667
+LLM Output:
+Ranking: 7
+Comment: 
+Based on the given job description, I believe I am a good fit for the role of DevOps Engineer at Majori GmbH. I have experience and knowledge in cloud technologies like AWS and Azure, as well as solid Linux, network, and security skills. Additionally, I have worked with automated deployments and version control systems like Git. I also have experience with container-based operating models like Docker and Kubernetes. While I may not have extensive experience in some specific areas mentioned in the job description, I am confident in my ability to learn and adapt quickly. Overall, I believe I have a strong foundation and relevant skills for this position.
+
+3811068691
+Inway Systems GmbH - Wir stellen ein!
+Entwickler Microsoft Dynamics AX/365 (w/m/d)
+Average Ranking:2.6666666666666665
+LLM Output:
+Ranking: 2
+Comment: Der Job als Entwickler Microsoft Dynamics AX/365 erfordert spezifische Kenntnisse und Erfahrungen, die in meiner Vita nicht ausreichend abgedeckt sind. Obwohl ich Erfahrung in der Softwareentwicklung habe und auch Kenntnisse in objektorientierten Programmiersprachen mitbringe, fehlt mir die Erfahrung in der Anwendungsentwicklung unter Microsoft Dynamics AX/365. Zudem sind meine Kenntnisse im Bereich relationaler Datenbanken begrenzt. Daher denke ich, dass ich nicht gut zu dieser Stellenbeschreibung passen würde.
+
+3776949251
+Helbako Group
+Softwareentwickler* C/C++ Embedded Systems - 100% remote möglich
+Average Ranking:4.833333333333333
+LLM Output:
+Ranking: 6
+Comment: Based on your experience and skills, you have a good foundation for the job as a software developer. You have experience in Python and some experience in C++. However, your experience is more focused on machine learning and data science rather than embedded systems development. Additionally, the job description mentions experience with CAN and LIN, which you didn't mention in your skills. Overall, you have some relevant skills and experience, but there are some gaps that may affect your fit for the job.
+
+3776248825
+ADVERGY GmbH
+Java Fullstack Entwickler (bis zu 100% Remote) (m/w/d)
+Average Ranking:3.1666666666666665
+LLM Output:
+Ranking: 4.5
+Comment: 
+
+Based on the job description, it seems that the position requires a strong focus on Java programming language and related technologies such as Angular, Java EE, TypeScript or Node.js. While I have experience in software development and some familiarity with Java, my main expertise lies in machine learning and data science. Therefore, I may not be the ideal candidate for this particular job, but there could be potential for growth and learning in this role. With a rating of 4.5, I am moderately interested in applying for this job.
+
+3576932748
+msg
+(Junior) Cloud Engineer Insurance (m/w/d)
+Average Ranking:4.333333333333333
+LLM Output:
+Ranking: 6
+Comment: Du bringst einige relevante Kenntnisse und Erfahrungen mit, darunter maschinelles Lernen, Softwareentwicklung und Datenbankarchivierung. Obwohl die Stellenbeschreibung nicht explizit erwähnt, dass maschinelles Lernen gefordert ist, könntest du deine Kenntnisse in diesem Bereich für die Entwicklung und Erstellung von Softwareapplikationen im Cloud-Umfeld einsetzen. Du hast auch einige Erfahrung mit DevOps und Cloud-Technologien, die in der Stellenbeschreibung gefordert sind. Es könnte sich lohnen, sich für diesen Job zu bewerben und deine Kenntnisse und Erfahrungen in einem Bewerbungsschreiben zu betonen.
+
+3808518421
+n-komm GmbH
+Ausbildung zum Fachinformatiker Anwendungsentwicklung
+Average Ranking:6.333333333333333
+LLM Output:
+Ranking: 6
+Comment: 
+
+Based on the job description provided, the position is for an entry-level role of an application development specialist at an IT company that focuses on software development and cybersecurity. The main tasks involve analyzing, planning, developing, and maintaining software projects. Programming skills in different languages such as Java, C#, and Python are required. Additionally, the ability to work with clients, document code, and ensure software quality is important.
+
+While my background in machine learning and data science aligns with my interest, the job description focuses more on application development and software programming. I do have experience in Python, which is one of the required languages, and I have worked on software development projects in my previous roles. However, my expertise in machine learning and cybersecurity is not specifically mentioned in the job description. 
+
+Therefore, I believe I have a moderate level of compatibility with this job description. I have some of the required skills, but my background is more focused on machine learning and data science. However, I am open to exploring opportunities in application development, and I believe I could gain valuable experience in this position.
+
+3657078407
+KPMG Deutschland
+Senior Consultant (w/m/d) SAP Integration
+Average Ranking:3.3333333333333335
+LLM Output:
+Ranking: 3
+Comment: Obwohl ich Erfahrung mit Python und etwas Erfahrung mit C++ habe, fehlen mir Kenntnisse in den Programmiersprachen ABAP, Java, Python, C++, VB, die für die Stelle als Senior Consultant SAP Integration gesucht werden. Meine Erfahrungen und Kenntnisse im Bereich maschinelles Lernen sind in diesem Job nicht direkt gefragt.
+
+3798624271
+Adecco
+Data-Warehouse-Engineer (m/w/d) - Full Remote, Direktvermittlung
+Average Ranking:4.666666666666667
+LLM Output:
+Ranking: 4
+Comment: Obwohl ich fließend Deutsch und Englisch spreche, passt der Job nicht perfekt zu meiner Erfahrung in maschinellem Lernen und Softwareentwicklung. Der Fokus des Jobs liegt auf Data Engineering und dem Entwurf und der Wartung von ETL-Prozessen, was ich weniger Erfahrung habe. Ich habe zwar Erfahrung mit Datenbanken und Pipelines, aber nicht mit den spezifischen Tools wie IBM Data Stage oder Informatica. Trotzdem könnte ich einige Grundkenntnisse und Erfahrungen in diesem Bereich einbringen.
+
+3596166510
+Sopra Steria
+Software Developer PL/I (m/w/d)
+Average Ranking:3.3333333333333335
+LLM Output:
+Ranking: 5
+Comment: Based on the information provided in your Vita, you have a strong background in machine learning, programming, and data science. However, the job description requires knowledge and experience in PL/I programming language, which you do not have. While you have experience with C++, it is stated that the willingness to learn PL/I is required. Therefore, you may not be the best fit for this specific job, but you could consider applying if you are willing to learn and expand your programming skills.
+
+3789140495
+SVA System Vertrieb Alexander GmbH
+Senior IT-Consultant KI – Öffentliche Auftraggeber (m/w/d)
+Average Ranking:7.333333333333333
+LLM Output:
+Ranking: 7
+Comment: Ich denke, dass ich gut zur Stellenbeschreibung passe. Ich habe einen Abschluss in Maschinenbau mit Schwerpunkt Data Science und habe Erfahrung im maschinellen Lernen und der Entwicklung von KI-Anwendungen. Zudem habe ich Erfahrung in der Beratung von Kunden und der Leitung von Projekten. Die Reisebereitschaft von mindestens 50% stellt für mich kein Problem dar. Allerdings habe ich weniger Erfahrung in der Informationstechnologie und könnte noch mehr Kenntnisse in diesem Bereich entwickeln.
+
+3722383120
+LIONSTEP
+Database Developer (w/m/d)
+Average Ranking:4.333333333333333
+LLM Output:
+Ranking: 4
+Comment: Obwohl du Erfahrung in der Softwareentwicklung hast und Python beherrschst, passen deine Fähigkeiten und Erfahrungen nicht perfekt zur Stellenbeschreibung. Du hast Erfahrung in der Datenbankentwicklung, jedoch wird hier explizit nach Erfahrungen mit PL/SQL und Datenbank-Systemen wie Oracle, PostgreSQL oder MSSQL gefragt. Außerdem wird ein Fach- oder Hochschulstudium in Informatik oder eine abgeschlossene Berufsausbildung in der IT gefordert, was du mit deinem Maschinenbau-Master nicht erfüllst. Dennoch könntest du dich bewerben und deine bisherige Erfahrung in der Datenbankentwicklung hervorheben.
+
+3740312640
+Consulting4IT GmbH
+Softwareentwickler (m/w/d)
+Average Ranking:3.0
+LLM Output:
+Ranking: 3
+Comment: Obwohl du Erfahrung in der Softwareentwicklung hast, passen deine Kenntnisse und Erfahrungen nicht genau zur Stellenbeschreibung. Du hast zwar Kenntnisse in C++, aber nicht in C#. Außerdem hast du keine Erfahrung mit den genannten Frameworks wie Angular oder React. Jedoch könntest du in die .NET-Welt hineinwachsen, wenn du die Chance bekommst.
+
+3785396974
+IPG Automotive
+DevOps Engineer (m/w/d)
+Average Ranking:5.333333333333333
+LLM Output:
+Ranking: 3
+Comment: Aufgrund meiner Kenntnisse in Python und meiner Erfahrung in der Entwicklung von maschinellem Lernen könnte ich mich für den Job als DevOps Engineer bewerben. Ich habe jedoch keine Erfahrung mit den spezifischen Tools, die in der Stellenbeschreibung genannt werden, und auch meine Kenntnisse in JavaScript und Linux sind begrenzt. Daher passe ich nicht optimal zur Stellenbeschreibung.
+
+3798615690
+Bosch
+Softwareentwickler und -integrator AUTOSAR Classic Platform (w/m/div.) - anteilig remote
+Average Ranking:6.0
+LLM Output:
+Ranking: 6
+Comment: Obwohl der Job als Softwareentwickler und -integrator im Bereich AUTOSAR Classic Platform bei Bosch interessant klingt, könntest du noch nicht die ideale Kandidatin sein. Du hast Erfahrung in der Entwicklung von Embedded Software und gute Kenntnisse in C, was von Vorteil ist. Allerdings scheint deine Erfahrung mit AUTOSAR und den damit verbundenen Toolketten begrenzt zu sein. Du könntest dich aber trotzdem bewerben und betonen, wie motiviert du bist, dich in diesen Bereich einzuarbeiten und dein vorhandenes Wissen anzuwenden. Dein Hintergrund in Data Science könnte auch von Nutzen sein, da du dich mit Datenanalyse und Algorithmen auskennst. Es wäre eine gute Möglichkeit, um deine Kenntnisse im Bereich maschinelles Lernen einzusetzen.
+
+3791029868
+Workwise
+Fullstack Software Engineer - Angular / Cloud Computing / Objektorientierte Programmierung (m/w/d)
+Average Ranking:5.0
+LLM Output:
+Ranking: 5
+Comment: Aufgrund deiner Erfahrung in der Softwareentwicklung und deinen Kenntnissen in Front-End- und Back-End-Entwicklung passt der Job als Fullstack Software Engineer gut zu dir. Allerdings ist maschinelles Lernen nicht direkt in der Stellenbeschreibung erwähnt, was für dich ein wichtiger Schwerpunkt ist. Es könnte sich dennoch lohnen, dich für den Job zu bewerben und in einem möglichen Vorstellungsgespräch nach den Möglichkeiten zur Anwendung von maschinellem Lernen in diesem Unternehmen zu fragen.
+
+3751709773
+Almato AG
+Softwareentwickler / Microsoft Power Platform-Entwickler (all genders)
+Average Ranking:5.5
+LLM Output:
+Ranking: 4
+Comment: Obwohl der Job als Softwareentwickler interessant sein könnte, passen die Anforderungen des Unternehmens nicht gut zu meiner Erfahrung und meinen Kenntnissen. Meine Erfahrung mit maschinellem Lernen und Automatisierung würde hier nicht genutzt werden. Zudem habe ich keine Erfahrung mit Power Platform Application wie Power Automate oder Power Apps. Daher ist der Job leider nicht die beste Passung für mich.
+
+3645834601
+KPMG Deutschland
+(Junior) Consultant / Developer (w/m/d) RPA (Robotic Process Automation)
+Average Ranking:3.6666666666666665
+LLM Output:
+Ranking: 5
+Comment: Based on the job description, the position requires knowledge and experience in Robotic Process Automation (RPA) and software development. While I have experience in software development and some knowledge in programming languages like Python, C++, and SQL, I do not possess specific experience with RPA software such as Blue Prism or UiPath. However, I have a strong interest in process optimization and the use of artificial intelligence, which aligns with the job description. Therefore, I believe I have a moderate fit for the position and could potentially learn and adapt quickly to the required RPA tools.
+
+3789145711
+AllCloud
+Account Manager - Data (m/f/d)
+Average Ranking:5.333333333333333
+LLM Output:
+Ranking: 4
+Comment: Die Stellenbeschreibung verlangt mehr als 5 Jahre Erfahrung in der Unternehmensberatung oder im technischen Vertrieb in einer Datenumgebung. Obwohl ich Erfahrung in der Entwicklung von Software und der Anwendung von maschinellem Lernen habe, erfülle ich diese Anforderung nicht. Außerdem wird eine relevante Berufserfahrung in Datenprojekten und Kenntnisse in AWS und Big Data Analytics gefordert, in denen ich weniger Erfahrung habe.
+
+3641555135
+Alter Solutions Deutschland
+(Senior) Consultant - Security Testing (m/w/d)
+Average Ranking:4.333333333333333
+LLM Output:
+Ranking: 4
+Comment: Obwohl du Kenntnisse in Python hast, was als Programmiersprache in der Stellenbeschreibung genannt wird, hast du weniger Erfahrung im Bereich Penetrationstests und Produktsicherheitsanalyse. Außerdem hast du keine der geforderten Zertifizierungen. Daher passen deine Fähigkeiten nicht perfekt zu der Stellenbeschreibung, aber es gibt einige Überschneidungen, die es dir ermöglichen könnten, dich in diesem Bereich weiterzuentwickeln.
+
+3683780899
+PACE
+Golang Developer m/w/d
+Average Ranking:4.333333333333333
+LLM Output:
+Ranking: 4
+Comment: Obwohl ich Erfahrung in der Softwareentwicklung und mit GIT habe, passt meine Erfahrung und Kenntnisse nicht genau zur Stellenbeschreibung. Ich habe keine Erfahrung mit Go oder Microservice-Architektur. Daher wäre es eine Herausforderung für mich, mich in diese neue Programmiersprache einzuarbeiten und nach den Anforderungen der Stelle zu arbeiten. Allerdings interessiere ich mich sehr für die Arbeit in einem innovativen Unternehmen und das Loftbüro in einer alten Burg in Karlsruhe klingt sehr spannend. 
+
+3725983312
+MegaPart GmbH
+Firmware Entwickler
+Average Ranking:6.0
+LLM Output:
+Ranking: 5
+Comment: Aufgrund deiner Erfahrung mit Maschinenbau und Data Science könntest du dich für den Job als Firmware Entwickler bewerben. Du hast Kenntnisse in den Programmiersprachen C und C++, Erfahrung mit Multi-Core- und Multi-Prozessor-Systemen sowie Erfahrung mit Echtzeitsystemen. Allerdings hast du keine spezifische Erfahrung mit Feldbussen, was in der Stellenbeschreibung erwähnt wird. Daher ist deine Passung für den Job nicht perfekt, aber immer noch ziemlich hoch.
+
+3733041086
+adesso SE
+DevOps Engineer / Consultant Infrastruktur - Automatisierung (all genders)
+Average Ranking:3.3333333333333335
+LLM Output:
+Ranking: 2
+Comment: Der Job als DevOps Engineer / Consultant Infrastruktur - Automatisierung scheint nicht gut zu meiner Erfahrung und Interessen zu passen. Meine Hauptinteressen liegen in maschinellem Lernen und Softwareentwicklung, während dieser Job hauptsächlich auf Infrastrukturautomatisierung und IT-Operations abzielt. Obwohl ich einige Erfahrung mit Automatisierungswerkzeugen wie Git und etwas Erfahrung mit Unix / Linux-Systemen habe, fehlen mir einige der anderen spezifischen Kenntnisse und Erfahrungen, die in der Stellenbeschreibung erwähnt werden. Daher würde ich mich für den Job nicht bewerben und gebe eine niedrige Bewertung von 2.
+
+3602147077
+Sycor
+Customer Service Developer Microsoft Dynamics 365 (m/w/d)
+Average Ranking:3.3333333333333335
+LLM Output:
+Ranking: 3
+Comment: Obwohl du eine gewisse Erfahrung mit der Softwareentwicklung hast, die für diesen Job relevant sein kann, passt der Job nicht gut zu deinen Interessen und Kenntnissen im Bereich maschinelles Lernen. Außerdem hast du keine Erfahrung mit Microsoft Dynamics AX / Microsoft Dynamics 365 und X++. Daher scheint dieser Job keine gute Übereinstimmung für dich zu sein.
+
+3786112592
+Siemens
+Pflichtpraktikum im Bereich Cloud Applications ab 04/2024
+Average Ranking:7.0
+LLM Output:
+Ranking: 7
+Comment: Based on your academic background in data science, experience in developing machine learning models, and knowledge of Python, you seem to be a good fit for this internship in cloud applications at Siemens. You have the required programming experience and knowledge in the cloud domain. However, since the job description specifically mentions a focus on AI-based services and good knowledge in the cloud, it might be worth highlighting any relevant experience or projects you have worked on in these areas to strengthen your application.
+
+3775651746
+Atruvia AG
+(Junior) System Engineer Identity- & Access-Management (m/w/d)
+Average Ranking:6.5
+LLM Output:
+Ranking: 7
+Comment: Ich bewerte mich mit einer 7, da ich über ein abgeschlossenes Studium der Informatik verfüge, Kenntnisse im Bereich Identity- und Access-Management-Verfahren und agiler Softwareentwicklung mitbringe. Ich habe auch Erfahrung mit Linux-/Unix-basierten Betriebssystemen und relationalen Datenbanken. Allerdings habe ich noch keine mehrjährige einschlägige Berufserfahrung in diesem Bereich und keine Erfahrung mit Cloud-Diensten. Aber ich bin bereit, mich einzuarbeiten und meinen Kenntnisstand zu vertiefen.
+
+3811337767
+TELUS International AI Data Solutions
+Home office: Internet Ads Assessors (m/f/d)
+Average Ranking:4.333333333333333
+LLM Output:
+Ranking: 5
+Comment: Obwohl die Stellenbeschreibung IT-bezogen ist, konzentriert sie sich auf die Bewertung und Verbesserung von Suchmaschinenergebnissen. Mein Wissen in maschinellem Lernen könnte mir dabei helfen, die Qualität der Suchergebnisse zu verbessern. Ich habe auch Erfahrung mit Webbrowsern und sozialen Medien. Allerdings habe ich keine Erfahrung in der Bewertung von Inhalten auf Grammatik und kulturelle Relevanz, was ein wichtiger Aspekt der Stelle zu sein scheint. Außerdem sucht das Unternehmen nach Kandidaten, die in Deutschland gelebt haben, und das stimmt mit meiner Situation überein. Aufgrund dieser Punkte denke ich, dass ich mich für den Job bewerben könnte, obwohl es einige Aspekte gibt, in denen ich mich noch weiterentwickeln müsste.
+
+
+3805036882
+Onity_
+Werkstudent Vertrieb Recruiting as a Service in Teilzeit
+Average Ranking:2.6666666666666665
+LLM Output:
+Ranking: 2
+Comment: Obwohl der Job teilzeit ist, ist das nicht das Hauptproblem. Der Hauptgrund dafür, dass ich ein so niedriges Ranking gebe, ist, dass der Job im Vertrieb und im Recruiting liegt, was nicht meinen Interessen im Bereich maschinelles Lernen und Softwareentwicklung entspricht. Ich habe zwar gute Kommunikationsfähigkeiten, aber ich habe keine Erfahrung im Recruiting oder im B2B-Vertrieb. Daher denke ich nicht, dass ich mich für diesen Job bewerben möchte.
+
+3719974866
+ADVERGY GmbH
+Java Softwareentwickler (m/w/d)
+Average Ranking:4.666666666666667
+LLM Output:
+Ranking: 4
+Comment: Obwohl der Job als Java Softwareentwickler einige relevante Kenntnisse erfordert, wie die Erfahrung mit Java und den Frameworks SpringBoot und Hibernate, passt er nicht perfekt zu meinen Fähigkeiten und Interessen im Bereich maschinelles Lernen und Produktion. Darüber hinaus habe ich wenig Erfahrung mit Datenbanken wie MySQL und Oracle. Daher würde ich mich wahrscheinlich nicht für diese Stelle bewerben.
+
+3804526156
+Nitrado
+Software Developer (m/f/x)
+Average Ranking:7.333333333333333
+LLM Output:
+Ranking: 8
+Comment: Aufgrund deiner Kenntnisse und Erfahrungen in der Softwareentwicklung, insbesondere in Python, könntest du gut zur Stellenbeschreibung als Softwareentwickler bei Nitrado passen. Obwohl du weniger Erfahrung mit den genannten Programmiersprachen hast, könntest du sie leicht erlernen. Dein Interesse an neuen Technologien und kreativen Ideen stimmt auch mit den Anforderungen überein. Es wäre eine gute Gelegenheit, maschinelles Lernen mit Softwareentwicklung zu kombinieren.
+
+3808803306
+Club of Code
+JavaScript-/TypeScript-Entwickler (m/w/d)
+Average Ranking:6.166666666666667
+LLM Output:
+Ranking: 6
+Comment: Ich denke, dass ich gut zu dieser Stellenbeschreibung passe. Ich habe Erfahrung in der Softwareentwicklung, einschließlich JavaScript und TypeScript, was auch für diese Stelle benötigt wird. Außerdem habe ich Kenntnisse in HTML und CSS. Allerdings habe ich weniger Erfahrung in den anderen genannten Technologien wie React, Vue.js, Node.js, Git, Docker und Kubernetes. Dennoch denke ich, dass ich in der Lage wäre, mich schnell in diese Technologien einzuarbeiten und einen Beitrag zu leisten.
+
+3788646815
+EnBW Energie Baden-Württemberg AG
+Requirements Engineer (w/m/d)
+Average Ranking:5.833333333333333
+LLM Output:
+Ranking: 5
+Comment: Du passt teilweise zur Stellenbeschreibung als Requirements Engineer. Du hast Erfahrung im Bereich Softwareentwicklung und Datenanalyse, was hilfreich sein könnte. Allerdings fehlt dir Erfahrung in der Energiebranche und mit Cloud- und SaaS-Lösungen, was möglicherweise von Vorteil wäre. Es könnte dennoch eine gute Möglichkeit sein, dich in diesem Bereich weiterzuentwickeln.
+
+3765252722
+msg for banking ag
+Junior IT Consultant / Banking (m/w/d)
+Average Ranking:2.6666666666666665
+LLM Output:
+Ranking: 2
+Comment: Ich denke, dass ich nur geringfügig zur Stellenbeschreibung passe. Obwohl ich Erfahrung in der Softwareentwicklung habe und einige Kenntnisse in einer Programmiersprache (Python) besitze, habe ich keine Erfahrung in Java oder C#. Auch fehlt mir die Erfahrung in IT-Architekturen, Software-Engineering und Datenbanken. Da ich mich jedoch für maschinelles Lernen und Cybersicherheit interessiere, könnte ich mich mit der Arbeit im Bereich IT-Beratung identifizieren. Allerdings fehlt mir die erforderliche Erfahrung und Ausbildung in diesem Bereich.
+
+3804612400
+simplicity networks GmbH
+Software Developer (m_w_d)
+Average Ranking:4.666666666666667
+LLM Output:
+Ranking: 5
+Comment: Aufgrund meiner Erfahrung in der Softwareentwicklung und meinen Kenntnissen in Programmiersprachen wie Python könnte ich mich gut für die Stelle als Software Developer bei simplicity networks GmbH bewerben. Ich habe auch gute Kenntnisse moderner Softwarearchitektur und Prinzipien des Software-Designs. Allerdings habe ich keine spezifische Erfahrung in den genannten Bereichen wie Microservices, Sicherheit Implementierung und Datenbanksystemen. Daher ist meine Bewertung etwas niedriger, da ich nicht alle Anforderungen der Stellenbeschreibung erfülle.
+
+3808634450
+Vesterling AG
+Softwaretester Testautomatisierung | .NET / C#, Python, Linux, VMware | Inhouse, Home-Office (mwd)
+Average Ranking:6.166666666666667
+LLM Output:
+Ranking: 5
+Comment: Der Job als Softwaretester Testautomatisierung hat einige Ähnlichkeiten mit meinen Fähigkeiten und Erfahrungen. Ich habe Erfahrung im Software-Testing, auch wenn mein Schwerpunkt nicht besonders auf automatisierten Software-Tests liegt. Ich habe Kenntnisse in den Programmiersprachen .NET/C# und Python, was in diesem Job von Vorteil ist. Allerdings habe ich keine Erfahrung mit dem Betriebssystem Linux, VMware und der Netzwerktechnik. Daher würde ich mich aufgrund meiner begrenzten Erfahrung in einigen Bereichen mit einer Bewertung von 5 bewerten.
+
+3806123263
+Quants AG
+JUNIOR PORTFOLIOMANAGER (M/W/D)
+Average Ranking:2.5
+LLM Output:
+Ranking: 2
+Comment: 
+Als Junior Portfoliomanager in der Finanzbranche ist es wichtig, analytische Fähigkeiten und Kenntnisse in der Unternehmensbewertung zu haben. Obwohl du ein Studium in Maschinenbau mit Schwerpunkt Data Science hast, besitzt du auch Kenntnisse in Python und SQL, was in der Finanzbranche von Vorteil sein könnte. Jedoch fehlen dir Erfahrungen in der Unternehmensanalyse und in der Programmiersprache VBA. Daher würde ich dir eine Bewertung von 2 geben und empfehlen, dich weiterzuentwickeln, wenn du dich für diesen Job interessierst.
+
+3786108961
+Siemens
+Pflichtpraktikum im Bereich Cloud Applications ab 04/2024
+Average Ranking:7.333333333333333
+LLM Output:
+Ranking: 7
+Comment: Ich würde sagen, dass du gut zur Stellenbeschreibung von Siemens passt. Du hast Erfahrung mit der Entwicklung von AI-gesteuerten Anwendungen und hast bereits umfangreiche Erfahrungen mit der Programmiersprache Python gesammelt. Außerdem hast du Kenntnisse im Bereich Cloud und analytisches Denken ist eine deiner Schlüsselkompetenzen. Das Praktikum ab 04/2024 würde dir die Möglichkeit bieten, weitere Erfahrungen in diesem Bereich zu sammeln und dich in die Welt der Elektrifizierung, Automatisierung und Digitalisierung einzubringen.
+
+3780309719
+Nigel Frank International
+Java Fullstack Developer (m/w) -100% remote- 75.000EUR
+Average Ranking:4.666666666666667
+LLM Output:
+Ranking: 6
+Comment: Ich denke, dass ich mich gut für diese Stelle bewerben kann, da ich Erfahrung in der Programmiersprache Java und in Frontend Frameworks wie Angular habe. Ich habe auch Erfahrung in der Softwareentwicklung im Backend und in der Arbeit in agilen Teams. Allerdings fehlt mir noch Erfahrung in Spring, CI/CD und Docker/Kubernetes, aber ich bin bereit, diese Kenntnisse zu lernen. Außerdem erfülle ich die Anforderungen bezüglich des abgeschlossenen Informatikstudiums und meiner guten Deutsch- und Englischkenntnisse.
+
+3802694933
+Smart Host
+Sales Manager (m/w/d) - Remote von Deutschland / Österreich
+Average Ranking:4.666666666666667
+LLM Output:
+Ranking: 5
+Comment: Die Stellenbeschreibung als Sales Manager passt nicht perfekt zu meinem Hintergrund in maschinellem Lernen und Softwareentwicklung. Ich habe jedoch einige Erfahrung im Bereich der Technologie und könnte Potenzial haben, innovative Lösungen für die Hotelbranche zu präsentieren.
+
+3734610115
+msg
+(Junior) Consultant im Bereich aktuarielle Beratung (m/w/d)
+Average Ranking:3.0
+LLM Output:
+Ranking: 3
+Comment: Obwohl ich ein abgeschlossenes Studium im Bereich Data Science habe und Kenntnisse in Python und C++ besitze, passen meine Erfahrungen und Kenntnisse nicht gut zu dieser Stellenbeschreibung. Der Job erfordert ein abgeschlossenes Studium der Mathematik, insbesondere mit Schwerpunkt Versicherung / Aktuarswissenschaften, sowie Kenntnisse in einer objektorientierten Programmiersprache wie C, C++ oder Java. Da ich keine Erfahrung oder Kenntnisse im Bereich der Versicherungsbranche habe und auch keine Ausbildung zum Aktuar absolviert habe, denke ich, dass ich nicht gut zur Stellenbeschreibung passe.
+
+3798611566
+zvoove
+Mobile Flutter Entwickler (m/w/d) Voll- oder Teilzeit
+Average Ranking:6.0
+LLM Output:
+Ranking: 6
+Comment: Deine Kenntnisse in Python und Data Science könnten für die Arbeit in der App-Entwicklung mit Flutter und Dart nützlich sein. Außerdem hast du Erfahrung in der Entwicklung von Bilderkennungspipelines und der Arbeit an KI-Projekten. Es gibt jedoch auch einige fehlende Kenntnisse, wie z.B. Ruby on Rails und PostgreSQL. Insgesamt denke ich, dass du gut zur Stellenbeschreibung passt und dich aufgrund deiner vorhandenen Erfahrungen bewerben solltest.
+
+3750064487
+Workwise
+Projektingenieur - Kundenservice / Administration / Beratung / Konzeption (m/w/d)
+Average Ranking:5.833333333333333
+LLM Output:
+Ranking: 5
+Comment: Ich bin mir nicht sicher, ob ich mich für diesen Job bewerben möchte. Obwohl ich Erfahrung in der Anwendung einer Programmiersprache habe und ein Grundwissen über IT-Netzwerke und Entwicklertools habe, habe ich keine spezifischen Kenntnisse im PLM-System PTC Windchill oder einem ERP-System wie SAP. Außerdem habe ich keine Erfahrung mit Jira, Confluence oder anderen Anwendungen aus der Atlassian-Welt. Daher denke ich, dass meine Kenntnisse nicht perfekt zu den Anforderungen des Jobs passen und ich etwas zusätzliche Schulung und Erfahrung benötigen würde, um effektiv in dieser Rolle arbeiten zu können.
+
+3810424741
+Kenbun IT AG
+Software Developer (w/m/d) - Karlsruhe / Stuttgart / München / remote
+Average Ranking:7.833333333333333
+LLM Output:
+Ranking: 9
+Comment: Ich würde meine Bewertung als 9 geben, da ich einige Jahre Erfahrung in der Softwareentwicklung habe, insbesondere mit Python, was eine der geforderten Programmiersprachen ist. Zudem habe ich Erfahrung mit maschinellem Lernen und Big Data-Systemen, was ebenfalls in der Stellenbeschreibung gefordert wird. Das einzige fehlende Kriterium ist, dass ich keine Erfahrung mit AI-Technologien wie PyTorch und Tensorflow habe. Aber insgesamt denke ich, dass ich gut in die Rolle des Softwareentwicklers bei KENBUN passen könnte.
+
+3794034856
+Siemens
+Werkstudent*in (w/m/d) im Bereich Cybersecurity und Cloud -Technologien
+Average Ranking:7.0
+LLM Output:
+Ranking: 7
+Comment: Based on your experience in software development, particularly in Python, as well as your interest in cybersecurity and cloud technologies, you seem like a good fit for this position. Your experience in developing AI-driven solutions and your interest in Docker, Industrie 4.0, and cloud technologies are also relevant. Although you may not have extensive experience in cybersecurity, your willingness to learn and your background in data science make you a strong candidate. It would be beneficial to highlight your experience in software development, particularly in Python, and your interest in cybersecurity and cloud technologies in your application.
+
+3743702288
+SINC GmbH
+Softwareentwickler (m/w/d) Webtechnologien
+Average Ranking:4.666666666666667
+LLM Output:
+Ranking: 4
+Comment: Obwohl der Job im Bereich der Webentwicklung liegt, passen einige meiner Kenntnisse und Erfahrungen dazu. Ich habe Erfahrung mit der Entwicklung von Softwarelösungen und habe auch Erfahrung mit der Entwicklung von Web-Interfaces. Allerdings habe ich keine Erfahrung mit Angular und Ionic, den Frameworks, die in der Stellenbeschreibung genannt werden, und auch keine Erfahrung mit Typescript oder Kotlin. Ich denke, dass meine Kenntnisse in Python und C++ sowie meine Erfahrung mit maschinellem Lernen nicht gut zu diesem Job passen.
+
+3804066513
+APRIORI - business solutions AG
+Remote: Cloud Architekt (m/w/d)
+Average Ranking:5.666666666666667
+LLM Output:
+Ranking: 5
+Comment: Deine Kenntnisse und Erfahrungen im Bereich maschinelles Lernen und Softwareentwicklung könnten von Vorteil sein, aber du hast keine spezifische Erfahrung mit Cloud-Lösungen. Es könnte eine Lernkurve geben, um diese Anforderungen zu erfüllen. Es ist möglich, dass du dich für den Job bewerben könntest, aber du müsstest dich gut auf die erforderlichen Kenntnisse einlassen.
+
+3791862605
+T.CON GmbH & Co. KG
+Junior SAP Entwickler (m/w/d) Produktionsplanung
+Average Ranking:3.8333333333333335
+LLM Output:
+Ranking: 3
+Comment: 
+Obwohl du Erfahrung und Kenntnisse im Bereich der Softwareentwicklung hast, scheinst du keine Erfahrung mit SAP UI5/Fiori, HANA und ABAP zu haben, die in der Stellenbeschreibung erwähnt werden. Außerdem bezieht sich die Stellenbeschreibung auf die Produktionsplanung, während dein Fokus eher auf maschinellem Lernen und Cybersicherheit liegt. Daher scheinst du nicht sehr gut zur Stellenbeschreibung zu passen und ich würde dir raten, dich nicht für den Job zu bewerben.
+
+3810403996
+Kenbun IT AG
+AI Engineer (w/m/d) - Karlsruhe / Stuttgart / München / remote
+Average Ranking:8.0
+LLM Output:
+Ranking: 9
+Comment: Die Stellenbeschreibung passt sehr gut zu meinen Fähigkeiten und Interessen. Ich habe Erfahrung mit AI-Technologien wie PyTorch und Tensorflow, und ich habe auch Erfahrung in der Entwicklung von Cloud- und On-Premise Softwaresystemen im Bereich Artificial Intelligence. Zudem verfüge ich über fundiertes mathematisches und algorithmisches Verständnis. Obwohl ich nicht viel Erfahrung mit Rust habe, habe ich gute Kenntnisse in Python und C++. Meine Erfahrung in der Entwicklung von Machine Learning Modellen und meine gute Beherrschung von Deutsch und Englisch machen mich zu einem geeigneten Kandidaten für den Job.
+
+3803111595
+DIS AG
+Softwareentwickler (m/w/d) - Hybridanteil
+Average Ranking:4.333333333333333
+LLM Output:
+Ranking: 4
+Comment: Die Stellenbeschreibung für den Softwareentwickler (m/w/d) passt nicht perfekt zu meinem Hintergrund und meinen Interessen. Obwohl ich Kenntnisse in Java und C# habe, habe ich keine Erfahrung mit Microsoft Dynamics NAV. Zudem liegt der Schwerpunkt der Stellenbeschreibung auf Backend- und Frontend-Entwicklung, während ich eher an maschinellem Lernen und Datenanalyse interessiert bin. Ich würde jedoch eine Bewertung von 4 geben, da ich denke, dass ich einige meiner Fähigkeiten und Kenntnisse in die Softwareentwicklung einbringen könnte.
+
+3789360388
+ADVERGY GmbH
+Java Developer (m/w/d) | bis zu 100% Remote
+Average Ranking:4.833333333333333
+LLM Output:
+Ranking: 5.5
+Comment: Deine Kenntnisse in Python sind wahrscheinlich gut anwendbar für die Entwicklung von Softwarelösungen, jedoch wäre es vorteilhaft, wenn du auch Berufserfahrung mit Java hast. Auch deine Erfahrung mit maschinellem Lernen könnte nützlich sein, aber es ist nicht genau das, wonach das Unternehmen sucht. Es könnte sich lohnen, sich zu bewerben, um die Möglichkeit von Remote-Arbeit und die anderen Benefits zu nutzen, aber es gibt wahrscheinlich Kandidaten, die besser zur Stellenbeschreibung passen.
+

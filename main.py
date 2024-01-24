@@ -3,14 +3,16 @@ import webscraper as w
 import os
 from IPython.display import display
 
-job_url='https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/{}'
-url_template = "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={keywords}&location={location}&geoId={geo_id}&distance={distance}&f_E={level}&f_WT={employment_type}&start="
+if not os.path.exists("outputs"):
+    os.mkdir("outputs")
+    # specify output file
+output_file = "outputs/jobs.csv"
 
-
+#%%
 '''
 #################################################################################################################################
 This project aims to simplifly and automate the job search on LinkedIn. As a programmer the number of job offers can be overwhelming
-and its ineficcient to read 100+ job descriptions to find the right job. This project aims to solve this problem by scraping the job
+and its inefficient to read 100+ job descriptions to find the right job. This project aims to solve this problem by scraping job
 offers and compare the job descriptions with your formulated preferences, by utilizing chatGPTs API.
 
 ### HOW TO USE ###
@@ -21,11 +23,12 @@ offers and compare the job descriptions with your formulated preferences, by uti
 
 1) Create your vita and system input for the language model
 
-    - Create a text file with your vita and save it in the same folder as this file:            vita.txt
-    - Create a text file with your system input and save it in the same folder as this file:    system.txt
+    - Create a text file with your vita and save it in the same folder as this file:                vita.txt
+    - Create a text file with your system input and save it in the same folder as this file:        system.txt
+    - Create a text file with your chatGPT API key and save it in the same folder as this file:     api_key.txt
    
-    There are example files for both files in this folder. You can use them as a template.
-    Note that the language you use may affect the results of the language model, so I recommend to use the same language as the linkedIn is in your country.
+    There are example files for both in this folder. You can use them as a template.
+    Note that the language you use may affect the results of the language model, so I recommend to use the same language as the job offers.
     Also note that the script expects from the language model a response in the format: "Ranking: <your ranking> Comment: <your short explanation>"
 
 
@@ -44,7 +47,7 @@ offers and compare the job descriptions with your formulated preferences, by uti
     geo_id:             &geoId=<your geo id>
     distance            &distance=<your distance>
     level:              &f_E=<level filter tag>
-    employment_type:    &f_WT=<employment type filter tag>
+    work_type:          &f_WT=<work type filter tag>
 
     For example:
     settings_list = [
@@ -60,13 +63,13 @@ offers and compare the job descriptions with your formulated preferences, by uti
 
 3) Run the code
 
-    Run the simple_search function with the target urls and the job url. The job url is the url to the job description like:
+    Run the simple_search function with the target urls and the job url. The function returns a dataframe with the job offers and the job descriptions.:
 
     ---------------------------------------------------------------------------------------------------
     job_df = w.simple_search(target_urls, job_url, filter, number_of_jobs=100, do_max=None)
     ---------------------------------------------------------------------------------------------------
 
-    target_urls:        List of urls to scrape to search multiple query options. You can create this list with the create_target_url_list function.
+    target_urls:        List of urls to scrape for multiple query options. You can create this list with the create_target_url_list() function.
 
     job_url:            Url to the job description. The Url points to LinkedIn's job description API endpoint. You can adjust it if needed at the top of this file.
                         You can also adjust the url template at the top of this file, if needed. But this is only necessary if LinkedIn changes the url structure.
@@ -80,11 +83,15 @@ offers and compare the job descriptions with your formulated preferences, by uti
     do_max:             Only for testing purposes. If you want to test the code, you can set this to a low number, for deployment set to None.
                         The script will stop requesting job descriptions after the do_max threshold is reached.
 
-    
-    The Results are saved in a csv file in the same folder as this file.
+    llm_iter:           Number of iterations for the language model to rank the job descriptions. The mean ranking is used for the final ranking.
 
+    The results will be saved in a csv file in the outputs folder. The file name is specified at the top of this file.
+    
 ##################################################################################################################################
 '''
+
+job_url='https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/{}'
+url_template = 'https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={keywords}&location={location}&geoId={geo_id}&distance={distance}&f_E={level}&f_WT={work_type}&start='
 
 
 query_list = [
@@ -98,7 +105,7 @@ query_list = [
         "keywords": "Python+(Programmiersprache)", 
         "location": "Germany", 
         "geo_id": "101282230",
-        "employment_type": "2",
+        "work_type": "2",
     },
     {   # keyword: machine learning in Karlsruhe, no employment type filter
         "keywords": "Maschinelles+Lernen", 
@@ -110,21 +117,20 @@ query_list = [
         "keywords": "Maschinelles+Lernen", 
         "location": "Germany", 
         "geo_id": "101282230",
-        "employment_type": "2",
+        "work_type": "2",
     },
 
 ]
 
+# set filter
 filter = {"Seniority level": ["Associate", "Entry level"]}
 # create list of urls to scrape for each query
 target_urls = w.create_target_url_list(query_list, url_template)
+#%%
 # scrape jobs
-job_df = w.simple_search(target_urls, job_url, filter, number_of_jobs=400, do_max=None)
-
-#%% 
-# display jobs dataframes
-display(job_df)
+job_df = w.scrape_jobs(target_urls, job_url, filter, number_of_jobs=400, do_max=None, llm_iter=3)
 # save job_df to csv
-if not os.path.exists("outputs/jobs.csv"):
-    os.mkdir("outputs")
-job_df.to_csv("outputs/jobs.csv", index=False, sep=";")
+job_df.to_csv(output_file, index=False, sep=";")
+#%%
+# load the job_df from csv and display
+top_jobs_df = w.load_csv(output_file, top=20)
