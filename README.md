@@ -44,12 +44,12 @@ Copy the contents of the following parameters into a dictionary:
 
 | Parameter | Query String in URL| Description |
 | --- | --- | --- |
-| Keywords | `&keywords=<your keywords>` | Keywords related to the job you're searching |
-| Location | `&location=<your location>` | Desired job location |
-| Geo ID | `&geoId=<your geo id>` | Geographical ID of your desired location |
-| Distance | `&distance=<your distance>` | Distance within your job location or geo id |
-| Level | `&f_E=<level filter tag>` | Job level filter tag (for ex: Associate Level, Entry Level, etc.) |
-| Work Type | `&f_WT=<work type filter tag>` | Work type filter tag (for ex: Full-time, Part-time, etc.) |
+| keywords | `&keywords=<your keywords>` | Keywords related to the job you're searching |
+| location | `&location=<your location>` | Desired job location |
+| geo_id | `&geoId=<your geo id>` | Geographical ID of your desired location |
+| distance | `&distance=<your distance>` | Distance within your job location or geo id |
+| level | `&f_E=<level filter tag>` | Job level filter tag (for ex: Associate Level, Entry Level, etc.) |
+| work_type | `&f_WT=<work type filter tag>` | Work type filter tag (for ex: Full-time, Part-time, etc.) |
 
 
 For example:
