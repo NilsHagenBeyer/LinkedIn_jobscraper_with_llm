@@ -78,6 +78,7 @@ def get_job_content(job_url, job_ids, do_max=None):
             job_dic["job-title"]=soup.find("div",{"class":"top-card-layout__entity-info"}).find("a").text.strip()
         except:
             job_dic["job-title"]=None
+        
         # criteria
         try:
             items = soup.find_all("li", {"class": "description__job-criteria-item"})
@@ -87,6 +88,7 @@ def get_job_content(job_url, job_ids, do_max=None):
                 job_dic[header]=value
         except:
             job_dic["criteria"]=None
+        
         # description
         try:
             text = soup.find("div",{"class":"description__text description__text--rich"}).get_text(separator="\n").replace("Show more", "").replace("Show less", "").lstrip('\n ').rstrip('\n ')
@@ -184,7 +186,7 @@ def save_jobs_to_file(job_id_list, filename):
         for job_id in job_id_list:
             file.write(f"{job_id}\n")
 
-def scrape_jobs(target_urls, job_url, filter, number_of_jobs=2000, do_max=None, llm_iter=1, savefile="job_ids.txt"):    
+def scrape_jobs(target_urls, job_url, filter=None, number_of_jobs=2000, do_max=None, llm_iter=1, savefile="job_ids.txt"):    
     # main function
     
     try:
@@ -206,14 +208,15 @@ def scrape_jobs(target_urls, job_url, filter, number_of_jobs=2000, do_max=None, 
     save_jobs_to_file(job_id_list, savefile)    #save job ids to file
     
     job_description=get_job_content(job_url, job_id_list, do_max=do_max)    # get job description and metadata
-    filtered_jobs = filter_jobs(job_description, filter)    # filter jobs by constraints
+    if not filter == None:
+        job_description = filter_jobs(job_description, filter)    # filter jobs by constraints
 
     api_key = get_api_key()
     system = read_file_content("system.txt")
     vita = read_file_content("vita.txt")
 
-    print(f"Found {len(filtered_jobs)} jobs. Starting ranking...")
-    for job_description in filtered_jobs:
+    print(f"Found {len(job_description)} jobs. Starting ranking...")
+    for job_description in job_description:
         if not job_description["company"] == None:
             
             # get ranking from llm

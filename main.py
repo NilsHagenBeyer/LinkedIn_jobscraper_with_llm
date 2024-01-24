@@ -44,7 +44,7 @@ offers and compare the job descriptions with your formulated preferences, by uti
     get the stings for 
     keywords:           &keywords=<your keywords>
     location:           &location=<your location>
-    geo_id:             &geoId=<your geo id>
+    geo_id:             &geoId=<your geo id> 
     distance            &distance=<your distance>
     level:              &f_E=<level filter tag>
     work_type:          &f_WT=<work type filter tag>
@@ -57,6 +57,12 @@ offers and compare the job descriptions with your formulated preferences, by uti
     ]
 
     You also can set a filter dictionary. The filter dictionary contains the filter tag as key and a list of filter options as value.
+    The following filter tags are available:
+
+    Seniority level     ["Associate", "Entry level", "Mid-Senior level", "Director", "Executive"]
+    Employment type     ["Full-time", "Part-time", "Temporary", "Contract", "Internship", "Volunteer", "Other"]
+    Job function        ["Engineering", "Information Technology"....] Check the website for all options
+    Industries          ["Computer Software", "Information Technology & Services"...] Check the website for all options
 
     For example: 
     filter = {"Seniority level": ["Associate", "Entry level"]}
@@ -124,13 +130,17 @@ query_list = [
 
 # set filter
 filter = {"Seniority level": ["Associate", "Entry level"]}
+
 # create list of urls to scrape for each query
 target_urls = w.create_target_url_list(query_list, url_template)
 #%%
+
 # scrape jobs
-job_df = w.scrape_jobs(target_urls, job_url, filter, number_of_jobs=400, do_max=None, llm_iter=3)
+job_df = w.scrape_jobs(target_urls, job_url, filter=filter, number_of_jobs=400, do_max=None, llm_iter=3)
+
 # save job_df to csv
 job_df.to_csv(output_file, index=False, sep=";")
+
 #%%
 # load the job_df from csv and display
 top_jobs_df = w.load_csv(output_file, top=20)
