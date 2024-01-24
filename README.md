@@ -4,9 +4,6 @@ This project is based on the following project:
 
 https://github.com/llorenspujol/linkedin-jobs-scraper
 
-#
-
-This project provides the code for automating your LinkedIn job search. It's specifically designed to streamline the process for programmers who need to go through numerous job postings on LinkedIn. The task is achieved through web scraping the job offers and comparing the job descriptions with your preferences. The resulting output is ranked based on the match between the job descriptions and set preferences using ChatGPT's API.
 
 # LinkedIn Job Search Automation
 
