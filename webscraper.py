@@ -133,7 +133,7 @@ def get_job_content(job_url: str, job_ids: list, do_max=False) -> list:
 
         # break if max is reached
         c+=1
-        if do_max != False:
+        if do_max:
             if c>=do_max:
                 break
 
@@ -203,7 +203,7 @@ def promt_llm(api_key: str, system: str, vita: str, job_description: str, model=
     )
     return completion.choices[0].message.content
 
-def extract_llm_contents(llm_output: str, recursive=False) -> tuple:
+def extract_llm_contents(llm_output, recursive=False):
     """Extract ranking and explanation from language model output.
 
     Args:
@@ -272,7 +272,9 @@ def scrape_jobs(target_urls: list, job_url: str, filter=None, number_of_jobs=100
         pd.DataFrame: dataframe containing all job contents and ranking.
     """
     try:
+        print("Loading save file...")
         job_id_list=get_saved_jobs_from_file(savefile)  # load job ids from file
+        print(f"Load {len(job_id_list)} saved jobs.")
     except FileNotFoundError:
         job_id_list=[]
         print("No save file found. Making new one.")

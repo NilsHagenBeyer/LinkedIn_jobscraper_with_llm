@@ -129,7 +129,7 @@ query_list = [
 ]
 
 # set filter
-filter = {"Seniority level": ["Associate", "Entry level"]}
+filter = {"Seniority level": "Entry level"}
 
 # create list of urls to scrape for each query
 target_urls = w.create_target_url_list(query_list, url_template)
