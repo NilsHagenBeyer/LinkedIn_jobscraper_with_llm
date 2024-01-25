@@ -11,14 +11,25 @@ from collections import defaultdict
 
 #headers={"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"}
 
-def get_api_key():
-    # read api key from file
+def get_api_key() -> str:
+    """Reads the openAI api key from a file.
+
+    Returns:
+        str: _description_
+    """
     with open("api_key.txt", "r") as file:
         api_key = file.readline().strip()  # remove newline if present
     return api_key
 
-def read_file_content(name):
-    # read text from file
+def read_file_content(name: str) -> str:
+    """Read content from file.
+
+    Args:
+        name (str): filename
+
+    Returns:
+        str: file content
+    """
     try:
         with open(name, "r", encoding="utf8") as file:
             content = file.read()
@@ -27,8 +38,16 @@ def read_file_content(name):
         print("File not found.")
         return ""
 
-def get_job_ids(target_url, number_of_jobs=1000):
-    # read job ids from linkedin of given url, note that number_of_jobs is the expected total number of jobs for the query
+def get_job_ids(target_url: str, number_of_jobs=1000) -> list:
+    """Get job ids from linkedin of given url.
+
+    Args:
+        target_url (str): job query url.
+        number_of_jobs (int, optional): total number of jobs found for the query. Defaults to 1000.
+
+    Returns:
+        list: list of job ids.
+    """
     job_id_list=[]
     for i in range(0,math.ceil(number_of_jobs/25)):     # get number of pages to scrape (usually 25 jobs per page)
         res = requests.get(target_url.replace("&start=", f"&start={i}"))
@@ -49,7 +68,17 @@ def get_job_ids(target_url, number_of_jobs=1000):
 
     return job_id_list
 
-def get_job_content(job_url, job_ids, do_max=None):
+def get_job_content(job_url: str, job_ids: list, do_max=False) -> list:
+    """Scrape job content from linkedin of given job ids.
+
+    Args:
+        job_url (str): url template to combine with job id to scrape job contents
+        job_ids (list): list of job ids.
+        do_max (_type_, optional): max number of jobs to scrape (reduce runtime for testing). Defaults to False.
+
+    Returns:
+        list: list of dictionaries each containing the job content of one job.
+    """
     # get job content from linkedin of given job ids, do_max is the maximum number of jobs to scrape to limit the runtime for testing purposes
     job_conten_list=[]
     c = 0
@@ -104,14 +133,23 @@ def get_job_content(job_url, job_ids, do_max=None):
 
         # break if max is reached
         c+=1
-        if do_max != None:
+        if do_max != False:
             if c>=do_max:
                 break
 
     return job_conten_list
 
-def filter_jobs(job_content_list, constraints):
-    # filter jobs by constraints    
+def filter_jobs(job_content_list: list, constraints: dict) -> list:
+    """Filters jobs by constraints.
+
+    Args:
+        job_content_list (list): list of dictionaries each containing the job content of one job.
+        constraints (dict): dictionary containing the constraints. Dict values can be a list of options or a single option.
+
+    Returns:
+        list: list of dictionaries each containing the job content of filtered jobs.
+    """
+
     filtered_jobs=[]
     if constraints == None:
         return job_content_list
@@ -141,8 +179,19 @@ def filter_jobs(job_content_list, constraints):
     print(f"From {len(job_content_list)} removed {len(job_content_list)-len(filtered_jobs)} jobs.")
     return filtered_jobs
 
-def promt_llm(api_key, system, vita, job_description, model="gpt-3.5-turbo"):
-    # get a llm responst to system, vita and job description (ranking and explanation, dependent on system.txt input)
+def promt_llm(api_key: str, system: str, vita: str, job_description: str, model="gpt-3.5-turbo") -> str:
+    """Promt the language model with the given inputs.
+
+    Args:
+        api_key (str): OpenAI API key.
+        system (str): System input for the language model (General task description)
+        vita (str): User input for the language model (Your vita)
+        job_description (str): Description of the job offer, retrieved from linkedin.
+        model (str, optional): Type of language model. See OpenAIs documentation. Defaults to "gpt-3.5-turbo".
+
+    Returns:
+        str: Response from the language model.
+    """
     client = OpenAI(api_key=api_key)
     completion = client.chat.completions.create(
     model=model,
@@ -154,7 +203,16 @@ def promt_llm(api_key, system, vita, job_description, model="gpt-3.5-turbo"):
     )
     return completion.choices[0].message.content
 
-def extract_llm_contents(llm_output, recursive=False):
+def extract_llm_contents(llm_output: str, recursive=False) -> tuple:
+    """Extract ranking and explanation from language model output.
+
+    Args:
+        llm_output (str): language model output.
+        recursive (bool, optional): Flag to indicate if the function was called recursively, to prevent infinite loops. Defaults to False.
+
+    Returns:
+        tuple: ranking (float) and explanation (str)
+    """
     # split string into ranking and explanation, note that the language model must output the ranking in the format: "Ranking: <your ranking> Comment: <your short explanation>"
     # if the language model does not output the ranking in the correct format, the function will try to extract the ranking once again
     try:
@@ -172,23 +230,47 @@ def extract_llm_contents(llm_output, recursive=False):
     
     return ranking, explanation
 
-def get_saved_jobs_from_file(filename):
-    # read lines into a list
+def get_saved_jobs_from_file(filename: str) -> list:
+    """Reads job ids from file.
+
+    Args:
+        filename (str): filename
+
+    Returns:
+        list: list of job ids
+    """
     with open(filename, "r") as file:
         job_id_list = file.readlines()
     # remove newline from each line
     job_id_list = [x.strip() for x in job_id_list]
     return job_id_list
 
-def save_jobs_to_file(job_id_list, filename):
-    # write lines into a file
+def save_jobs_to_file(job_id_list: list, filename: str):
+    """Save job ids to file.
+
+    Args:
+        job_id_list (list): list of job ids
+        filename (str): filename
+    """
     with open(filename, "w") as file:
         for job_id in job_id_list:
             file.write(f"{job_id}\n")
 
-def scrape_jobs(target_urls, job_url, filter=None, number_of_jobs=2000, do_max=None, llm_iter=1, savefile="job_ids.txt"):    
-    # main function
-    
+def scrape_jobs(target_urls: list, job_url: str, filter=None, number_of_jobs=1000, do_max=None, llm_iter=1, savefile="job_ids.txt") -> pd.DataFrame:
+    """Scrape jobs from linkedin for different query settings and rank them with the language model.
+
+    Args:
+        target_urls (list): list of urls to scrape for multiple query options.
+        job_url (str): url template to combine with job id to scrape job contents
+        filter (dict, optional): filter constraints. Defaults to None.
+        number_of_jobs (int, optional): total number of jobs found for the query. Defaults to 1000.
+        do_max (int, optional): max number of jobs to scrape (reduce runtime for testing). Defaults to None.
+        llm_iter (int, optional): number of iterations for the language model to rank the job descriptions. The mean ranking is used for the final ranking. Defaults to 1.
+        savefile (str, optional): filename to save job ids. Defaults to "job_ids.txt".
+
+    Returns:
+        pd.DataFrame: dataframe containing all job contents and ranking.
+    """
     try:
         job_id_list=get_saved_jobs_from_file(savefile)  # load job ids from file
     except FileNotFoundError:
@@ -244,7 +326,16 @@ def scrape_jobs(target_urls, job_url, filter=None, number_of_jobs=2000, do_max=N
     
     return jobs_df
 
-def create_target_url_list(query_list, url_template):
+def create_target_url_list(query_list: list, url_template:str) -> list:
+    """Create list of urls to scrape for each query.
+
+    Args:
+        query_list (list): list of dicts containing query parameters
+        url_template (str): url template to combine with query parameters
+
+    Returns:
+        list: list of urls to scrape for each query
+    """
     target_urls = []
     for query_parameters in query_list:
         param = defaultdict(str) # set default value to empty string
@@ -252,8 +343,16 @@ def create_target_url_list(query_list, url_template):
         target_urls.append(url_template.format_map(param))
     return target_urls
 
-# load csv into dataframe, sort for ranking and return top x jobs
-def load_csv(filename, top=10):
+def load_csv(filename: str, top=10) -> pd.DataFrame:
+    """Load csv into dataframe, sort for ranking and return top x jobs. Links to the top x jobs are printed.
+
+    Args:
+        filename (str): filename
+        top (int, optional): number of top jobs to return. Defaults to 10.
+
+    Returns:
+        pd.DataFrame: dataframe containing top jobs
+    """
     df = pd.read_csv(filename, sep=";")
     df = df.sort_values(by=['ranking'], ascending=False)    
     # print out all links in from top_link
