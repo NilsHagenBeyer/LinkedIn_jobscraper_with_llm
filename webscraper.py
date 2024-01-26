@@ -220,7 +220,7 @@ def extract_llm_contents(llm_output, recursive=False):
     except (ValueError, IndexError):
         if not recursive:
             print("Response Format Error: Ranking not found in llm response. Trying again...")
-            ranking = extract_llm_contents(llm_output, recursive=True)
+            ranking, explanation = extract_llm_contents(llm_output, recursive=True)
         else:
             ranking = 5.0
     try:
@@ -283,7 +283,7 @@ def scrape_jobs(target_urls: list, job_url: str, filter=None, number_of_jobs=100
     # scrape job ids
     for target_url in target_urls:
         print(f"Scraping: {target_url}")
-        job_ids=get_job_ids(target_url, number_of_jobs=number_of_jobs) #TODO relocate number of jobs input
+        job_ids=get_job_ids(target_url, number_of_jobs=number_of_jobs)
         job_id_list.extend(job_ids)         # append job ids to list
     job_id_list = list(set(job_id_list))    # remove duplicates in job id list
     print(f"\nFound {len(job_id_list)} jobs.")    

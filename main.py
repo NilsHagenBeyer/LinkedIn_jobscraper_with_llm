@@ -144,3 +144,5 @@ job_df.to_csv(output_file, index=False, sep=";")
 #%%
 # load the job_df from csv and display
 top_jobs_df = w.load_csv(output_file, top=20)
+
+# %%
