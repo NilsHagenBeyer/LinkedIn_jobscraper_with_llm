@@ -98,9 +98,9 @@ offers and compare the job descriptions with your formulated preferences, by uti
 
 job_url='https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/{}'
 url_template = 'https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={keywords}&location={location}&geoId={geo_id}&distance={distance}&f_E={level}&f_WT={work_type}&start='
+#url_template = 'https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={keywords}&location={location}&geoId={geo_id}&f_E={level}&f_WT={work_type}&start='
 
-
-query_list = [
+'''query_list = [
     {   # keyword: Python in Karlsruhe, no employment type filter
         "keywords": "Python+(Programmiersprache)", 
         "location": "Karlsruhe%2C+Baden-Württemberg%2C+Germany", 
@@ -126,23 +126,62 @@ query_list = [
         "work_type": "2",
     },
 
+]'''
+
+query_list = [
+    {   # keyword: Python in Karlsruhe, no employment type filter
+        "keywords": "Python+(Programmiersprache)", 
+        "location": "Karlsruhe%2C+Baden-Württemberg%2C+Germany", 
+        "geo_id": "106523486",
+        "distance": "10",
+    },
+    {   # keyword: machine learning in Karlsruhe, no employment type filter
+        "keywords": "Maschinelles+Lernen", 
+        "location": "Karlsruhe%2C+Baden-Württemberg%2C+Germany", 
+        "geo_id": "106523486",
+        "distance": "10",
+    },
 ]
 
+'''query_list = [
+    {   # keyword. Python in Germany only remote
+        "keywords": "Python+(Programmiersprache)", 
+        "location": "Germany", 
+        "geo_id": "101282230",
+        "work_type": "2",
+    },
+    {   # keyword. machine learning in Germany only remote
+        "keywords": "Maschinelles+Lernen", 
+        "location": "Germany", 
+        "geo_id": "101282230",
+        "work_type": "2",
+    },
+
+]'''
+
+
+# TODO Datetime Chekc
+# TODO How long is the application online
+
+
 # set filter
-filter = {"Seniority level": "Entry level"}
+filter = {"Seniority level": ["Entry level", "Associate"]}
 
 # create list of urls to scrape for each query
 target_urls = w.create_target_url_list(query_list, url_template)
+
 #%%
 
 # scrape jobs
-job_df = w.scrape_jobs(target_urls, job_url, filter=filter, number_of_jobs=400, do_max=None, llm_iter=3)
+job_df = w.scrape_jobs(target_urls, job_url, filter=None, number_of_jobs=400, do_max=None, llm_iter=3)
 
 # save job_df to csv
-job_df.to_csv(output_file, index=False, sep=";")
+#job_df.to_csv(output_file, index=False, sep=";")
+# append job_df to csv
+job_df.to_csv(output_file, mode='a', header=False, index=False, sep=";")
 
 #%%
 # load the job_df from csv and display
-top_jobs_df = w.load_csv(output_file, top=20)
+top_jobs_df = w.load_csv(output_file, top=50)
 
 # %%

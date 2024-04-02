@@ -8,6 +8,9 @@ import json
 from openai import OpenAI
 from IPython.display import display
 from collections import defaultdict
+from requests.exceptions import RequestException
+import time
+from requests.adapters import HTTPAdapter
 
 #headers={"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"}
 
@@ -38,6 +41,22 @@ def read_file_content(name: str) -> str:
         print("File not found.")
         return ""
 
+def obtain_linkedin_cookies(username: str, password: str, session=None):
+    LOGIN_ROUTE = 'https://www.linkedin.com/checkpoint/lg/login'
+    
+    html = session.get(LOGIN_ROUTE).content
+    soup = BeautifulSoup(html, 'html.parser')
+    csrf = soup.find('input', {'name': 'loginCsrfParam'}).get('value')
+
+    login_information = {
+        'session_key': username,
+        'session_password': password,
+        'loginCsrfParam': csrf,
+    }
+
+    session.post(LOGIN_ROUTE, data=login_information)
+    return session
+
 def get_job_ids(target_url: str, number_of_jobs=1000) -> list:
     """Get job ids from linkedin of given url.
 
@@ -49,10 +68,30 @@ def get_job_ids(target_url: str, number_of_jobs=1000) -> list:
         list: list of job ids.
     """
     job_id_list=[]
-    for i in range(0,math.ceil(number_of_jobs/25)):     # get number of pages to scrape (usually 25 jobs per page)
-        res = requests.get(target_url.replace("&start=", f"&start={i}"))
+
+    #session = requests.session()
+    #obtain_linkedin_cookies('nibey5@gmail.com', 'warstwusser', session=session) 
+
+    for i in range(0,math.ceil(number_of_jobs/25)):     # get number of pages to scrape (usually 25 jobs per page)        
+        
+        this_target_url = target_url.replace("&start=", f"&start={i}")
+        #print(this_target_url)
+        
+        res = requests.get(this_target_url)
+        #res = session.get(this_target_url)        
         soup=BeautifulSoup(res.text,'html.parser')
         alljobs_on_this_page=soup.find_all("li")
+
+        '''try:
+            res = session.get(this_target_url,  timeout=5)
+            res.raise_for_status()
+            soup = BeautifulSoup(res.text, 'html.parser')
+            alljobs_on_this_page=soup.find_all("li")
+
+        except RequestException as e:
+            print(e)
+            alljobs_on_this_page=[]
+            time.sleep(1)'''
         
 
         for x in range(0,len(alljobs_on_this_page)):    # extract job id and save it to list
@@ -279,19 +318,23 @@ def scrape_jobs(target_urls: list, job_url: str, filter=None, number_of_jobs=100
         job_id_list=[]
         print("No save file found. Making new one.")
     
-    jobs_df = pd.DataFrame()
+    
     # scrape job ids
     for target_url in target_urls:
         print(f"Scraping: {target_url}")
         job_ids=get_job_ids(target_url, number_of_jobs=number_of_jobs)
-        job_id_list.extend(job_ids)         # append job ids to list
+        job_id_list.extend(job_ids)         # append job ids to list    
     job_id_list = list(set(job_id_list))    # remove duplicates in job id list
     print(f"\nFound {len(job_id_list)} jobs.")    
     print(f"Found {len(job_id_list)} unique jobs.")
-    
+
+    # extract list of new jobs and save to file
+    new_job_ids = [x for x in job_id_list if x not in get_saved_jobs_from_file(savefile)]    
+    # save all job ids back to file
     save_jobs_to_file(job_id_list, savefile)    #save job ids to file
     
-    job_description=get_job_content(job_url, job_id_list, do_max=do_max)    # get job description and metadata
+    
+    job_description=get_job_content(job_url, new_job_ids, do_max=do_max)    # get job description and metadata
     if not filter == None:
         job_description = filter_jobs(job_description, filter)    # filter jobs by constraints
 
@@ -300,6 +343,7 @@ def scrape_jobs(target_urls: list, job_url: str, filter=None, number_of_jobs=100
     vita = read_file_content("vita.txt")
 
     print(f"Found {len(job_description)} jobs. Starting ranking...")
+    new_jobs_df = pd.DataFrame()
     for job_description in job_description:
         if not job_description["company"] == None:
             
@@ -315,10 +359,10 @@ def scrape_jobs(target_urls: list, job_url: str, filter=None, number_of_jobs=100
             # add all data to dataframe
             job_description["ranking"] = average_ranking
             job_description["explanation"] = explanation
-            jobs_df = pd.concat([jobs_df, pd.DataFrame(job_description, index=[0])], ignore_index=True)            
+            new_jobs_df = pd.concat([new_jobs_df, pd.DataFrame(job_description, index=[0])], ignore_index=True)            
 
             # sort dataframe by ranking 
-            jobs_df = jobs_df.sort_values(by=['ranking'], ascending=False)
+            new_jobs_df = new_jobs_df.sort_values(by=['ranking'], ascending=False)
             
             # save jobs to file
             job_string = f"{job_description['jobid']}\n{job_description['company']}\n{job_description['job-title']}\nAverage Ranking:{average_ranking}\nLLM Output:\n{output}\n\n"
@@ -326,7 +370,7 @@ def scrape_jobs(target_urls: list, job_url: str, filter=None, number_of_jobs=100
                 file.write(job_string)
             print(job_string)    
     
-    return jobs_df
+    return new_jobs_df
 
 def create_target_url_list(query_list: list, url_template:str) -> list:
     """Create list of urls to scrape for each query.
@@ -364,6 +408,24 @@ def load_csv(filename: str, top=10) -> pd.DataFrame:
     
     return df.head(top)
 
+def notify_user(rank_threshold: float, job_df: pd.DataFrame):
+    """Notify user if a job with a new ranking above the threshold is found.
+
+    Args:
+        rank_threshold (float): ranking threshold
+        job_df (pd.DataFrame): dataframe containing job contents and ranking
+    """
+    # keep entries with ranking above threshold
+    new_jobs = job_df[job_df["ranking"] > rank_threshold]
+    if not new_jobs.empty:
+        print("New jobs found!")
+        display(new_jobs)
+    else:
+        print("No new jobs found.")
+
+
 
 if __name__=="__main__":
     pass
+
+    
